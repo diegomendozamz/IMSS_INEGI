@@ -1,0 +1,1802 @@
+id_match	id_ent_inegi	entidad.x	id_muni_inegi	municipio.x	id_ent_gadm	entidad.y	id_muni_gadm	municipio.y
+MEX.1.1_101 001	1	Aguascalientes	01 001	Aguascalientes	MEX.1_1	Aguascalientes	MEX.1.1_1	Aguascalientes
+MEX.1.2_101 002	1	Aguascalientes	01 002	Asientos	MEX.1_1	Aguascalientes	MEX.1.2_1	Asientos
+MEX.1.3_101 003	1	Aguascalientes	01 003	Calvillo	MEX.1_1	Aguascalientes	MEX.1.3_1	Calvillo
+MEX.1.4_101 004	1	Aguascalientes	01 004	Cosío	MEX.1_1	Aguascalientes	MEX.1.4_1	Cosío
+MEX.1.5_101 005	1	Aguascalientes	01 005	Jesús María	MEX.1_1	Aguascalientes	MEX.1.5_1	Jesús María
+MEX.1.6_101 006	1	Aguascalientes	01 006	Pabellón de Arteaga	MEX.1_1	Aguascalientes	MEX.1.6_1	Pabellón de Arteaga
+MEX.1.7_101 007	1	Aguascalientes	01 007	Rincón de Romos	MEX.1_1	Aguascalientes	MEX.1.7_1	Rincón de Romos
+MEX.1.8_101 008	1	Aguascalientes	01 008	San José de Gracia	MEX.1_1	Aguascalientes	MEX.1.8_1	San José de Gracia
+MEX.1.9_101 009	1	Aguascalientes	01 009	Tepezalá	MEX.1_1	Aguascalientes	MEX.1.9_1	Tepezalá
+MEX.3.1_102 001	2	Baja California	02 001	Ensenada	MEX.3_1	Baja California	MEX.3.1_1	Ensenada
+MEX.3.2_102 002	2	Baja California	02 002	Mexicali	MEX.3_1	Baja California	MEX.3.2_1	Mexicali
+MEX.3.4_102 003	2	Baja California	02 003	Tecate	MEX.3_1	Baja California	MEX.3.4_1	Tecate
+MEX.3.5_102 004	2	Baja California	02 004	Tijuana	MEX.3_1	Baja California	MEX.3.5_1	Tijuana
+MEX.2.1_103 001	3	Baja California Sur	03 001	Comondú	MEX.2_1	Baja California Sur	MEX.2.1_1	Comondú
+MEX.2.3_103 002	3	Baja California Sur	03 002	Mulegé	MEX.2_1	Baja California Sur	MEX.2.3_1	Mulegé
+MEX.2.2_103 003	3	Baja California Sur	03 003	La Paz	MEX.2_1	Baja California Sur	MEX.2.2_1	La Paz
+MEX.4.1_104 001	4	Campeche	04 001	Calkiní	MEX.4_1	Campeche	MEX.4.1_1	Calkiní
+MEX.4.2_104 002	4	Campeche	04 002	Campeche	MEX.4_1	Campeche	MEX.4.2_1	Campeche
+MEX.4.3_104 003	4	Campeche	04 003	Carmen	MEX.4_1	Campeche	MEX.4.3_1	Carmen
+MEX.4.4_104 004	4	Campeche	04 004	Champotón	MEX.4_1	Campeche	MEX.4.4_1	Champotón
+MEX.4.5_104 005	4	Campeche	04 005	Hecelchakán	MEX.4_1	Campeche	MEX.4.5_1	Hecelchakán
+MEX.4.6_104 006	4	Campeche	04 006	Hopelchén	MEX.4_1	Campeche	MEX.4.6_1	Hopelchén
+MEX.4.7_104 007	4	Campeche	04 007	Palizada	MEX.4_1	Campeche	MEX.4.7_1	Palizada
+MEX.4.8_104 008	4	Campeche	04 008	Tenabo	MEX.4_1	Campeche	MEX.4.8_1	Tenabo
+MEX.7.1_105 001	5	Coahuila	05 001	Abasolo	MEX.7_1	Coahuila	MEX.7.1_1	Abasolo
+MEX.7.2_105 002	5	Coahuila	05 002	Acuña	MEX.7_1	Coahuila	MEX.7.2_1	Acuña
+MEX.7.3_105 003	5	Coahuila	05 003	Allende	MEX.7_1	Coahuila	MEX.7.3_1	Allende
+MEX.7.4_105 004	5	Coahuila	05 004	Arteaga	MEX.7_1	Coahuila	MEX.7.4_1	Arteaga
+MEX.7.5_105 005	5	Coahuila	05 005	Candela	MEX.7_1	Coahuila	MEX.7.5_1	Candela
+MEX.7.6_105 006	5	Coahuila	05 006	Castaños	MEX.7_1	Coahuila	MEX.7.6_1	Castaños
+MEX.7.7_105 007	5	Coahuila	05 007	Cuatro Ciénegas	MEX.7_1	Coahuila	MEX.7.7_1	Cuatrociénegas
+MEX.7.8_105 008	5	Coahuila	05 008	Escobedo	MEX.7_1	Coahuila	MEX.7.8_1	Escobedo
+MEX.7.9_105 009	5	Coahuila	05 009	Francisco I. Madero	MEX.7_1	Coahuila	MEX.7.9_1	Francisco I. Madero
+MEX.7.10_105 010	5	Coahuila	05 010	Frontera	MEX.7_1	Coahuila	MEX.7.10_1	Frontera
+MEX.7.11_105 011	5	Coahuila	05 011	General Cepeda	MEX.7_1	Coahuila	MEX.7.11_1	General Cepeda
+MEX.7.12_105 012	5	Coahuila	05 012	Guerrero	MEX.7_1	Coahuila	MEX.7.12_1	Guerrero
+MEX.7.13_105 013	5	Coahuila	05 013	Hidalgo	MEX.7_1	Coahuila	MEX.7.13_1	Hidalgo
+MEX.7.14_105 014	5	Coahuila	05 014	Jiménez	MEX.7_1	Coahuila	MEX.7.14_1	Jiménez
+MEX.7.15_105 015	5	Coahuila	05 015	Juárez	MEX.7_1	Coahuila	MEX.7.15_1	Juárez
+MEX.7.16_105 016	5	Coahuila	05 016	Lamadrid	MEX.7_1	Coahuila	MEX.7.16_1	Lamadrid
+MEX.7.17_105 017	5	Coahuila	05 017	Matamoros	MEX.7_1	Coahuila	MEX.7.17_1	Matamoros
+MEX.7.18_105 018	5	Coahuila	05 018	Monclova	MEX.7_1	Coahuila	MEX.7.18_1	Monclova
+MEX.7.19_105 019	5	Coahuila	05 019	Morelos	MEX.7_1	Coahuila	MEX.7.19_1	Morelos
+MEX.7.20_105 020	5	Coahuila	05 020	Múzquiz	MEX.7_1	Coahuila	MEX.7.20_1	Múzquiz
+MEX.7.21_105 021	5	Coahuila	05 021	Nadadores	MEX.7_1	Coahuila	MEX.7.21_1	Nadadores
+MEX.7.22_105 022	5	Coahuila	05 022	Nava	MEX.7_1	Coahuila	MEX.7.22_1	Nava
+MEX.7.24_105 023	5	Coahuila	05 023	Ocampo	MEX.7_1	Coahuila	MEX.7.24_1	Ocampo
+MEX.7.25_105 024	5	Coahuila	05 024	Parras	MEX.7_1	Coahuila	MEX.7.25_1	Parras
+MEX.7.26_105 025	5	Coahuila	05 025	Piedras Negras	MEX.7_1	Coahuila	MEX.7.26_1	Piedras Negras
+MEX.7.27_105 026	5	Coahuila	05 026	Progreso	MEX.7_1	Coahuila	MEX.7.27_1	Progreso
+MEX.7.28_105 027	5	Coahuila	05 027	Ramos Arizpe	MEX.7_1	Coahuila	MEX.7.28_1	Ramos Arizpe
+MEX.7.29_105 028	5	Coahuila	05 028	Sabinas	MEX.7_1	Coahuila	MEX.7.29_1	Sabinas
+MEX.7.30_105 029	5	Coahuila	05 029	Sacramento	MEX.7_1	Coahuila	MEX.7.30_1	Sacramento
+MEX.7.31_105 030	5	Coahuila	05 030	Saltillo	MEX.7_1	Coahuila	MEX.7.31_1	Saltillo
+MEX.7.32_105 031	5	Coahuila	05 031	San Buenaventura	MEX.7_1	Coahuila	MEX.7.32_1	San Buenaventura
+MEX.7.33_105 033	5	Coahuila	05 033	San Pedro	MEX.7_1	Coahuila	MEX.7.33_1	San Pedro
+MEX.7.34_105 034	5	Coahuila	05 034	Sierra Mojada	MEX.7_1	Coahuila	MEX.7.34_1	Sierra Mojada
+MEX.7.35_105 035	5	Coahuila	05 035	Torreón	MEX.7_1	Coahuila	MEX.7.35_1	Torreón
+MEX.7.36_105 036	5	Coahuila	05 036	Viesca	MEX.7_1	Coahuila	MEX.7.36_1	Viesca
+MEX.7.37_105 037	5	Coahuila	05 037	Villa Unión	MEX.7_1	Coahuila	MEX.7.37_1	Villa Unión
+MEX.7.38_105 038	5	Coahuila	05 038	Zaragoza	MEX.7_1	Coahuila	MEX.7.38_1	Zaragoza
+MEX.8.1_106 001	6	Colima	06 001	Armería	MEX.8_1	Colima	MEX.8.1_1	Armería
+MEX.8.2_106 002	6	Colima	06 002	Colima	MEX.8_1	Colima	MEX.8.2_1	Colima
+MEX.8.3_106 003	6	Colima	06 003	Comala	MEX.8_1	Colima	MEX.8.3_1	Comala
+MEX.8.4_106 004	6	Colima	06 004	Coquimatlán	MEX.8_1	Colima	MEX.8.4_1	Coquimatlán
+MEX.8.5_106 005	6	Colima	06 005	Cuauhtémoc	MEX.8_1	Colima	MEX.8.5_1	Cuauhtémoc
+MEX.8.6_106 006	6	Colima	06 006	Ixtlahuacán	MEX.8_1	Colima	MEX.8.6_1	Ixtlahuacán
+MEX.8.7_106 007	6	Colima	06 007	Manzanillo	MEX.8_1	Colima	MEX.8.7_1	Manzanillo
+MEX.8.8_106 008	6	Colima	06 008	Minatitlán	MEX.8_1	Colima	MEX.8.8_1	Minatitlán
+MEX.8.9_106 009	6	Colima	06 009	Tecomán	MEX.8_1	Colima	MEX.8.9_1	Tecomán
+MEX.8.10_106 010	6	Colima	06 010	Villa de Álvarez	MEX.8_1	Colima	MEX.8.10_1	Villa de Alvarez
+MEX.5.1_107 001	7	Chiapas	07 001	Acacoyagua	MEX.5_1	Chiapas	MEX.5.1_1	Acacoyagua
+MEX.5.2_107 002	7	Chiapas	07 002	Acala	MEX.5_1	Chiapas	MEX.5.2_1	Acala
+MEX.5.3_107 003	7	Chiapas	07 003	Acapetahua	MEX.5_1	Chiapas	MEX.5.3_1	Acapetahua
+MEX.5.4_107 004	7	Chiapas	07 004	Altamirano	MEX.5_1	Chiapas	MEX.5.4_1	Altamirano
+MEX.5.5_107 005	7	Chiapas	07 005	Amatán	MEX.5_1	Chiapas	MEX.5.5_1	Amatán
+MEX.5.6_107 006	7	Chiapas	07 006	Amatenango de la Frontera	MEX.5_1	Chiapas	MEX.5.6_1	Amatenango de la Frontera
+MEX.5.7_107 007	7	Chiapas	07 007	Amatenango del Valle	MEX.5_1	Chiapas	MEX.5.7_1	Amatenango del Valle
+MEX.5.8_107 008	7	Chiapas	07 008	Angel Albino Corzo	MEX.5_1	Chiapas	MEX.5.8_1	Angel Albino Corzo
+MEX.5.9_107 009	7	Chiapas	07 009	Arriaga	MEX.5_1	Chiapas	MEX.5.9_1	Arriaga
+MEX.5.10_107 010	7	Chiapas	07 010	Bejucal de Ocampo	MEX.5_1	Chiapas	MEX.5.10_1	Bejucal de Ocampo
+MEX.5.11_107 011	7	Chiapas	07 011	Bella Vista	MEX.5_1	Chiapas	MEX.5.11_1	Bella Vista
+MEX.5.12_107 012	7	Chiapas	07 012	Berriozábal	MEX.5_1	Chiapas	MEX.5.12_1	Berriozábal
+MEX.5.13_107 013	7	Chiapas	07 013	Bochil	MEX.5_1	Chiapas	MEX.5.13_1	Bochil
+MEX.5.30_107 014	7	Chiapas	07 014	El Bosque	MEX.5_1	Chiapas	MEX.5.30_1	El Bosque
+MEX.5.14_107 015	7	Chiapas	07 015	Cacahoatán	MEX.5_1	Chiapas	MEX.5.14_1	Cacahoatán
+MEX.5.15_107 016	7	Chiapas	07 016	Catazajá	MEX.5_1	Chiapas	MEX.5.15_1	Catazajá
+MEX.5.26_107 017	7	Chiapas	07 017	Cintalapa	MEX.5_1	Chiapas	MEX.5.26_1	Cintalapa
+MEX.5.27_107 018	7	Chiapas	07 018	Coapilla	MEX.5_1	Chiapas	MEX.5.27_1	Coapilla
+MEX.5.28_107 019	7	Chiapas	07 019	Comitán de Domínguez	MEX.5_1	Chiapas	MEX.5.28_1	Comitán de Domínguez
+MEX.5.47_107 020	7	Chiapas	07 020	La Concordia	MEX.5_1	Chiapas	MEX.5.47_1	La Concordia
+MEX.5.29_107 021	7	Chiapas	07 021	Copainalá	MEX.5_1	Chiapas	MEX.5.29_1	Copainalá
+MEX.5.16_107 022	7	Chiapas	07 022	Chalchihuitán	MEX.5_1	Chiapas	MEX.5.16_1	Chalchihuitán
+MEX.5.17_107 023	7	Chiapas	07 023	Chamula	MEX.5_1	Chiapas	MEX.5.17_1	Chamula
+MEX.5.18_107 024	7	Chiapas	07 024	Chanal	MEX.5_1	Chiapas	MEX.5.18_1	Chanal
+MEX.5.19_107 025	7	Chiapas	07 025	Chapultenango	MEX.5_1	Chiapas	MEX.5.19_1	Chapultenango
+MEX.5.20_107 026	7	Chiapas	07 026	Chenalhó	MEX.5_1	Chiapas	MEX.5.20_1	Chenalhó
+MEX.5.21_107 027	7	Chiapas	07 027	Chiapa de Corzo	MEX.5_1	Chiapas	MEX.5.21_1	Chiapa de Corzo
+MEX.5.22_107 028	7	Chiapas	07 028	Chiapilla	MEX.5_1	Chiapas	MEX.5.22_1	Chiapilla
+MEX.5.23_107 029	7	Chiapas	07 029	Chicoasén	MEX.5_1	Chiapas	MEX.5.23_1	Chicoasén
+MEX.5.24_107 030	7	Chiapas	07 030	Chicomuselo	MEX.5_1	Chiapas	MEX.5.24_1	Chicomuselo
+MEX.5.25_107 031	7	Chiapas	07 031	Chilón	MEX.5_1	Chiapas	MEX.5.25_1	Chilón
+MEX.5.32_107 032	7	Chiapas	07 032	Escuintla	MEX.5_1	Chiapas	MEX.5.32_1	Escuintla
+MEX.5.33_107 033	7	Chiapas	07 033	Francisco León	MEX.5_1	Chiapas	MEX.5.33_1	Francisco León
+MEX.5.34_107 034	7	Chiapas	07 034	Frontera Comalapa	MEX.5_1	Chiapas	MEX.5.34_1	Frontera Comalapa
+MEX.5.35_107 035	7	Chiapas	07 035	Frontera Hidalgo	MEX.5_1	Chiapas	MEX.5.35_1	Frontera Hidalgo
+MEX.5.48_107 036	7	Chiapas	07 036	La Grandeza	MEX.5_1	Chiapas	MEX.5.48_1	La Grandeza
+MEX.5.36_107 037	7	Chiapas	07 037	Huehuetán	MEX.5_1	Chiapas	MEX.5.36_1	Huehuetán
+MEX.5.38_107 038	7	Chiapas	07 038	Huixtán	MEX.5_1	Chiapas	MEX.5.38_1	Huixtán
+MEX.5.37_107 039	7	Chiapas	07 039	Huitiupán	MEX.5_1	Chiapas	MEX.5.37_1	Huitiupán
+MEX.5.39_107 040	7	Chiapas	07 040	Huixtla	MEX.5_1	Chiapas	MEX.5.39_1	Huixtla
+MEX.5.49_107 041	7	Chiapas	07 041	La Independencia	MEX.5_1	Chiapas	MEX.5.49_1	La Independencia
+MEX.5.40_107 042	7	Chiapas	07 042	Ixhuatán	MEX.5_1	Chiapas	MEX.5.40_1	Ixhuatán
+MEX.5.41_107 043	7	Chiapas	07 043	Ixtacomitán	MEX.5_1	Chiapas	MEX.5.41_1	Ixtacomitán
+MEX.5.42_107 044	7	Chiapas	07 044	Ixtapa	MEX.5_1	Chiapas	MEX.5.42_1	Ixtapa
+MEX.5.43_107 045	7	Chiapas	07 045	Ixtapangajoya	MEX.5_1	Chiapas	MEX.5.43_1	Ixtapangajoya
+MEX.5.44_107 046	7	Chiapas	07 046	Jiquipilas	MEX.5_1	Chiapas	MEX.5.44_1	Jiquipilas
+MEX.5.45_107 047	7	Chiapas	07 047	Jitotol	MEX.5_1	Chiapas	MEX.5.45_1	Jitotol
+MEX.5.46_107 048	7	Chiapas	07 048	Juárez	MEX.5_1	Chiapas	MEX.5.46_1	Juárez
+MEX.5.52_107 049	7	Chiapas	07 049	Larráinzar	MEX.5_1	Chiapas	MEX.5.52_1	Larráinzar
+MEX.5.50_107 050	7	Chiapas	07 050	La Libertad	MEX.5_1	Chiapas	MEX.5.50_1	La Libertad
+MEX.5.55_107 051	7	Chiapas	07 051	Mapastepec	MEX.5_1	Chiapas	MEX.5.55_1	Mapastepec
+MEX.5.53_107 052	7	Chiapas	07 052	Las Margaritas	MEX.5_1	Chiapas	MEX.5.53_1	Las Margaritas
+MEX.5.56_107 053	7	Chiapas	07 053	Mazapa de Madero	MEX.5_1	Chiapas	MEX.5.56_1	Mazapa de Madero
+MEX.5.57_107 054	7	Chiapas	07 054	Mazatán	MEX.5_1	Chiapas	MEX.5.57_1	Mazatán
+MEX.5.58_107 055	7	Chiapas	07 055	Metapa	MEX.5_1	Chiapas	MEX.5.58_1	Metapa
+MEX.5.59_107 056	7	Chiapas	07 056	Mitontic	MEX.5_1	Chiapas	MEX.5.59_1	Mitontic
+MEX.5.60_107 057	7	Chiapas	07 057	Motozintla	MEX.5_1	Chiapas	MEX.5.60_1	Motozintla
+MEX.5.61_107 058	7	Chiapas	07 058	Nicolás Ruíz	MEX.5_1	Chiapas	MEX.5.61_1	Nicolás Ruíz
+MEX.5.62_107 059	7	Chiapas	07 059	Ocosingo	MEX.5_1	Chiapas	MEX.5.62_1	Ocosingo
+MEX.5.63_107 060	7	Chiapas	07 060	Ocotepec	MEX.5_1	Chiapas	MEX.5.63_1	Ocotepec
+MEX.5.64_107 061	7	Chiapas	07 061	Ocozocoautla de Espinosa	MEX.5_1	Chiapas	MEX.5.64_1	Ocozocoautla de Espinosa
+MEX.5.65_107 062	7	Chiapas	07 062	Ostuacán	MEX.5_1	Chiapas	MEX.5.65_1	Ostuacán
+MEX.5.66_107 063	7	Chiapas	07 063	Osumacinta	MEX.5_1	Chiapas	MEX.5.66_1	Osumacinta
+MEX.5.67_107 064	7	Chiapas	07 064	Oxchuc	MEX.5_1	Chiapas	MEX.5.67_1	Oxchuc
+MEX.5.68_107 065	7	Chiapas	07 065	Palenque	MEX.5_1	Chiapas	MEX.5.68_1	Palenque
+MEX.5.69_107 066	7	Chiapas	07 066	Pantelhó	MEX.5_1	Chiapas	MEX.5.69_1	Pantelhó
+MEX.5.70_107 067	7	Chiapas	07 067	Pantepec	MEX.5_1	Chiapas	MEX.5.70_1	Pantepec
+MEX.5.71_107 068	7	Chiapas	07 068	Pichucalco	MEX.5_1	Chiapas	MEX.5.71_1	Pichucalco
+MEX.5.72_107 069	7	Chiapas	07 069	Pijijiapan	MEX.5_1	Chiapas	MEX.5.72_1	Pijijiapan
+MEX.5.31_107 070	7	Chiapas	07 070	El Porvenir	MEX.5_1	Chiapas	MEX.5.31_1	El Porvenir
+MEX.5.105_107 071	7	Chiapas	07 071	Villa Comaltitlán	MEX.5_1	Chiapas	MEX.5.105_1	Villa Comaltitlán
+MEX.5.73_107 072	7	Chiapas	07 072	Pueblo Nuevo Solistahuacán	MEX.5_1	Chiapas	MEX.5.73_1	Pueblo Nuevo Solistahuacán
+MEX.5.74_107 073	7	Chiapas	07 073	Rayón	MEX.5_1	Chiapas	MEX.5.74_1	Rayón
+MEX.5.75_107 074	7	Chiapas	07 074	Reforma	MEX.5_1	Chiapas	MEX.5.75_1	Reforma
+MEX.5.54_107 075	7	Chiapas	07 075	Las Rosas	MEX.5_1	Chiapas	MEX.5.54_1	Las Rosas
+MEX.5.76_107 076	7	Chiapas	07 076	Sabanilla	MEX.5_1	Chiapas	MEX.5.76_1	Sabanilla
+MEX.5.77_107 077	7	Chiapas	07 077	Salto de Agua	MEX.5_1	Chiapas	MEX.5.77_1	Salto de Agua
+MEX.5.78_107 078	7	Chiapas	07 078	San Cristóbal de las Casas	MEX.5_1	Chiapas	MEX.5.78_1	San Cristóbal de las Casas
+MEX.5.79_107 079	7	Chiapas	07 079	San Fernando	MEX.5_1	Chiapas	MEX.5.79_1	San Fernando
+MEX.5.81_107 080	7	Chiapas	07 080	Siltepec	MEX.5_1	Chiapas	MEX.5.81_1	Siltepec
+MEX.5.82_107 081	7	Chiapas	07 081	Simojovel	MEX.5_1	Chiapas	MEX.5.82_1	Simojovel
+MEX.5.83_107 082	7	Chiapas	07 082	Sitalá	MEX.5_1	Chiapas	MEX.5.83_1	Sitalá
+MEX.5.84_107 083	7	Chiapas	07 083	Socoltenango	MEX.5_1	Chiapas	MEX.5.84_1	Socoltenango
+MEX.5.85_107 084	7	Chiapas	07 084	Solosuchiapa	MEX.5_1	Chiapas	MEX.5.85_1	Solosuchiapa
+MEX.5.86_107 085	7	Chiapas	07 085	Soyaló	MEX.5_1	Chiapas	MEX.5.86_1	Soyaló
+MEX.5.87_107 086	7	Chiapas	07 086	Suchiapa	MEX.5_1	Chiapas	MEX.5.87_1	Suchiapa
+MEX.5.88_107 087	7	Chiapas	07 087	Suchiate	MEX.5_1	Chiapas	MEX.5.88_1	Suchiate
+MEX.5.89_107 088	7	Chiapas	07 088	Sunuapa	MEX.5_1	Chiapas	MEX.5.89_1	Sunuapa
+MEX.5.90_107 089	7	Chiapas	07 089	Tapachula	MEX.5_1	Chiapas	MEX.5.90_1	Tapachula
+MEX.5.91_107 090	7	Chiapas	07 090	Tapalapa	MEX.5_1	Chiapas	MEX.5.91_1	Tapalapa
+MEX.5.92_107 091	7	Chiapas	07 091	Tapilula	MEX.5_1	Chiapas	MEX.5.92_1	Tapilula
+MEX.5.93_107 092	7	Chiapas	07 092	Tecpatán	MEX.5_1	Chiapas	MEX.5.93_1	Tecpatán
+MEX.5.94_107 093	7	Chiapas	07 093	Tenejapa	MEX.5_1	Chiapas	MEX.5.94_1	Tenejapa
+MEX.5.95_107 094	7	Chiapas	07 094	Teopisca	MEX.5_1	Chiapas	MEX.5.95_1	Teopisca
+MEX.5.96_107 096	7	Chiapas	07 096	Tila	MEX.5_1	Chiapas	MEX.5.96_1	Tila
+MEX.5.97_107 097	7	Chiapas	07 097	Tonalá	MEX.5_1	Chiapas	MEX.5.97_1	Tonalá
+MEX.5.98_107 098	7	Chiapas	07 098	Totolapa	MEX.5_1	Chiapas	MEX.5.98_1	Totolapa
+MEX.5.51_107 099	7	Chiapas	07 099	La Trinitaria	MEX.5_1	Chiapas	MEX.5.51_1	La Trinitaria
+MEX.5.99_107 100	7	Chiapas	07 100	Tumbalá	MEX.5_1	Chiapas	MEX.5.99_1	Tumbalá
+MEX.5.101_107 101	7	Chiapas	07 101	Tuxtla Gutiérrez	MEX.5_1	Chiapas	MEX.5.101_1	Tuxtla Gutiérrez
+MEX.5.100_107 102	7	Chiapas	07 102	Tuxtla Chico	MEX.5_1	Chiapas	MEX.5.100_1	Tuxtla Chico
+MEX.5.102_107 103	7	Chiapas	07 103	Tuzantán	MEX.5_1	Chiapas	MEX.5.102_1	Tuzantán
+MEX.5.103_107 104	7	Chiapas	07 104	Tzimol	MEX.5_1	Chiapas	MEX.5.103_1	Tzimol
+MEX.5.104_107 106	7	Chiapas	07 106	Venustiano Carranza	MEX.5_1	Chiapas	MEX.5.104_1	Venustiano Carranza
+MEX.5.106_107 107	7	Chiapas	07 107	Villa Corzo	MEX.5_1	Chiapas	MEX.5.106_1	Villa Corzo
+MEX.5.107_107 108	7	Chiapas	07 108	Villaflores	MEX.5_1	Chiapas	MEX.5.107_1	Villaflores
+MEX.5.108_107 109	7	Chiapas	07 109	Yajalón	MEX.5_1	Chiapas	MEX.5.108_1	Yajalón
+MEX.5.80_107 110	7	Chiapas	07 110	San Lucas	MEX.5_1	Chiapas	MEX.5.80_1	San Lucas
+MEX.5.109_107 111	7	Chiapas	07 111	Zinacantán	MEX.5_1	Chiapas	MEX.5.109_1	Zinacantán
+MEX.6.1_108 001	8	Chihuahua	08 001	Ahumada	MEX.6_1	Chihuahua	MEX.6.1_1	Ahumada
+MEX.6.2_108 002	8	Chihuahua	08 002	Aldama	MEX.6_1	Chihuahua	MEX.6.2_1	Aldama
+MEX.6.3_108 003	8	Chihuahua	08 003	Allende	MEX.6_1	Chihuahua	MEX.6.3_1	Allende
+MEX.6.4_108 004	8	Chihuahua	08 004	Aquiles Serdán	MEX.6_1	Chihuahua	MEX.6.4_1	Aquiles Serdán
+MEX.6.5_108 005	8	Chihuahua	08 005	Ascensión	MEX.6_1	Chihuahua	MEX.6.5_1	Ascensión
+MEX.6.6_108 006	8	Chihuahua	08 006	Bachíniva	MEX.6_1	Chihuahua	MEX.6.6_1	Bachíniva
+MEX.6.7_108 007	8	Chihuahua	08 007	Balleza	MEX.6_1	Chihuahua	MEX.6.7_1	Balleza
+MEX.6.8_108 008	8	Chihuahua	08 008	Batopilas	MEX.6_1	Chihuahua	MEX.6.8_1	Batopilas
+MEX.6.9_108 009	8	Chihuahua	08 009	Bocoyna	MEX.6_1	Chihuahua	MEX.6.9_1	Bocoyna
+MEX.6.10_108 010	8	Chihuahua	08 010	Buenaventura	MEX.6_1	Chihuahua	MEX.6.10_1	Buenaventura
+MEX.6.11_108 011	8	Chihuahua	08 011	Camargo	MEX.6_1	Chihuahua	MEX.6.11_1	Camargo
+MEX.6.12_108 012	8	Chihuahua	08 012	Carichí	MEX.6_1	Chihuahua	MEX.6.12_1	Carichic
+MEX.6.13_108 013	8	Chihuahua	08 013	Casas Grandes	MEX.6_1	Chihuahua	MEX.6.13_1	Casas Grandes
+MEX.6.16_108 014	8	Chihuahua	08 014	Coronado	MEX.6_1	Chihuahua	MEX.6.16_1	Coronado
+MEX.6.17_108 015	8	Chihuahua	08 015	Coyame del Sotol	MEX.6_1	Chihuahua	MEX.6.17_1	Coyame del Sotol
+MEX.6.38_108 016	8	Chihuahua	08 016	La Cruz	MEX.6_1	Chihuahua	MEX.6.38_1	La Cruz
+MEX.6.18_108 017	8	Chihuahua	08 017	Cuauhtémoc	MEX.6_1	Chihuahua	MEX.6.18_1	Cuauhtémoc
+MEX.6.19_108 018	8	Chihuahua	08 018	Cusihuiriachi	MEX.6_1	Chihuahua	MEX.6.19_1	Cusihuiriachic
+MEX.6.14_108 019	8	Chihuahua	08 019	Chihuahua	MEX.6_1	Chihuahua	MEX.6.14_1	Chihuahua
+MEX.6.15_108 020	8	Chihuahua	08 020	Chínipas	MEX.6_1	Chihuahua	MEX.6.15_1	Chínipas
+MEX.6.20_108 021	8	Chihuahua	08 021	Delicias	MEX.6_1	Chihuahua	MEX.6.20_1	Delicias
+MEX.6.21_108 022	8	Chihuahua	08 022	Dr. Belisario Domínguez	MEX.6_1	Chihuahua	MEX.6.21_1	Dr. Belisario Domínguez
+MEX.6.23_108 023	8	Chihuahua	08 023	Galeana	MEX.6_1	Chihuahua	MEX.6.23_1	Galeana
+MEX.6.25_108 026	8	Chihuahua	08 026	Gran Morelos	MEX.6_1	Chihuahua	MEX.6.25_1	Gran Morelos
+MEX.6.26_108 027	8	Chihuahua	08 027	Guachochi	MEX.6_1	Chihuahua	MEX.6.26_1	Guachochic
+MEX.6.27_108 028	8	Chihuahua	08 028	Guadalupe	MEX.6_1	Chihuahua	MEX.6.27_1	Guadalupe
+MEX.6.28_108 029	8	Chihuahua	08 029	Guadalupe y Calvo	MEX.6_1	Chihuahua	MEX.6.28_1	Guadalupe y Calvo
+MEX.6.29_108 030	8	Chihuahua	08 030	Guazapares	MEX.6_1	Chihuahua	MEX.6.29_1	Guazapares
+MEX.6.30_108 031	8	Chihuahua	08 031	Guerrero	MEX.6_1	Chihuahua	MEX.6.30_1	Guerrero
+MEX.6.31_108 032	8	Chihuahua	08 032	Hidalgo del Parral	MEX.6_1	Chihuahua	MEX.6.31_1	Hidalgo del Parral
+MEX.6.32_108 033	8	Chihuahua	08 033	Huejotitán	MEX.6_1	Chihuahua	MEX.6.32_1	Huejotitán
+MEX.6.33_108 034	8	Chihuahua	08 034	Ignacio Zaragoza	MEX.6_1	Chihuahua	MEX.6.33_1	Ignacio Zaragoza
+MEX.6.34_108 035	8	Chihuahua	08 035	Janos	MEX.6_1	Chihuahua	MEX.6.34_1	Janos
+MEX.6.35_108 036	8	Chihuahua	08 036	Jiménez	MEX.6_1	Chihuahua	MEX.6.35_1	Jiménez
+MEX.6.36_108 037	8	Chihuahua	08 037	Juárez	MEX.6_1	Chihuahua	MEX.6.36_1	Juárez
+MEX.6.37_108 038	8	Chihuahua	08 038	Julimes	MEX.6_1	Chihuahua	MEX.6.37_1	Julimes
+MEX.6.39_108 039	8	Chihuahua	08 039	López	MEX.6_1	Chihuahua	MEX.6.39_1	López
+MEX.6.40_108 040	8	Chihuahua	08 040	Madera	MEX.6_1	Chihuahua	MEX.6.40_1	Madera
+MEX.6.41_108 041	8	Chihuahua	08 041	Maguarichi	MEX.6_1	Chihuahua	MEX.6.41_1	Maguarichic
+MEX.6.42_108 042	8	Chihuahua	08 042	Manuel Benavides	MEX.6_1	Chihuahua	MEX.6.42_1	Manuel Benavides
+MEX.6.43_108 043	8	Chihuahua	08 043	Matachí	MEX.6_1	Chihuahua	MEX.6.43_1	Matachic
+MEX.6.44_108 044	8	Chihuahua	08 044	Matamoros	MEX.6_1	Chihuahua	MEX.6.44_1	Matamoros
+MEX.6.45_108 045	8	Chihuahua	08 045	Meoqui	MEX.6_1	Chihuahua	MEX.6.45_1	Meoqui
+MEX.6.46_108 046	8	Chihuahua	08 046	Morelos	MEX.6_1	Chihuahua	MEX.6.46_1	Morelos
+MEX.6.47_108 047	8	Chihuahua	08 047	Moris	MEX.6_1	Chihuahua	MEX.6.47_1	Moris
+MEX.6.48_108 048	8	Chihuahua	08 048	Namiquipa	MEX.6_1	Chihuahua	MEX.6.48_1	Namiquipa
+MEX.6.49_108 049	8	Chihuahua	08 049	Nonoava	MEX.6_1	Chihuahua	MEX.6.49_1	Nonoava
+MEX.6.50_108 050	8	Chihuahua	08 050	Nuevo Casas Grandes	MEX.6_1	Chihuahua	MEX.6.50_1	Nuevo Casas Grandes
+MEX.6.51_108 051	8	Chihuahua	08 051	Ocampo	MEX.6_1	Chihuahua	MEX.6.51_1	Ocampo
+MEX.6.52_108 052	8	Chihuahua	08 052	Ojinaga	MEX.6_1	Chihuahua	MEX.6.52_1	Ojinaga
+MEX.6.53_108 053	8	Chihuahua	08 053	Praxedis G. Guerrero	MEX.6_1	Chihuahua	MEX.6.53_1	Praxedis G. Guerrero
+MEX.6.54_108 054	8	Chihuahua	08 054	Riva Palacio	MEX.6_1	Chihuahua	MEX.6.54_1	Riva Palacio
+MEX.6.55_108 055	8	Chihuahua	08 055	Rosales	MEX.6_1	Chihuahua	MEX.6.55_1	Rosales
+MEX.6.56_108 056	8	Chihuahua	08 056	Rosario	MEX.6_1	Chihuahua	MEX.6.56_1	Rosario
+MEX.6.57_108 057	8	Chihuahua	08 057	San Francisco de Borja	MEX.6_1	Chihuahua	MEX.6.57_1	San Francisco de Borja
+MEX.6.58_108 058	8	Chihuahua	08 058	San Francisco de Conchos	MEX.6_1	Chihuahua	MEX.6.58_1	San Francisco de Conchos
+MEX.6.59_108 059	8	Chihuahua	08 059	San Francisco del Oro	MEX.6_1	Chihuahua	MEX.6.59_1	San Francisco del Oro
+MEX.6.60_108 060	8	Chihuahua	08 060	Santa Bárbara	MEX.6_1	Chihuahua	MEX.6.60_1	Santa Bárbara
+MEX.6.61_108 061	8	Chihuahua	08 061	Satevó	MEX.6_1	Chihuahua	MEX.6.61_1	Satevó
+MEX.6.62_108 062	8	Chihuahua	08 062	Saucillo	MEX.6_1	Chihuahua	MEX.6.62_1	Saucillo
+MEX.6.63_108 063	8	Chihuahua	08 063	Temósachic	MEX.6_1	Chihuahua	MEX.6.63_1	Temósachic
+MEX.6.22_108 064	8	Chihuahua	08 064	El Tule	MEX.6_1	Chihuahua	MEX.6.22_1	El Tule
+MEX.6.64_108 065	8	Chihuahua	08 065	Urique	MEX.6_1	Chihuahua	MEX.6.64_1	Urique
+MEX.6.65_108 066	8	Chihuahua	08 066	Uruachi	MEX.6_1	Chihuahua	MEX.6.65_1	Uruachic
+MEX.6.66_108 067	8	Chihuahua	08 067	Valle de Zaragoza	MEX.6_1	Chihuahua	MEX.6.66_1	Valle de Zaragoza
+MEX.9.2_109 002	9	Distrito Federal	09 002	Azcapotzalco	MEX.9_1	Distrito Federal	MEX.9.2_1	Azcapotzalco
+MEX.9.4_109 003	9	Distrito Federal	09 003	Coyoacán	MEX.9_1	Distrito Federal	MEX.9.4_1	Coyoacán
+MEX.9.5_109 004	9	Distrito Federal	09 004	Cuajimalpa de Morelos	MEX.9_1	Distrito Federal	MEX.9.5_1	Cuajimalpa de Morelos
+MEX.9.7_109 005	9	Distrito Federal	09 005	Gustavo A. Madero	MEX.9_1	Distrito Federal	MEX.9.7_1	Gustavo A. Madero
+MEX.9.8_109 006	9	Distrito Federal	09 006	Iztacalco	MEX.9_1	Distrito Federal	MEX.9.8_1	Iztacalco
+MEX.9.9_109 007	9	Distrito Federal	09 007	Iztapalapa	MEX.9_1	Distrito Federal	MEX.9.9_1	Iztapalapa
+MEX.9.10_109 008	9	Distrito Federal	09 008	La Magdalena Contreras	MEX.9_1	Distrito Federal	MEX.9.10_1	Magdalena Contreras
+MEX.9.12_109 009	9	Distrito Federal	09 009	Milpa Alta	MEX.9_1	Distrito Federal	MEX.9.12_1	Milpa Alta
+MEX.9.1_109 010	9	Distrito Federal	09 010	Álvaro Obregón	MEX.9_1	Distrito Federal	MEX.9.1_1	Alvaro Obregón
+MEX.9.13_109 011	9	Distrito Federal	09 011	Tláhuac	MEX.9_1	Distrito Federal	MEX.9.13_1	Tláhuac
+MEX.9.14_109 012	9	Distrito Federal	09 012	Tlalpan	MEX.9_1	Distrito Federal	MEX.9.14_1	Tlalpan
+MEX.9.16_109 013	9	Distrito Federal	09 013	Xochimilco	MEX.9_1	Distrito Federal	MEX.9.16_1	Xochimilco
+MEX.9.3_109 014	9	Distrito Federal	09 014	Benito Juárez	MEX.9_1	Distrito Federal	MEX.9.3_1	Benito Juárez
+MEX.9.6_109 015	9	Distrito Federal	09 015	Cuauhtémoc	MEX.9_1	Distrito Federal	MEX.9.6_1	Cuauhtémoc
+MEX.9.11_109 016	9	Distrito Federal	09 016	Miguel Hidalgo	MEX.9_1	Distrito Federal	MEX.9.11_1	Miguel Hidalgo
+MEX.9.15_109 017	9	Distrito Federal	09 017	Venustiano Carranza	MEX.9_1	Distrito Federal	MEX.9.15_1	Venustiano Carranza
+MEX.10.1_110 001	10	Durango	10 001	Canatlán	MEX.10_1	Durango	MEX.10.1_1	Canatlán
+MEX.10.2_110 002	10	Durango	10 002	Canelas	MEX.10_1	Durango	MEX.10.2_1	Canelas
+MEX.10.3_110 003	10	Durango	10 003	Coneto de Comonfort	MEX.10_1	Durango	MEX.10.3_1	Coneto de Comonfort
+MEX.10.4_110 004	10	Durango	10 004	Cuencamé	MEX.10_1	Durango	MEX.10.4_1	Cuencamé
+MEX.10.5_110 005	10	Durango	10 005	Durango	MEX.10_1	Durango	MEX.10.5_1	Durango
+MEX.10.7_110 006	10	Durango	10 006	General Simón Bolívar	MEX.10_1	Durango	MEX.10.7_1	General Simón Bolívar
+MEX.10.8_110 007	10	Durango	10 007	Gómez Palacio	MEX.10_1	Durango	MEX.10.8_1	Gómez Palacio
+MEX.10.9_110 008	10	Durango	10 008	Guadalupe Victoria	MEX.10_1	Durango	MEX.10.9_1	Guadalupe Victoria
+MEX.10.10_110 009	10	Durango	10 009	Guanaceví	MEX.10_1	Durango	MEX.10.10_1	Guanaceví
+MEX.10.11_110 010	10	Durango	10 010	Hidalgo	MEX.10_1	Durango	MEX.10.11_1	Hidalgo
+MEX.10.12_110 011	10	Durango	10 011	Indé	MEX.10_1	Durango	MEX.10.12_1	Indé
+MEX.10.13_110 012	10	Durango	10 012	Lerdo	MEX.10_1	Durango	MEX.10.13_1	Lerdo
+MEX.10.14_110 013	10	Durango	10 013	Mapimí	MEX.10_1	Durango	MEX.10.14_1	Mapimí
+MEX.10.15_110 014	10	Durango	10 014	Mezquital	MEX.10_1	Durango	MEX.10.15_1	Mezquital
+MEX.10.16_110 015	10	Durango	10 015	Nazas	MEX.10_1	Durango	MEX.10.16_1	Nazas
+MEX.10.17_110 016	10	Durango	10 016	Nombre de Dios	MEX.10_1	Durango	MEX.10.17_1	Nombre de Dios
+MEX.10.18_110 017	10	Durango	10 017	Ocampo	MEX.10_1	Durango	MEX.10.18_1	Ocampo
+MEX.10.6_110 018	10	Durango	10 018	El Oro	MEX.10_1	Durango	MEX.10.6_1	El Oro
+MEX.10.19_110 019	10	Durango	10 019	Otáez	MEX.10_1	Durango	MEX.10.19_1	Otáez
+MEX.10.20_110 020	10	Durango	10 020	Pánuco de Coronado	MEX.10_1	Durango	MEX.10.20_1	Pánuco de Coronado
+MEX.10.21_110 021	10	Durango	10 021	Peñón Blanco	MEX.10_1	Durango	MEX.10.21_1	Peñón Blanco
+MEX.10.22_110 022	10	Durango	10 022	Poanas	MEX.10_1	Durango	MEX.10.22_1	Poanas
+MEX.10.23_110 023	10	Durango	10 023	Pueblo Nuevo	MEX.10_1	Durango	MEX.10.23_1	Pueblo Nuevo
+MEX.10.24_110 024	10	Durango	10 024	Rodeo	MEX.10_1	Durango	MEX.10.24_1	Rodeo
+MEX.10.25_110 025	10	Durango	10 025	San Bernardo	MEX.10_1	Durango	MEX.10.25_1	San Bernardo
+MEX.10.26_110 026	10	Durango	10 026	San Dimas	MEX.10_1	Durango	MEX.10.26_1	San Dimas
+MEX.10.27_110 027	10	Durango	10 027	San Juan de Guadalupe	MEX.10_1	Durango	MEX.10.27_1	San Juan de Guadalupe
+MEX.10.28_110 028	10	Durango	10 028	San Juan del Río	MEX.10_1	Durango	MEX.10.28_1	San Juan del Río
+MEX.10.29_110 029	10	Durango	10 029	San Luis del Cordero	MEX.10_1	Durango	MEX.10.29_1	San Luis de Cordero
+MEX.10.30_110 030	10	Durango	10 030	San Pedro del Gallo	MEX.10_1	Durango	MEX.10.30_1	San Pedro del Gallo
+MEX.10.31_110 031	10	Durango	10 031	Santa Clara	MEX.10_1	Durango	MEX.10.31_1	Santa Clara
+MEX.10.32_110 032	10	Durango	10 032	Santiago Papasquiaro	MEX.10_1	Durango	MEX.10.32_1	Santiago Papasquiaro
+MEX.10.33_110 033	10	Durango	10 033	Súchil	MEX.10_1	Durango	MEX.10.33_1	Súchil
+MEX.10.34_110 034	10	Durango	10 034	Tamazula	MEX.10_1	Durango	MEX.10.34_1	Tamazula
+MEX.10.35_110 035	10	Durango	10 035	Tepehuanes	MEX.10_1	Durango	MEX.10.35_1	Tepehuanes
+MEX.10.36_110 036	10	Durango	10 036	Tlahualilo	MEX.10_1	Durango	MEX.10.36_1	Tlahualilo
+MEX.10.37_110 037	10	Durango	10 037	Topia	MEX.10_1	Durango	MEX.10.37_1	Topia
+MEX.10.38_110 038	10	Durango	10 038	Vicente Guerrero	MEX.10_1	Durango	MEX.10.38_1	Vicente Guerrero
+MEX.11.1_111 001	11	Guanajuato	11 001	Abasolo	MEX.11_1	Guanajuato	MEX.11.1_1	Abasolo
+MEX.11.2_111 002	11	Guanajuato	11 002	Acámbaro	MEX.11_1	Guanajuato	MEX.11.2_1	Acámbaro
+MEX.11.3_111 003	11	Guanajuato	11 003	San Miguel de Allende	MEX.11_1	Guanajuato	MEX.11.3_1	Allende
+MEX.11.4_111 004	11	Guanajuato	11 004	Apaseo el Alto	MEX.11_1	Guanajuato	MEX.11.4_1	Apaseo el Alto
+MEX.11.5_111 005	11	Guanajuato	11 005	Apaseo el Grande	MEX.11_1	Guanajuato	MEX.11.5_1	Apaseo el Grande
+MEX.11.6_111 006	11	Guanajuato	11 006	Atarjea	MEX.11_1	Guanajuato	MEX.11.6_1	Atarjea
+MEX.11.7_111 007	11	Guanajuato	11 007	Celaya	MEX.11_1	Guanajuato	MEX.11.7_1	Celaya
+MEX.11.20_111 008	11	Guanajuato	11 008	Manuel Doblado	MEX.11_1	Guanajuato	MEX.11.20_1	Manuel Doblado
+MEX.11.8_111 009	11	Guanajuato	11 009	Comonfort	MEX.11_1	Guanajuato	MEX.11.8_1	Comonfort
+MEX.11.9_111 010	11	Guanajuato	11 010	Coroneo	MEX.11_1	Guanajuato	MEX.11.9_1	Coroneo
+MEX.11.10_111 011	11	Guanajuato	11 011	Cortazar	MEX.11_1	Guanajuato	MEX.11.10_1	Cortazar
+MEX.11.11_111 012	11	Guanajuato	11 012	Cuerámaro	MEX.11_1	Guanajuato	MEX.11.11_1	Cuerámaro
+MEX.11.12_111 013	11	Guanajuato	11 013	Doctor Mora	MEX.11_1	Guanajuato	MEX.11.12_1	Doctor Mora
+MEX.11.13_111 014	11	Guanajuato	11 014	Dolores Hidalgo Cuna de la Independencia Nacional	MEX.11_1	Guanajuato	MEX.11.13_1	Dolores Hidalgo
+MEX.11.14_111 015	11	Guanajuato	11 015	Guanajuato	MEX.11_1	Guanajuato	MEX.11.14_1	Guanajuato
+MEX.11.15_111 016	11	Guanajuato	11 016	Huanímaro	MEX.11_1	Guanajuato	MEX.11.15_1	Huanímaro
+MEX.11.16_111 017	11	Guanajuato	11 017	Irapuato	MEX.11_1	Guanajuato	MEX.11.16_1	Irapuato
+MEX.11.17_111 018	11	Guanajuato	11 018	Jaral del Progreso	MEX.11_1	Guanajuato	MEX.11.17_1	Jaral del Progreso
+MEX.11.18_111 019	11	Guanajuato	11 019	Jerécuaro	MEX.11_1	Guanajuato	MEX.11.18_1	Jerécuaro
+MEX.11.19_111 020	11	Guanajuato	11 020	León	MEX.11_1	Guanajuato	MEX.11.19_1	León
+MEX.11.21_111 021	11	Guanajuato	11 021	Moroleón	MEX.11_1	Guanajuato	MEX.11.21_1	Moroleón
+MEX.11.22_111 022	11	Guanajuato	11 022	Ocampo	MEX.11_1	Guanajuato	MEX.11.22_1	Ocampo
+MEX.11.23_111 023	11	Guanajuato	11 023	Pénjamo	MEX.11_1	Guanajuato	MEX.11.23_1	Pénjamo
+MEX.11.24_111 024	11	Guanajuato	11 024	Pueblo Nuevo	MEX.11_1	Guanajuato	MEX.11.24_1	Pueblo Nuevo
+MEX.11.25_111 025	11	Guanajuato	11 025	Purísima del Rincón	MEX.11_1	Guanajuato	MEX.11.25_1	Purísima del Rincón
+MEX.11.26_111 026	11	Guanajuato	11 026	Romita	MEX.11_1	Guanajuato	MEX.11.26_1	Romita
+MEX.11.27_111 027	11	Guanajuato	11 027	Salamanca	MEX.11_1	Guanajuato	MEX.11.27_1	Salamanca
+MEX.11.28_111 028	11	Guanajuato	11 028	Salvatierra	MEX.11_1	Guanajuato	MEX.11.28_1	Salvatierra
+MEX.11.29_111 029	11	Guanajuato	11 029	San Diego de la Unión	MEX.11_1	Guanajuato	MEX.11.29_1	San Diego de la Unión
+MEX.11.30_111 030	11	Guanajuato	11 030	San Felipe	MEX.11_1	Guanajuato	MEX.11.30_1	San Felipe
+MEX.11.31_111 031	11	Guanajuato	11 031	San Francisco del Rincón	MEX.11_1	Guanajuato	MEX.11.31_1	San Francisco del Rincón
+MEX.11.32_111 032	11	Guanajuato	11 032	San José Iturbide	MEX.11_1	Guanajuato	MEX.11.32_1	San José Iturbide
+MEX.11.33_111 033	11	Guanajuato	11 033	San Luis de la Paz	MEX.11_1	Guanajuato	MEX.11.33_1	San Luis de la Paz
+MEX.11.34_111 034	11	Guanajuato	11 034	Santa Catarina	MEX.11_1	Guanajuato	MEX.11.34_1	Santa Catarina
+MEX.11.35_111 035	11	Guanajuato	11 035	Santa Cruz de Juventino Rosas	MEX.11_1	Guanajuato	MEX.11.35_1	Santa Cruz de Juventino Rosas
+MEX.11.36_111 036	11	Guanajuato	11 036	Santiago Maravatío	MEX.11_1	Guanajuato	MEX.11.36_1	Santiago Maravatío
+MEX.11.37_111 037	11	Guanajuato	11 037	Silao	MEX.11_1	Guanajuato	MEX.11.37_1	Silao
+MEX.11.38_111 038	11	Guanajuato	11 038	Tarandacuao	MEX.11_1	Guanajuato	MEX.11.38_1	Tarandacuao
+MEX.11.39_111 039	11	Guanajuato	11 039	Tarimoro	MEX.11_1	Guanajuato	MEX.11.39_1	Tarimoro
+MEX.11.40_111 040	11	Guanajuato	11 040	Tierra Blanca	MEX.11_1	Guanajuato	MEX.11.40_1	Tierra Blanca
+MEX.11.41_111 041	11	Guanajuato	11 041	Uriangato	MEX.11_1	Guanajuato	MEX.11.41_1	Uriangato
+MEX.11.42_111 042	11	Guanajuato	11 042	Valle de Santiago	MEX.11_1	Guanajuato	MEX.11.42_1	Valle de Santiago
+MEX.11.43_111 043	11	Guanajuato	11 043	Victoria	MEX.11_1	Guanajuato	MEX.11.43_1	Victoria
+MEX.11.44_111 044	11	Guanajuato	11 044	Villagrán	MEX.11_1	Guanajuato	MEX.11.44_1	Villagrán
+MEX.11.45_111 045	11	Guanajuato	11 045	Xichú	MEX.11_1	Guanajuato	MEX.11.45_1	Xichú
+MEX.11.46_111 046	11	Guanajuato	11 046	Yuriria	MEX.11_1	Guanajuato	MEX.11.46_1	Yuriria
+MEX.12.1_112 001	12	Guerrero	12 001	Acapulco de Juárez	MEX.12_1	Guerrero	MEX.12.1_1	Acapulco de Juárez
+MEX.12.2_112 002	12	Guerrero	12 002	Ahuacuotzingo	MEX.12_1	Guerrero	MEX.12.2_1	Ahuacuotzingo
+MEX.12.3_112 003	12	Guerrero	12 003	Ajuchitlán del Progreso	MEX.12_1	Guerrero	MEX.12.3_1	Ajuchitlán del Progreso
+MEX.12.4_112 004	12	Guerrero	12 004	Alcozauca de Guerrero	MEX.12_1	Guerrero	MEX.12.4_1	Alcozauca de Guerrero
+MEX.12.5_112 005	12	Guerrero	12 005	Alpoyeca	MEX.12_1	Guerrero	MEX.12.5_1	Alpoyeca
+MEX.12.6_112 006	12	Guerrero	12 006	Apaxtla	MEX.12_1	Guerrero	MEX.12.6_1	Apaxtla
+MEX.12.7_112 007	12	Guerrero	12 007	Arcelia	MEX.12_1	Guerrero	MEX.12.7_1	Arcelia
+MEX.12.8_112 008	12	Guerrero	12 008	Atenango del Río	MEX.12_1	Guerrero	MEX.12.8_1	Atenango del Río
+MEX.12.9_112 009	12	Guerrero	12 009	Atlamajalcingo del Monte	MEX.12_1	Guerrero	MEX.12.9_1	Atlamajalcingo del Monte
+MEX.12.10_112 010	12	Guerrero	12 010	Atlixtac	MEX.12_1	Guerrero	MEX.12.10_1	Atlixtac
+MEX.12.11_112 011	12	Guerrero	12 011	Atoyac de Álvarez	MEX.12_1	Guerrero	MEX.12.11_1	Atoyac de Alvarez
+MEX.12.12_112 012	12	Guerrero	12 012	Ayutla de los Libres	MEX.12_1	Guerrero	MEX.12.12_1	Ayutla de los Libres
+MEX.12.13_112 013	12	Guerrero	12 013	Azoyú	MEX.12_1	Guerrero	MEX.12.13_1	Azoyú
+MEX.12.14_112 014	12	Guerrero	12 014	Benito Juárez	MEX.12_1	Guerrero	MEX.12.14_1	Benito Juárez
+MEX.12.15_112 015	12	Guerrero	12 015	Buenavista de Cuéllar	MEX.12_1	Guerrero	MEX.12.15_1	Buenavista de Cuéllar
+MEX.12.18_112 017	12	Guerrero	12 017	Cocula	MEX.12_1	Guerrero	MEX.12.18_1	Cocula
+MEX.12.19_112 018	12	Guerrero	12 018	Copala	MEX.12_1	Guerrero	MEX.12.19_1	Copala
+MEX.12.20_112 019	12	Guerrero	12 019	Copalillo	MEX.12_1	Guerrero	MEX.12.20_1	Copalillo
+MEX.12.21_112 020	12	Guerrero	12 020	Copanatoyac	MEX.12_1	Guerrero	MEX.12.21_1	Copanatoyac
+MEX.12.22_112 021	12	Guerrero	12 021	Coyuca de Benítez	MEX.12_1	Guerrero	MEX.12.22_1	Coyuca de Benítez
+MEX.12.23_112 022	12	Guerrero	12 022	Coyuca de Catalán	MEX.12_1	Guerrero	MEX.12.23_1	Coyuca de Catalán
+MEX.12.24_112 023	12	Guerrero	12 023	Cuajinicuilapa	MEX.12_1	Guerrero	MEX.12.24_1	Cuajinicuilapa
+MEX.12.25_112 024	12	Guerrero	12 024	Cualác	MEX.12_1	Guerrero	MEX.12.25_1	Cualác
+MEX.12.26_112 025	12	Guerrero	12 025	Cuautepec	MEX.12_1	Guerrero	MEX.12.26_1	Cuautepec
+MEX.12.27_112 026	12	Guerrero	12 026	Cuetzala del Progreso	MEX.12_1	Guerrero	MEX.12.27_1	Cuetzala del Progreso
+MEX.12.28_112 027	12	Guerrero	12 027	Cutzamala de Pinzón	MEX.12_1	Guerrero	MEX.12.28_1	Cutzamala de Pinzón
+MEX.12.16_112 028	12	Guerrero	12 028	Chilapa de Álvarez	MEX.12_1	Guerrero	MEX.12.16_1	Chilapa de Alvarez
+MEX.12.17_112 029	12	Guerrero	12 029	Chilpancingo de los Bravo	MEX.12_1	Guerrero	MEX.12.17_1	Chilpancingo de los Bravo
+MEX.12.31_112 030	12	Guerrero	12 030	Florencio Villarreal	MEX.12_1	Guerrero	MEX.12.31_1	Florencio Villarreal
+MEX.12.32_112 031	12	Guerrero	12 031	General Canuto A. Neri	MEX.12_1	Guerrero	MEX.12.32_1	General Canuto A. Neri
+MEX.12.33_112 032	12	Guerrero	12 032	General Heliodoro Castillo	MEX.12_1	Guerrero	MEX.12.33_1	General Heliodoro Castillo
+MEX.12.34_112 033	12	Guerrero	12 033	Huamuxtitlán	MEX.12_1	Guerrero	MEX.12.34_1	Huamuxtitlán
+MEX.12.35_112 034	12	Guerrero	12 034	Huitzuco de los Figueroa	MEX.12_1	Guerrero	MEX.12.35_1	Huitzuco de los Figueroa
+MEX.12.36_112 035	12	Guerrero	12 035	Iguala de la Independencia	MEX.12_1	Guerrero	MEX.12.36_1	Iguala de la Independencia
+MEX.12.37_112 036	12	Guerrero	12 036	Igualapa	MEX.12_1	Guerrero	MEX.12.37_1	Igualapa
+MEX.12.38_112 037	12	Guerrero	12 037	Ixcateopan de Cuauhtémoc	MEX.12_1	Guerrero	MEX.12.38_1	Ixcateopan de Cuauhtémoc
+MEX.12.40_112 039	12	Guerrero	12 039	Juan R. Escudero	MEX.12_1	Guerrero	MEX.12.40_1	Juan R. Escudero
+MEX.12.42_112 040	12	Guerrero	12 040	Leonardo Bravo	MEX.12_1	Guerrero	MEX.12.42_1	Leonardo Bravo
+MEX.12.43_112 041	12	Guerrero	12 041	Malinaltepec	MEX.12_1	Guerrero	MEX.12.43_1	Malinaltepec
+MEX.12.44_112 042	12	Guerrero	12 042	Mártir de Cuilapan	MEX.12_1	Guerrero	MEX.12.44_1	Mártir de Cuilapan
+MEX.12.45_112 043	12	Guerrero	12 043	Metlatónoc	MEX.12_1	Guerrero	MEX.12.45_1	Metlatónoc
+MEX.12.46_112 044	12	Guerrero	12 044	Mochitlán	MEX.12_1	Guerrero	MEX.12.46_1	Mochitlán
+MEX.12.47_112 045	12	Guerrero	12 045	Olinalá	MEX.12_1	Guerrero	MEX.12.47_1	Olinalá
+MEX.12.48_112 046	12	Guerrero	12 046	Ometepec	MEX.12_1	Guerrero	MEX.12.48_1	Ometepec
+MEX.12.49_112 047	12	Guerrero	12 047	Pedro Ascencio Alquisiras	MEX.12_1	Guerrero	MEX.12.49_1	Pedro Ascencio Alquisiras
+MEX.12.50_112 048	12	Guerrero	12 048	Petatlán	MEX.12_1	Guerrero	MEX.12.50_1	Petatlán
+MEX.12.51_112 049	12	Guerrero	12 049	Pilcaya	MEX.12_1	Guerrero	MEX.12.51_1	Pilcaya
+MEX.12.52_112 050	12	Guerrero	12 050	Pungarabato	MEX.12_1	Guerrero	MEX.12.52_1	Pungarabato
+MEX.12.53_112 051	12	Guerrero	12 051	Quechultenango	MEX.12_1	Guerrero	MEX.12.53_1	Quechultenango
+MEX.12.54_112 052	12	Guerrero	12 052	San Luis Acatlán	MEX.12_1	Guerrero	MEX.12.54_1	San Luis Acatlán
+MEX.12.55_112 053	12	Guerrero	12 053	San Marcos	MEX.12_1	Guerrero	MEX.12.55_1	San Marcos
+MEX.12.56_112 054	12	Guerrero	12 054	San Miguel Totolapan	MEX.12_1	Guerrero	MEX.12.56_1	San Miguel Totolapan
+MEX.12.57_112 055	12	Guerrero	12 055	Taxco de Alarcón	MEX.12_1	Guerrero	MEX.12.57_1	Taxco de Alarcón
+MEX.12.58_112 056	12	Guerrero	12 056	Tecoanapa	MEX.12_1	Guerrero	MEX.12.58_1	Tecoanapa
+MEX.12.59_112 057	12	Guerrero	12 057	Técpan de Galeana	MEX.12_1	Guerrero	MEX.12.59_1	Técpan de Galeana
+MEX.12.60_112 058	12	Guerrero	12 058	Teloloapan	MEX.12_1	Guerrero	MEX.12.60_1	Teloloapan
+MEX.12.61_112 059	12	Guerrero	12 059	Tepecoacuilco de Trujano	MEX.12_1	Guerrero	MEX.12.61_1	Tepecoacuilco de Trujano
+MEX.12.62_112 060	12	Guerrero	12 060	Tetipac	MEX.12_1	Guerrero	MEX.12.62_1	Tetipac
+MEX.12.63_112 061	12	Guerrero	12 061	Tixtla de Guerrero	MEX.12_1	Guerrero	MEX.12.63_1	Tixtla de Guerrero
+MEX.12.64_112 062	12	Guerrero	12 062	Tlacoachistlahuaca	MEX.12_1	Guerrero	MEX.12.64_1	Tlacoachistlahuaca
+MEX.12.65_112 063	12	Guerrero	12 063	Tlacoapa	MEX.12_1	Guerrero	MEX.12.65_1	Tlacoapa
+MEX.12.66_112 064	12	Guerrero	12 064	Tlalchapa	MEX.12_1	Guerrero	MEX.12.66_1	Tlalchapa
+MEX.12.67_112 065	12	Guerrero	12 065	Tlalixtaquilla de Maldonado	MEX.12_1	Guerrero	MEX.12.67_1	Tlalixtaquilla de Maldonado
+MEX.12.68_112 066	12	Guerrero	12 066	Tlapa de Comonfort	MEX.12_1	Guerrero	MEX.12.68_1	Tlapa de Comonfort
+MEX.12.69_112 067	12	Guerrero	12 067	Tlapehuala	MEX.12_1	Guerrero	MEX.12.69_1	Tlapehuala
+MEX.12.41_112 068	12	Guerrero	12 068	La Unión de Isidoro Montes de Oca	MEX.12_1	Guerrero	MEX.12.41_1	La Union
+MEX.12.70_112 069	12	Guerrero	12 069	Xalpatláhuac	MEX.12_1	Guerrero	MEX.12.70_1	Xalpatláhuac
+MEX.12.71_112 070	12	Guerrero	12 070	Xochihuehuetlán	MEX.12_1	Guerrero	MEX.12.71_1	Xochihuehuetlán
+MEX.12.72_112 071	12	Guerrero	12 071	Xochistlahuaca	MEX.12_1	Guerrero	MEX.12.72_1	Xochistlahuaca
+MEX.12.73_112 072	12	Guerrero	12 072	Zapotitlán Tablas	MEX.12_1	Guerrero	MEX.12.73_1	Zapotitlán Tablas
+MEX.12.74_112 073	12	Guerrero	12 073	Zirándaro	MEX.12_1	Guerrero	MEX.12.74_1	Zirándaro
+MEX.12.75_112 074	12	Guerrero	12 074	Zitlala	MEX.12_1	Guerrero	MEX.12.75_1	Zitlala
+MEX.12.29_112 075	12	Guerrero	12 075	Eduardo Neri	MEX.12_1	Guerrero	MEX.12.29_1	Eduardo Neri
+MEX.13.1_113 001	13	Hidalgo	13 001	Acatlán	MEX.13_1	Hidalgo	MEX.13.1_1	Acatlán
+MEX.13.2_113 002	13	Hidalgo	13 002	Acaxochitlán	MEX.13_1	Hidalgo	MEX.13.2_1	Acaxochitlán
+MEX.13.3_113 003	13	Hidalgo	13 003	Actopan	MEX.13_1	Hidalgo	MEX.13.3_1	Actopan
+MEX.13.4_113 004	13	Hidalgo	13 004	Agua Blanca de Iturbide	MEX.13_1	Hidalgo	MEX.13.4_1	Agua Blanca de Iturbide
+MEX.13.5_113 005	13	Hidalgo	13 005	Ajacuba	MEX.13_1	Hidalgo	MEX.13.5_1	Ajacuba
+MEX.13.6_113 006	13	Hidalgo	13 006	Alfajayucan	MEX.13_1	Hidalgo	MEX.13.6_1	Alfajayucan
+MEX.13.7_113 007	13	Hidalgo	13 007	Almoloya	MEX.13_1	Hidalgo	MEX.13.7_1	Almoloya
+MEX.13.8_113 008	13	Hidalgo	13 008	Apan	MEX.13_1	Hidalgo	MEX.13.8_1	Apan
+MEX.13.19_113 009	13	Hidalgo	13 009	El Arenal	MEX.13_1	Hidalgo	MEX.13.19_1	El Arenal
+MEX.13.9_113 010	13	Hidalgo	13 010	Atitalaquia	MEX.13_1	Hidalgo	MEX.13.9_1	Atitalaquia
+MEX.13.10_113 011	13	Hidalgo	13 011	Atlapexco	MEX.13_1	Hidalgo	MEX.13.10_1	Atlapexco
+MEX.13.12_113 012	13	Hidalgo	13 012	Atotonilco el Grande	MEX.13_1	Hidalgo	MEX.13.12_1	Atotonilco el Grande
+MEX.13.11_113 013	13	Hidalgo	13 013	Atotonilco de Tula	MEX.13_1	Hidalgo	MEX.13.11_1	Atotonilco de Tula
+MEX.13.13_113 014	13	Hidalgo	13 014	Calnali	MEX.13_1	Hidalgo	MEX.13.13_1	Calnali
+MEX.13.14_113 015	13	Hidalgo	13 015	Cardonal	MEX.13_1	Hidalgo	MEX.13.14_1	Cardonal
+MEX.13.18_113 016	13	Hidalgo	13 016	Cuautepec de Hinojosa	MEX.13_1	Hidalgo	MEX.13.18_1	Cuautepec de Hinojosa
+MEX.13.15_113 017	13	Hidalgo	13 017	Chapantongo	MEX.13_1	Hidalgo	MEX.13.15_1	Chapantongo
+MEX.13.16_113 018	13	Hidalgo	13 018	Chapulhuacán	MEX.13_1	Hidalgo	MEX.13.16_1	Chapulhuacán
+MEX.13.17_113 019	13	Hidalgo	13 019	Chilcuautla	MEX.13_1	Hidalgo	MEX.13.17_1	Chilcuautla
+MEX.13.20_113 020	13	Hidalgo	13 020	Eloxochitlán	MEX.13_1	Hidalgo	MEX.13.20_1	Eloxochitlán
+MEX.13.21_113 021	13	Hidalgo	13 021	Emiliano Zapata	MEX.13_1	Hidalgo	MEX.13.21_1	Emiliano Zapata
+MEX.13.22_113 022	13	Hidalgo	13 022	Epazoyucan	MEX.13_1	Hidalgo	MEX.13.22_1	Epazoyucan
+MEX.13.23_113 023	13	Hidalgo	13 023	Francisco I. Madero	MEX.13_1	Hidalgo	MEX.13.23_1	Francisco I. Madero
+MEX.13.24_113 024	13	Hidalgo	13 024	Huasca de Ocampo	MEX.13_1	Hidalgo	MEX.13.24_1	Huasca de Ocampo
+MEX.13.25_113 025	13	Hidalgo	13 025	Huautla	MEX.13_1	Hidalgo	MEX.13.25_1	Huautla
+MEX.13.26_113 026	13	Hidalgo	13 026	Huazalingo	MEX.13_1	Hidalgo	MEX.13.26_1	Huazalingo
+MEX.13.27_113 027	13	Hidalgo	13 027	Huehuetla	MEX.13_1	Hidalgo	MEX.13.27_1	Huehuetla
+MEX.13.28_113 028	13	Hidalgo	13 028	Huejutla de Reyes	MEX.13_1	Hidalgo	MEX.13.28_1	Huejutla de Reyes
+MEX.13.29_113 029	13	Hidalgo	13 029	Huichapan	MEX.13_1	Hidalgo	MEX.13.29_1	Huichapan
+MEX.13.30_113 030	13	Hidalgo	13 030	Ixmiquilpan	MEX.13_1	Hidalgo	MEX.13.30_1	Ixmiquilpan
+MEX.13.31_113 031	13	Hidalgo	13 031	Jacala de Ledezma	MEX.13_1	Hidalgo	MEX.13.31_1	Jacala de Ledezma
+MEX.13.32_113 032	13	Hidalgo	13 032	Jaltocán	MEX.13_1	Hidalgo	MEX.13.32_1	Jaltocán
+MEX.13.33_113 033	13	Hidalgo	13 033	Juárez Hidalgo	MEX.13_1	Hidalgo	MEX.13.33_1	Juárez Hidalgo
+MEX.13.35_113 034	13	Hidalgo	13 034	Lolotla	MEX.13_1	Hidalgo	MEX.13.35_1	Lolotla
+MEX.13.36_113 035	13	Hidalgo	13 035	Metepec	MEX.13_1	Hidalgo	MEX.13.36_1	Metepec
+MEX.13.50_113 036	13	Hidalgo	13 036	San Agustín Metzquititlán	MEX.13_1	Hidalgo	MEX.13.50_1	San Agustín Metzquititlán
+MEX.13.37_113 037	13	Hidalgo	13 037	Metztitlán	MEX.13_1	Hidalgo	MEX.13.37_1	Metztitlán
+MEX.13.39_113 038	13	Hidalgo	13 038	Mineral del Chico	MEX.13_1	Hidalgo	MEX.13.39_1	Mineral del Chico
+MEX.13.40_113 039	13	Hidalgo	13 039	Mineral del Monte	MEX.13_1	Hidalgo	MEX.13.40_1	Mineral del Monte
+MEX.13.34_113 040	13	Hidalgo	13 040	La Misión	MEX.13_1	Hidalgo	MEX.13.34_1	La Misión
+MEX.13.41_113 041	13	Hidalgo	13 041	Mixquiahuala de Juárez	MEX.13_1	Hidalgo	MEX.13.41_1	Mixquiahuala de Juárez
+MEX.13.42_113 042	13	Hidalgo	13 042	Molango de Escamilla	MEX.13_1	Hidalgo	MEX.13.42_1	Molango de Escamilla
+MEX.13.43_113 043	13	Hidalgo	13 043	Nicolás Flores	MEX.13_1	Hidalgo	MEX.13.43_1	Nicolás Flores
+MEX.13.44_113 044	13	Hidalgo	13 044	Nopala de Villagrán	MEX.13_1	Hidalgo	MEX.13.44_1	Nopala de Villagrán
+MEX.13.45_113 045	13	Hidalgo	13 045	Omitlán de Juárez	MEX.13_1	Hidalgo	MEX.13.45_1	Omitlán de Juárez
+MEX.13.53_113 046	13	Hidalgo	13 046	San Felipe Orizatlán	MEX.13_1	Hidalgo	MEX.13.53_1	San Felipe Orizatlán
+MEX.13.47_113 047	13	Hidalgo	13 047	Pacula	MEX.13_1	Hidalgo	MEX.13.47_1	Pacula
+MEX.13.46_113 048	13	Hidalgo	13 048	Pachuca de Soto	MEX.13_1	Hidalgo	MEX.13.46_1	Pachuca de Soto
+MEX.13.48_113 049	13	Hidalgo	13 049	Pisaflores	MEX.13_1	Hidalgo	MEX.13.48_1	Pisaflores
+MEX.13.49_113 050	13	Hidalgo	13 050	Progreso de Obregón	MEX.13_1	Hidalgo	MEX.13.49_1	Progreso de Obregón
+MEX.13.38_113 051	13	Hidalgo	13 051	Mineral de la Reforma	MEX.13_1	Hidalgo	MEX.13.38_1	Mineral de la Reforma
+MEX.13.51_113 052	13	Hidalgo	13 052	San Agustín Tlaxiaca	MEX.13_1	Hidalgo	MEX.13.51_1	San Agustín Tlaxiaca
+MEX.13.52_113 053	13	Hidalgo	13 053	San Bartolo Tutotepec	MEX.13_1	Hidalgo	MEX.13.52_1	San Bartolo Tutotepec
+MEX.13.54_113 054	13	Hidalgo	13 054	San Salvador	MEX.13_1	Hidalgo	MEX.13.54_1	San Salvador
+MEX.13.55_113 055	13	Hidalgo	13 055	Santiago de Anaya	MEX.13_1	Hidalgo	MEX.13.55_1	Santiago de Anaya
+MEX.13.56_113 056	13	Hidalgo	13 056	Santiago Tulantepec de Lugo Guerrero	MEX.13_1	Hidalgo	MEX.13.56_1	Santiago Tulantepec de Lugo Guerrero
+MEX.13.57_113 057	13	Hidalgo	13 057	Singuilucan	MEX.13_1	Hidalgo	MEX.13.57_1	Singuilucan
+MEX.13.58_113 058	13	Hidalgo	13 058	Tasquillo	MEX.13_1	Hidalgo	MEX.13.58_1	Tasquillo
+MEX.13.59_113 059	13	Hidalgo	13 059	Tecozautla	MEX.13_1	Hidalgo	MEX.13.59_1	Tecozautla
+MEX.13.60_113 060	13	Hidalgo	13 060	Tenango de Doria	MEX.13_1	Hidalgo	MEX.13.60_1	Tenango de Doria
+MEX.13.61_113 061	13	Hidalgo	13 061	Tepeapulco	MEX.13_1	Hidalgo	MEX.13.61_1	Tepeapulco
+MEX.13.62_113 062	13	Hidalgo	13 062	Tepehuacán de Guerrero	MEX.13_1	Hidalgo	MEX.13.62_1	Tepehuacán de Guerrero
+MEX.13.63_113 063	13	Hidalgo	13 063	Tepeji del Río de Ocampo	MEX.13_1	Hidalgo	MEX.13.63_1	Tepeji del Río de Ocampo
+MEX.13.64_113 064	13	Hidalgo	13 064	Tepetitlán	MEX.13_1	Hidalgo	MEX.13.64_1	Tepetitlán
+MEX.13.65_113 065	13	Hidalgo	13 065	Tetepango	MEX.13_1	Hidalgo	MEX.13.65_1	Tetepango
+MEX.13.77_113 066	13	Hidalgo	13 066	Villa de Tezontepec	MEX.13_1	Hidalgo	MEX.13.77_1	Villa de Tezontepec
+MEX.13.66_113 067	13	Hidalgo	13 067	Tezontepec de Aldama	MEX.13_1	Hidalgo	MEX.13.66_1	Tezontepec de Aldama
+MEX.13.67_113 068	13	Hidalgo	13 068	Tianguistengo	MEX.13_1	Hidalgo	MEX.13.67_1	Tianguistengo
+MEX.13.68_113 069	13	Hidalgo	13 069	Tizayuca	MEX.13_1	Hidalgo	MEX.13.68_1	Tizayuca
+MEX.13.69_113 070	13	Hidalgo	13 070	Tlahuelilpan	MEX.13_1	Hidalgo	MEX.13.69_1	Tlahuelilpan
+MEX.13.70_113 071	13	Hidalgo	13 071	Tlahuiltepa	MEX.13_1	Hidalgo	MEX.13.70_1	Tlahuiltepa
+MEX.13.71_113 072	13	Hidalgo	13 072	Tlanalapa	MEX.13_1	Hidalgo	MEX.13.71_1	Tlanalapa
+MEX.13.72_113 073	13	Hidalgo	13 073	Tlanchinol	MEX.13_1	Hidalgo	MEX.13.72_1	Tlanchinol
+MEX.13.73_113 074	13	Hidalgo	13 074	Tlaxcoapan	MEX.13_1	Hidalgo	MEX.13.73_1	Tlaxcoapan
+MEX.13.74_113 075	13	Hidalgo	13 075	Tolcayuca	MEX.13_1	Hidalgo	MEX.13.74_1	Tolcayuca
+MEX.13.75_113 076	13	Hidalgo	13 076	Tula de Allende	MEX.13_1	Hidalgo	MEX.13.75_1	Tula de Allende
+MEX.13.76_113 077	13	Hidalgo	13 077	Tulancingo de Bravo	MEX.13_1	Hidalgo	MEX.13.76_1	Tulancingo de Bravo
+MEX.13.78_113 078	13	Hidalgo	13 078	Xochiatipan	MEX.13_1	Hidalgo	MEX.13.78_1	Xochiatipan
+MEX.13.79_113 079	13	Hidalgo	13 079	Xochicoatlán	MEX.13_1	Hidalgo	MEX.13.79_1	Xochicoatlán
+MEX.13.80_113 080	13	Hidalgo	13 080	Yahualica	MEX.13_1	Hidalgo	MEX.13.80_1	Yahualica
+MEX.13.81_113 081	13	Hidalgo	13 081	Zacualtipán de Ángeles	MEX.13_1	Hidalgo	MEX.13.81_1	Zacualtipán de Angeles
+MEX.13.82_113 082	13	Hidalgo	13 082	Zapotlán de Juárez	MEX.13_1	Hidalgo	MEX.13.82_1	Zapotlán de Juárez
+MEX.13.83_113 083	13	Hidalgo	13 083	Zempoala	MEX.13_1	Hidalgo	MEX.13.83_1	Zempoala
+MEX.13.84_113 084	13	Hidalgo	13 084	Zimapán	MEX.13_1	Hidalgo	MEX.13.84_1	Zimapán
+MEX.14.1_114 001	14	Jalisco	14 001	Acatic	MEX.14_1	Jalisco	MEX.14.1_1	Acatic
+MEX.14.2_114 002	14	Jalisco	14 002	Acatlán de Juárez	MEX.14_1	Jalisco	MEX.14.2_1	Acatlán de Juárez
+MEX.14.3_114 003	14	Jalisco	14 003	Ahualulco de Mercado	MEX.14_1	Jalisco	MEX.14.3_1	Ahualulco de Mercado
+MEX.14.4_114 004	14	Jalisco	14 004	Amacueca	MEX.14_1	Jalisco	MEX.14.4_1	Amacueca
+MEX.14.5_114 005	14	Jalisco	14 005	Amatitán	MEX.14_1	Jalisco	MEX.14.5_1	Amatitán
+MEX.14.6_114 006	14	Jalisco	14 006	Ameca	MEX.14_1	Jalisco	MEX.14.6_1	Ameca
+MEX.14.8_114 008	14	Jalisco	14 008	Arandas	MEX.14_1	Jalisco	MEX.14.8_1	Arandas
+MEX.14.35_114 009	14	Jalisco	14 009	El Arenal	MEX.14_1	Jalisco	MEX.14.35_1	El Arenal
+MEX.14.9_114 010	14	Jalisco	14 010	Atemajac de Brizuela	MEX.14_1	Jalisco	MEX.14.9_1	Atemajac de Brizuela
+MEX.14.10_114 011	14	Jalisco	14 011	Atengo	MEX.14_1	Jalisco	MEX.14.10_1	Atengo
+MEX.14.11_114 012	14	Jalisco	14 012	Atenguillo	MEX.14_1	Jalisco	MEX.14.11_1	Atenguillo
+MEX.14.12_114 013	14	Jalisco	14 013	Atotonilco el Alto	MEX.14_1	Jalisco	MEX.14.12_1	Atotonilco El Alto
+MEX.14.13_114 014	14	Jalisco	14 014	Atoyac	MEX.14_1	Jalisco	MEX.14.13_1	Atoyac
+MEX.14.14_114 015	14	Jalisco	14 015	Autlán de Navarro	MEX.14_1	Jalisco	MEX.14.14_1	Autlán de Navarro
+MEX.14.15_114 016	14	Jalisco	14 016	Ayotlán	MEX.14_1	Jalisco	MEX.14.15_1	Ayotlán
+MEX.14.16_114 017	14	Jalisco	14 017	Ayutla	MEX.14_1	Jalisco	MEX.14.16_1	Ayutla
+MEX.14.56_114 018	14	Jalisco	14 018	La Barca	MEX.14_1	Jalisco	MEX.14.56_1	La Barca
+MEX.14.17_114 019	14	Jalisco	14 019	Bolaños	MEX.14_1	Jalisco	MEX.14.17_1	Bolaños
+MEX.14.18_114 020	14	Jalisco	14 020	Cabo Corrientes	MEX.14_1	Jalisco	MEX.14.18_1	Cabo Corrientes
+MEX.14.20_114 021	14	Jalisco	14 021	Casimiro Castillo	MEX.14_1	Jalisco	MEX.14.20_1	Casimiro Castillo
+MEX.14.24_114 022	14	Jalisco	14 022	Cihuatlán	MEX.14_1	Jalisco	MEX.14.24_1	Cihuatlán
+MEX.14.27_114 024	14	Jalisco	14 024	Cocula	MEX.14_1	Jalisco	MEX.14.27_1	Cocula
+MEX.14.28_114 025	14	Jalisco	14 025	Colotlán	MEX.14_1	Jalisco	MEX.14.28_1	Colotlán
+MEX.14.29_114 026	14	Jalisco	14 026	Concepción de Buenos Aires	MEX.14_1	Jalisco	MEX.14.29_1	Concepción de Buenos Aires
+MEX.14.30_114 027	14	Jalisco	14 027	Cuautitlán de García Barragán	MEX.14_1	Jalisco	MEX.14.30_1	Cuautitlán de García Barragán
+MEX.14.31_114 028	14	Jalisco	14 028	Cuautla	MEX.14_1	Jalisco	MEX.14.31_1	Cuautla
+MEX.14.32_114 029	14	Jalisco	14 029	Cuquío	MEX.14_1	Jalisco	MEX.14.32_1	Cuquito
+MEX.14.21_114 030	14	Jalisco	14 030	Chapala	MEX.14_1	Jalisco	MEX.14.21_1	Chapala
+MEX.14.22_114 031	14	Jalisco	14 031	Chimaltitán	MEX.14_1	Jalisco	MEX.14.22_1	Chimaltitán
+MEX.14.23_114 032	14	Jalisco	14 032	Chiquilistlán	MEX.14_1	Jalisco	MEX.14.23_1	Chiquilistlán
+MEX.14.33_114 033	14	Jalisco	14 033	Degollado	MEX.14_1	Jalisco	MEX.14.33_1	Degollado
+MEX.14.34_114 034	14	Jalisco	14 034	Ejutla	MEX.14_1	Jalisco	MEX.14.34_1	Ejutla
+MEX.14.39_114 035	14	Jalisco	14 035	Encarnación de Díaz	MEX.14_1	Jalisco	MEX.14.39_1	Encarnación de Díaz
+MEX.14.40_114 036	14	Jalisco	14 036	Etzatlán	MEX.14_1	Jalisco	MEX.14.40_1	Etzatlán
+MEX.14.36_114 037	14	Jalisco	14 037	El Grullo	MEX.14_1	Jalisco	MEX.14.36_1	El Grullo
+MEX.14.42_114 038	14	Jalisco	14 038	Guachinango	MEX.14_1	Jalisco	MEX.14.42_1	Guachinango
+MEX.14.43_114 039	14	Jalisco	14 039	Guadalajara	MEX.14_1	Jalisco	MEX.14.43_1	Guadalajara
+MEX.14.44_114 040	14	Jalisco	14 040	Hostotipaquillo	MEX.14_1	Jalisco	MEX.14.44_1	Hostotipaquillo
+MEX.14.45_114 041	14	Jalisco	14 041	Huejúcar	MEX.14_1	Jalisco	MEX.14.45_1	Huejúcar
+MEX.14.46_114 042	14	Jalisco	14 042	Huejuquilla el Alto	MEX.14_1	Jalisco	MEX.14.46_1	Huejuquilla el Alto
+MEX.14.57_114 043	14	Jalisco	14 043	La Huerta	MEX.14_1	Jalisco	MEX.14.57_1	La Huerta
+MEX.14.47_114 044	14	Jalisco	14 044	Ixtlahuacán de los Membrillos	MEX.14_1	Jalisco	MEX.14.47_1	Ixtlahuacán de los Membrillos
+MEX.14.48_114 045	14	Jalisco	14 045	Ixtlahuacán del Río	MEX.14_1	Jalisco	MEX.14.48_1	Ixtlahuacán del Río
+MEX.14.49_114 046	14	Jalisco	14 046	Jalostotitlán	MEX.14_1	Jalisco	MEX.14.49_1	Jalostotitlán
+MEX.14.50_114 047	14	Jalisco	14 047	Jamay	MEX.14_1	Jalisco	MEX.14.50_1	Jamay
+MEX.14.51_114 048	14	Jalisco	14 048	Jesús María	MEX.14_1	Jalisco	MEX.14.51_1	Jesús María
+MEX.14.52_114 049	14	Jalisco	14 049	Jilotlán de los Dolores	MEX.14_1	Jalisco	MEX.14.52_1	Jilotlán de los Dolores
+MEX.14.53_114 050	14	Jalisco	14 050	Jocotepec	MEX.14_1	Jalisco	MEX.14.53_1	Jocotepec
+MEX.14.54_114 051	14	Jalisco	14 051	Juanacatlán	MEX.14_1	Jalisco	MEX.14.54_1	Juanacatlán
+MEX.14.55_114 052	14	Jalisco	14 052	Juchitlán	MEX.14_1	Jalisco	MEX.14.55_1	Juchitlán
+MEX.14.60_114 053	14	Jalisco	14 053	Lagos de Moreno	MEX.14_1	Jalisco	MEX.14.60_1	Lagos de Moreno
+MEX.14.37_114 054	14	Jalisco	14 054	El Limón	MEX.14_1	Jalisco	MEX.14.37_1	El Limón
+MEX.14.61_114 055	14	Jalisco	14 055	Magdalena	MEX.14_1	Jalisco	MEX.14.61_1	Magdalena
+MEX.14.58_114 057	14	Jalisco	14 057	La Manzanilla de la Paz	MEX.14_1	Jalisco	MEX.14.58_1	La Manzanilla de la Paz
+MEX.14.63_114 058	14	Jalisco	14 058	Mascota	MEX.14_1	Jalisco	MEX.14.63_1	Mascota
+MEX.14.64_114 059	14	Jalisco	14 059	Mazamitla	MEX.14_1	Jalisco	MEX.14.64_1	Mazamitla
+MEX.14.65_114 060	14	Jalisco	14 060	Mexticacán	MEX.14_1	Jalisco	MEX.14.65_1	Mexticacán
+MEX.14.66_114 061	14	Jalisco	14 061	Mezquitic	MEX.14_1	Jalisco	MEX.14.66_1	Mezquitic
+MEX.14.67_114 062	14	Jalisco	14 062	Mixtlán	MEX.14_1	Jalisco	MEX.14.67_1	Mixtlán
+MEX.14.68_114 063	14	Jalisco	14 063	Ocotlán	MEX.14_1	Jalisco	MEX.14.68_1	Ocotlán
+MEX.14.69_114 064	14	Jalisco	14 064	Ojuelos de Jalisco	MEX.14_1	Jalisco	MEX.14.69_1	Ojuelos de Jalisco
+MEX.14.70_114 065	14	Jalisco	14 065	Pihuamo	MEX.14_1	Jalisco	MEX.14.70_1	Pihuamo
+MEX.14.71_114 066	14	Jalisco	14 066	Poncitlán	MEX.14_1	Jalisco	MEX.14.71_1	Poncitlán
+MEX.14.72_114 067	14	Jalisco	14 067	Puerto Vallarta	MEX.14_1	Jalisco	MEX.14.72_1	Puerto Vallarta
+MEX.14.118_114 068	14	Jalisco	14 068	Villa Purificación	MEX.14_1	Jalisco	MEX.14.118_1	Villa Purificación
+MEX.14.73_114 069	14	Jalisco	14 069	Quitupan	MEX.14_1	Jalisco	MEX.14.73_1	Quitupan
+MEX.14.38_114 070	14	Jalisco	14 070	El Salto	MEX.14_1	Jalisco	MEX.14.38_1	El Salto
+MEX.14.74_114 071	14	Jalisco	14 071	San Cristóbal de la Barranca	MEX.14_1	Jalisco	MEX.14.74_1	San Cristóbal de la Barranca
+MEX.14.75_114 072	14	Jalisco	14 072	San Diego de Alejandría	MEX.14_1	Jalisco	MEX.14.75_1	San Diego de Alejandría
+MEX.14.76_114 073	14	Jalisco	14 073	San Juan de los Lagos	MEX.14_1	Jalisco	MEX.14.76_1	San Juan de los Lagos
+MEX.14.77_114 074	14	Jalisco	14 074	San Julián	MEX.14_1	Jalisco	MEX.14.77_1	San Julián
+MEX.14.78_114 075	14	Jalisco	14 075	San Marcos	MEX.14_1	Jalisco	MEX.14.78_1	San Marcos
+MEX.14.79_114 076	14	Jalisco	14 076	San Martín de Bolaños	MEX.14_1	Jalisco	MEX.14.79_1	San Martín de Bolaños
+MEX.14.80_114 077	14	Jalisco	14 077	San Martín Hidalgo	MEX.14_1	Jalisco	MEX.14.80_1	San Martín Hidalgo
+MEX.14.81_114 078	14	Jalisco	14 078	San Miguel el Alto	MEX.14_1	Jalisco	MEX.14.81_1	San Miguel el Alto
+MEX.14.41_114 079	14	Jalisco	14 079	Gómez Farías	MEX.14_1	Jalisco	MEX.14.41_1	Gómez Farías
+MEX.14.82_114 080	14	Jalisco	14 080	San Sebastián del Oeste	MEX.14_1	Jalisco	MEX.14.82_1	San Sebastián del Oeste
+MEX.14.83_114 081	14	Jalisco	14 081	Santa María de los Ángeles	MEX.14_1	Jalisco	MEX.14.83_1	Santa María de los Angeles
+MEX.14.84_114 082	14	Jalisco	14 082	Sayula	MEX.14_1	Jalisco	MEX.14.84_1	Sayula
+MEX.14.85_114 083	14	Jalisco	14 083	Tala	MEX.14_1	Jalisco	MEX.14.85_1	Tala
+MEX.14.86_114 084	14	Jalisco	14 084	Talpa de Allende	MEX.14_1	Jalisco	MEX.14.86_1	Talpa de Allende
+MEX.14.87_114 085	14	Jalisco	14 085	Tamazula de Gordiano	MEX.14_1	Jalisco	MEX.14.87_1	Tamazula de Gordiano
+MEX.14.88_114 086	14	Jalisco	14 086	Tapalpa	MEX.14_1	Jalisco	MEX.14.88_1	Tapalpa
+MEX.14.89_114 087	14	Jalisco	14 087	Tecalitlán	MEX.14_1	Jalisco	MEX.14.89_1	Tecalitlán
+MEX.14.91_114 088	14	Jalisco	14 088	Tecolotlán	MEX.14_1	Jalisco	MEX.14.91_1	Tecolotlán
+MEX.14.90_114 089	14	Jalisco	14 089	Techaluta de Montenegro	MEX.14_1	Jalisco	MEX.14.90_1	Techaluta de Montenegro
+MEX.14.92_114 090	14	Jalisco	14 090	Tenamaxtlán	MEX.14_1	Jalisco	MEX.14.92_1	Tenamaxtlán
+MEX.14.93_114 091	14	Jalisco	14 091	Teocaltiche	MEX.14_1	Jalisco	MEX.14.93_1	Teocaltiche
+MEX.14.94_114 092	14	Jalisco	14 092	Teocuitatlán de Corona	MEX.14_1	Jalisco	MEX.14.94_1	Teocuitatlán de Corona
+MEX.14.95_114 093	14	Jalisco	14 093	Tepatitlán de Morelos	MEX.14_1	Jalisco	MEX.14.95_1	Tepatitlán de Morelos
+MEX.14.96_114 094	14	Jalisco	14 094	Tequila	MEX.14_1	Jalisco	MEX.14.96_1	Tequila
+MEX.14.97_114 095	14	Jalisco	14 095	Teuchitlán	MEX.14_1	Jalisco	MEX.14.97_1	Teuchitlán
+MEX.14.98_114 096	14	Jalisco	14 096	Tizapán el Alto	MEX.14_1	Jalisco	MEX.14.98_1	Tizapán el Alto
+MEX.14.99_114 097	14	Jalisco	14 097	Tlajomulco de Zúñiga	MEX.14_1	Jalisco	MEX.14.99_1	Tlajomulco de Zúñiga
+MEX.14.100_114 098	14	Jalisco	14 098	Tlaquepaque	MEX.14_1	Jalisco	MEX.14.100_1	Tlaquepaque
+MEX.14.101_114 099	14	Jalisco	14 099	Tolimán	MEX.14_1	Jalisco	MEX.14.101_1	Tolimán
+MEX.14.102_114 100	14	Jalisco	14 100	Tomatlán	MEX.14_1	Jalisco	MEX.14.102_1	Tomatlán
+MEX.14.103_114 101	14	Jalisco	14 101	Tonalá	MEX.14_1	Jalisco	MEX.14.103_1	Tonalá
+MEX.14.104_114 102	14	Jalisco	14 102	Tonaya	MEX.14_1	Jalisco	MEX.14.104_1	Tonaya
+MEX.14.105_114 103	14	Jalisco	14 103	Tonila	MEX.14_1	Jalisco	MEX.14.105_1	Tonila
+MEX.14.106_114 104	14	Jalisco	14 104	Totatiche	MEX.14_1	Jalisco	MEX.14.106_1	Totatiche
+MEX.14.107_114 105	14	Jalisco	14 105	Tototlán	MEX.14_1	Jalisco	MEX.14.107_1	Tototlán
+MEX.14.108_114 106	14	Jalisco	14 106	Tuxcacuesco	MEX.14_1	Jalisco	MEX.14.108_1	Tuxcacuesco
+MEX.14.109_114 107	14	Jalisco	14 107	Tuxcueca	MEX.14_1	Jalisco	MEX.14.109_1	Tuxcueca
+MEX.14.110_114 108	14	Jalisco	14 108	Tuxpan	MEX.14_1	Jalisco	MEX.14.110_1	Tuxpan
+MEX.14.111_114 109	14	Jalisco	14 109	Unión de San Antonio	MEX.14_1	Jalisco	MEX.14.111_1	Unión de San Antonio
+MEX.14.112_114 110	14	Jalisco	14 110	Unión de Tula	MEX.14_1	Jalisco	MEX.14.112_1	Unión de Tula
+MEX.14.113_114 111	14	Jalisco	14 111	Valle de Guadalupe	MEX.14_1	Jalisco	MEX.14.113_1	Valle de Guadalupe
+MEX.14.114_114 112	14	Jalisco	14 112	Valle de Juárez	MEX.14_1	Jalisco	MEX.14.114_1	Valle de Juárez
+MEX.14.115_114 114	14	Jalisco	14 114	Villa Corona	MEX.14_1	Jalisco	MEX.14.115_1	Villa Corona
+MEX.14.116_114 115	14	Jalisco	14 115	Villa Guerrero	MEX.14_1	Jalisco	MEX.14.116_1	Villa Guerrero
+MEX.14.117_114 116	14	Jalisco	14 116	Villa Hidalgo	MEX.14_1	Jalisco	MEX.14.117_1	Villa Hidalgo
+MEX.14.19_114 117	14	Jalisco	14 117	Cañadas de Obregón	MEX.14_1	Jalisco	MEX.14.19_1	Cañadas de Obregón
+MEX.14.119_114 118	14	Jalisco	14 118	Yahualica de González Gallo	MEX.14_1	Jalisco	MEX.14.119_1	Yahualica de González Gallo
+MEX.14.120_114 119	14	Jalisco	14 119	Zacoalco de Torres	MEX.14_1	Jalisco	MEX.14.120_1	Zacoalco de Torres
+MEX.14.121_114 120	14	Jalisco	14 120	Zapopan	MEX.14_1	Jalisco	MEX.14.121_1	Zapopan
+MEX.14.122_114 121	14	Jalisco	14 121	Zapotiltic	MEX.14_1	Jalisco	MEX.14.122_1	Zapotiltic
+MEX.14.123_114 122	14	Jalisco	14 122	Zapotitlán de Vadillo	MEX.14_1	Jalisco	MEX.14.123_1	Zapotitlán de Vadillo
+MEX.14.124_114 123	14	Jalisco	14 123	Zapotlán del Rey	MEX.14_1	Jalisco	MEX.14.124_1	Zapotlán del Rey
+MEX.14.125_114 124	14	Jalisco	14 124	Zapotlanejo	MEX.14_1	Jalisco	MEX.14.125_1	Zapotlanejo
+MEX.15.1_115 001	15	México	15 001	Acambay	MEX.15_1	México	MEX.15.1_1	Acambay
+MEX.15.2_115 002	15	México	15 002	Acolman	MEX.15_1	México	MEX.15.2_1	Acolman
+MEX.15.3_115 003	15	México	15 003	Aculco	MEX.15_1	México	MEX.15.3_1	Aculco
+MEX.15.4_115 004	15	México	15 004	Almoloya de Alquisiras	MEX.15_1	México	MEX.15.4_1	Almoloya de Alquisiras
+MEX.15.5_115 005	15	México	15 005	Almoloya de Juárez	MEX.15_1	México	MEX.15.5_1	Almoloya de Juárez
+MEX.15.6_115 006	15	México	15 006	Almoloya del Río	MEX.15_1	México	MEX.15.6_1	Almoloya del Río
+MEX.15.7_115 007	15	México	15 007	Amanalco	MEX.15_1	México	MEX.15.7_1	Amanalco
+MEX.15.8_115 008	15	México	15 008	Amatepec	MEX.15_1	México	MEX.15.8_1	Amatepec
+MEX.15.9_115 009	15	México	15 009	Amecameca	MEX.15_1	México	MEX.15.9_1	Amecameca
+MEX.15.10_115 010	15	México	15 010	Apaxco	MEX.15_1	México	MEX.15.10_1	Apaxco
+MEX.15.11_115 011	15	México	15 011	Atenco	MEX.15_1	México	MEX.15.11_1	Atenco
+MEX.15.12_115 012	15	México	15 012	Atizapán	MEX.15_1	México	MEX.15.12_1	Atizapán
+MEX.15.13_115 013	15	México	15 013	Atizapán de Zaragoza	MEX.15_1	México	MEX.15.13_1	Atizapán de Zaragoza
+MEX.15.14_115 014	15	México	15 014	Atlacomulco	MEX.15_1	México	MEX.15.14_1	Atlacomulco
+MEX.15.15_115 015	15	México	15 015	Atlautla	MEX.15_1	México	MEX.15.15_1	Atlautla
+MEX.15.16_115 016	15	México	15 016	Axapusco	MEX.15_1	México	MEX.15.16_1	Axapusco
+MEX.15.17_115 017	15	México	15 017	Ayapango	MEX.15_1	México	MEX.15.17_1	Ayapango
+MEX.15.18_115 018	15	México	15 018	Calimaya	MEX.15_1	México	MEX.15.18_1	Calimaya
+MEX.15.19_115 019	15	México	15 019	Capulhuac	MEX.15_1	México	MEX.15.19_1	Capulhuac
+MEX.15.27_115 020	15	México	15 020	Coacalco de Berriozábal	MEX.15_1	México	MEX.15.27_1	Coacalco de Berriozábal
+MEX.15.28_115 021	15	México	15 021	Coatepec Harinas	MEX.15_1	México	MEX.15.28_1	Coatepec Harinas
+MEX.15.29_115 022	15	México	15 022	Cocotitlán	MEX.15_1	México	MEX.15.29_1	Cocotitlán
+MEX.15.30_115 023	15	México	15 023	Coyotepec	MEX.15_1	México	MEX.15.30_1	Coyotepec
+MEX.15.31_115 024	15	México	15 024	Cuautitlán	MEX.15_1	México	MEX.15.31_1	Cuautitlán
+MEX.15.20_115 025	15	México	15 025	Chalco	MEX.15_1	México	MEX.15.20_1	Chalco
+MEX.15.21_115 026	15	México	15 026	Chapa de Mota	MEX.15_1	México	MEX.15.21_1	Chapa de Mota
+MEX.15.22_115 027	15	México	15 027	Chapultepec	MEX.15_1	México	MEX.15.22_1	Chapultepec
+MEX.15.23_115 028	15	México	15 028	Chiautla	MEX.15_1	México	MEX.15.23_1	Chiautla
+MEX.15.24_115 029	15	México	15 029	Chicoloapan	MEX.15_1	México	MEX.15.24_1	Chicoloapan
+MEX.15.25_115 030	15	México	15 030	Chiconcuac	MEX.15_1	México	MEX.15.25_1	Chiconcuac
+MEX.15.26_115 031	15	México	15 031	Chimalhuacán	MEX.15_1	México	MEX.15.26_1	Chimalhuacán
+MEX.15.33_115 032	15	México	15 032	Donato Guerra	MEX.15_1	México	MEX.15.33_1	Donato Guerra
+MEX.15.34_115 033	15	México	15 033	Ecatepec de Morelos	MEX.15_1	México	MEX.15.34_1	Ecatepec de Morelos
+MEX.15.35_115 034	15	México	15 034	Ecatzingo	MEX.15_1	México	MEX.15.35_1	Ecatzingo
+MEX.15.37_115 035	15	México	15 035	Huehuetoca	MEX.15_1	México	MEX.15.37_1	Huehuetoca
+MEX.15.38_115 036	15	México	15 036	Hueypoxtla	MEX.15_1	México	MEX.15.38_1	Hueypoxtla
+MEX.15.39_115 037	15	México	15 037	Huixquilucan	MEX.15_1	México	MEX.15.39_1	Huixquilucan
+MEX.15.40_115 038	15	México	15 038	Isidro Fabela	MEX.15_1	México	MEX.15.40_1	Isidro Fabela
+MEX.15.41_115 039	15	México	15 039	Ixtapaluca	MEX.15_1	México	MEX.15.41_1	Ixtapaluca
+MEX.15.42_115 040	15	México	15 040	Ixtapan de la Sal	MEX.15_1	México	MEX.15.42_1	Ixtapan de la Sal
+MEX.15.43_115 041	15	México	15 041	Ixtapan del Oro	MEX.15_1	México	MEX.15.43_1	Ixtapan del Oro
+MEX.15.44_115 042	15	México	15 042	Ixtlahuaca	MEX.15_1	México	MEX.15.44_1	Ixtlahuaca
+MEX.15.45_115 043	15	México	15 043	Xalatlaco	MEX.15_1	México	MEX.15.45_1	Jalatlaco
+MEX.15.46_115 044	15	México	15 044	Jaltenco	MEX.15_1	México	MEX.15.46_1	Jaltenco
+MEX.15.47_115 045	15	México	15 045	Jilotepec	MEX.15_1	México	MEX.15.47_1	Jilotepec
+MEX.15.48_115 046	15	México	15 046	Jilotzingo	MEX.15_1	México	MEX.15.48_1	Jilotzingo
+MEX.15.49_115 047	15	México	15 047	Jiquipilco	MEX.15_1	México	MEX.15.49_1	Jiquipilco
+MEX.15.50_115 048	15	México	15 048	Jocotitlán	MEX.15_1	México	MEX.15.50_1	Jocotitlán
+MEX.15.51_115 049	15	México	15 049	Joquicingo	MEX.15_1	México	MEX.15.51_1	Joquicingo
+MEX.15.52_115 050	15	México	15 050	Juchitepec	MEX.15_1	México	MEX.15.52_1	Juchitepec
+MEX.15.54_115 051	15	México	15 051	Lerma	MEX.15_1	México	MEX.15.54_1	Lerma
+MEX.15.55_115 052	15	México	15 052	Malinalco	MEX.15_1	México	MEX.15.55_1	Malinalco
+MEX.15.56_115 053	15	México	15 053	Melchor Ocampo	MEX.15_1	México	MEX.15.56_1	Melchor Ocampo
+MEX.15.57_115 054	15	México	15 054	Metepec	MEX.15_1	México	MEX.15.57_1	Metepec
+MEX.15.58_115 055	15	México	15 055	Mexicaltzingo	MEX.15_1	México	MEX.15.58_1	Mexicaltzingo
+MEX.15.59_115 056	15	México	15 056	Morelos	MEX.15_1	México	MEX.15.59_1	Morelos
+MEX.15.60_115 057	15	México	15 057	Naucalpan de Juárez	MEX.15_1	México	MEX.15.60_1	Naucalpan de Juárez
+MEX.15.62_115 058	15	México	15 058	Nezahualcóyotl	MEX.15_1	México	MEX.15.62_1	Nezahualcóyotl
+MEX.15.61_115 059	15	México	15 059	Nextlalpan	MEX.15_1	México	MEX.15.61_1	Nextlalpan
+MEX.15.63_115 060	15	México	15 060	Nicolás Romero	MEX.15_1	México	MEX.15.63_1	Nicolás Romero
+MEX.15.64_115 061	15	México	15 061	Nopaltepec	MEX.15_1	México	MEX.15.64_1	Nopaltepec
+MEX.15.65_115 062	15	México	15 062	Ocoyoacac	MEX.15_1	México	MEX.15.65_1	Ocoyoacac
+MEX.15.66_115 063	15	México	15 063	Ocuilan	MEX.15_1	México	MEX.15.66_1	Ocuilan
+MEX.15.36_115 064	15	México	15 064	El Oro	MEX.15_1	México	MEX.15.36_1	El Oro
+MEX.15.67_115 065	15	México	15 065	Otumba	MEX.15_1	México	MEX.15.67_1	Otumba
+MEX.15.68_115 066	15	México	15 066	Otzoloapan	MEX.15_1	México	MEX.15.68_1	Otzoloapan
+MEX.15.69_115 067	15	México	15 067	Otzolotepec	MEX.15_1	México	MEX.15.69_1	Otzolotepec
+MEX.15.70_115 068	15	México	15 068	Ozumba	MEX.15_1	México	MEX.15.70_1	Ozumba
+MEX.15.71_115 069	15	México	15 069	Papalotla	MEX.15_1	México	MEX.15.71_1	Papalotla
+MEX.15.53_115 070	15	México	15 070	La Paz	MEX.15_1	México	MEX.15.53_1	La Paz
+MEX.15.72_115 071	15	México	15 071	Polotitlán	MEX.15_1	México	MEX.15.72_1	Polotitlán
+MEX.15.73_115 072	15	México	15 072	Rayón	MEX.15_1	México	MEX.15.73_1	Rayón
+MEX.15.74_115 073	15	México	15 073	San Antonio la Isla	MEX.15_1	México	MEX.15.74_1	San Antonio La Isla
+MEX.15.75_115 074	15	México	15 074	San Felipe del Progreso	MEX.15_1	México	MEX.15.75_1	San Felipe del Progreso
+MEX.15.76_115 075	15	México	15 075	San Martín de las Pirámides	MEX.15_1	México	MEX.15.76_1	San Martín de las Piráámides
+MEX.15.77_115 076	15	México	15 076	San Mateo Atenco	MEX.15_1	México	MEX.15.77_1	San Mateo Atenco
+MEX.15.78_115 077	15	México	15 077	San Simón de Guerrero	MEX.15_1	México	MEX.15.78_1	San Simón de Guerrero
+MEX.15.79_115 078	15	México	15 078	Santo Tomás	MEX.15_1	México	MEX.15.79_1	Santo Tomás
+MEX.15.80_115 079	15	México	15 079	Soyaniquilpan de Juárez	MEX.15_1	México	MEX.15.80_1	Soyaniquilpan de Juárez
+MEX.15.81_115 080	15	México	15 080	Sultepec	MEX.15_1	México	MEX.15.81_1	Sultepec
+MEX.15.82_115 081	15	México	15 081	Tecámac	MEX.15_1	México	MEX.15.82_1	Tecámac
+MEX.15.83_115 082	15	México	15 082	Tejupilco	MEX.15_1	México	MEX.15.83_1	Tejupilco
+MEX.15.84_115 083	15	México	15 083	Temamatla	MEX.15_1	México	MEX.15.84_1	Temamatla
+MEX.15.85_115 084	15	México	15 084	Temascalapa	MEX.15_1	México	MEX.15.85_1	Temascalapa
+MEX.15.86_115 085	15	México	15 085	Temascalcingo	MEX.15_1	México	MEX.15.86_1	Temascalcingo
+MEX.15.87_115 086	15	México	15 086	Temascaltepec	MEX.15_1	México	MEX.15.87_1	Temascaltepec
+MEX.15.88_115 087	15	México	15 087	Temoaya	MEX.15_1	México	MEX.15.88_1	Temoaya
+MEX.15.89_115 088	15	México	15 088	Tenancingo	MEX.15_1	México	MEX.15.89_1	Tenancingo
+MEX.15.90_115 089	15	México	15 089	Tenango del Aire	MEX.15_1	México	MEX.15.90_1	Tenango del Aire
+MEX.15.91_115 090	15	México	15 090	Tenango del Valle	MEX.15_1	México	MEX.15.91_1	Tenango del Valle
+MEX.15.92_115 091	15	México	15 091	Teoloyucan	MEX.15_1	México	MEX.15.92_1	Teoloyucán
+MEX.15.93_115 092	15	México	15 092	Teotihuacán	MEX.15_1	México	MEX.15.93_1	Teotihuacán
+MEX.15.94_115 093	15	México	15 093	Tepetlaoxtoc	MEX.15_1	México	MEX.15.94_1	Tepetlaoxtoc
+MEX.15.95_115 094	15	México	15 094	Tepetlixpa	MEX.15_1	México	MEX.15.95_1	Tepetlixpa
+MEX.15.96_115 095	15	México	15 095	Tepotzotlán	MEX.15_1	México	MEX.15.96_1	Tepotzotlán
+MEX.15.97_115 096	15	México	15 096	Tequixquiac	MEX.15_1	México	MEX.15.97_1	Tequixquiac
+MEX.15.98_115 097	15	México	15 097	Texcaltitlán	MEX.15_1	México	MEX.15.98_1	Texcaltitlán
+MEX.15.99_115 098	15	México	15 098	Texcalyacac	MEX.15_1	México	MEX.15.99_1	Texcalyacac
+MEX.15.100_115 099	15	México	15 099	Texcoco	MEX.15_1	México	MEX.15.100_1	Texcoco
+MEX.15.101_115 100	15	México	15 100	Tezoyuca	MEX.15_1	México	MEX.15.101_1	Tezoyuca
+MEX.15.102_115 101	15	México	15 101	Tianguistenco	MEX.15_1	México	MEX.15.102_1	Tianguistenco
+MEX.15.103_115 102	15	México	15 102	Timilpan	MEX.15_1	México	MEX.15.103_1	Timilpan
+MEX.15.104_115 103	15	México	15 103	Tlalmanalco	MEX.15_1	México	MEX.15.104_1	Tlalmanalco
+MEX.15.105_115 104	15	México	15 104	Tlalnepantla de Baz	MEX.15_1	México	MEX.15.105_1	Tlalnepantla
+MEX.15.106_115 105	15	México	15 105	Tlatlaya	MEX.15_1	México	MEX.15.106_1	Tlatlaya
+MEX.15.107_115 106	15	México	15 106	Toluca	MEX.15_1	México	MEX.15.107_1	Toluca
+MEX.15.108_115 107	15	México	15 107	Tonatico	MEX.15_1	México	MEX.15.108_1	Tonatico
+MEX.15.109_115 108	15	México	15 108	Tultepec	MEX.15_1	México	MEX.15.109_1	Tultepec
+MEX.15.110_115 109	15	México	15 109	Tultitlán	MEX.15_1	México	MEX.15.110_1	Tultitlán
+MEX.15.111_115 110	15	México	15 110	Valle de Bravo	MEX.15_1	México	MEX.15.111_1	Valle de Bravo
+MEX.15.112_115 111	15	México	15 111	Villa de Allende	MEX.15_1	México	MEX.15.112_1	Villa de Allende
+MEX.15.113_115 112	15	México	15 112	Villa del Carbón	MEX.15_1	México	MEX.15.113_1	Villa del Carbón
+MEX.15.114_115 113	15	México	15 113	Villa Guerrero	MEX.15_1	México	MEX.15.114_1	Villa Guerrero
+MEX.15.115_115 114	15	México	15 114	Villa Victoria	MEX.15_1	México	MEX.15.115_1	Villa Victoria
+MEX.15.116_115 115	15	México	15 115	Xonacatlán	MEX.15_1	México	MEX.15.116_1	Xonacatlán
+MEX.15.117_115 116	15	México	15 116	Zacazonapan	MEX.15_1	México	MEX.15.117_1	Zacazonapan
+MEX.15.118_115 117	15	México	15 117	Zacualpan	MEX.15_1	México	MEX.15.118_1	Zacualpan
+MEX.15.119_115 118	15	México	15 118	Zinacantepec	MEX.15_1	México	MEX.15.119_1	Zinacatepec
+MEX.15.120_115 119	15	México	15 119	Zumpahuacán	MEX.15_1	México	MEX.15.120_1	Zumpahuacan
+MEX.15.121_115 120	15	México	15 120	Zumpango	MEX.15_1	México	MEX.15.121_1	Zumpango
+MEX.15.32_115 121	15	México	15 121	Cuautitlán Izcalli	MEX.15_1	México	MEX.15.32_1	Cuautitlán Izcalli
+MEX.16.1_116 001	16	Michoacán	16 001	Acuitzio	MEX.16_1	Michoacán	MEX.16.1_1	Acuitzio
+MEX.16.2_116 002	16	Michoacán	16 002	Aguililla	MEX.16_1	Michoacán	MEX.16.2_1	Aguililla
+MEX.16.3_116 003	16	Michoacán	16 003	Álvaro Obregón	MEX.16_1	Michoacán	MEX.16.3_1	Álvaro Obregón
+MEX.16.4_116 004	16	Michoacán	16 004	Angamacutiro	MEX.16_1	Michoacán	MEX.16.4_1	Angamacutiro
+MEX.16.5_116 005	16	Michoacán	16 005	Angangueo	MEX.16_1	Michoacán	MEX.16.5_1	Angangueo
+MEX.16.6_116 006	16	Michoacán	16 006	Apatzingán	MEX.16_1	Michoacán	MEX.16.6_1	Apatzingán
+MEX.16.7_116 007	16	Michoacán	16 007	Aporo	MEX.16_1	Michoacán	MEX.16.7_1	Aporo
+MEX.16.8_116 008	16	Michoacán	16 008	Aquila	MEX.16_1	Michoacán	MEX.16.8_1	Aquila
+MEX.16.9_116 009	16	Michoacán	16 009	Ario	MEX.16_1	Michoacán	MEX.16.9_1	Ario
+MEX.16.10_116 010	16	Michoacán	16 010	Arteaga	MEX.16_1	Michoacán	MEX.16.10_1	Arteaga
+MEX.16.11_116 011	16	Michoacán	16 011	Briseñas	MEX.16_1	Michoacán	MEX.16.11_1	Briseñas
+MEX.16.12_116 012	16	Michoacán	16 012	Buenavista	MEX.16_1	Michoacán	MEX.16.12_1	Buenavista
+MEX.16.13_116 013	16	Michoacán	16 013	Carácuaro	MEX.16_1	Michoacán	MEX.16.13_1	Carácuaro
+MEX.16.23_116 014	16	Michoacán	16 014	Coahuayana	MEX.16_1	Michoacán	MEX.16.23_1	Coahuayana
+MEX.16.24_116 015	16	Michoacán	16 015	Coalcomán de Vázquez Pallares	MEX.16_1	Michoacán	MEX.16.24_1	Coalcomán de Vázquez Pallares
+MEX.16.25_116 016	16	Michoacán	16 016	Coeneo	MEX.16_1	Michoacán	MEX.16.25_1	Coeneo
+MEX.16.27_116 017	16	Michoacán	16 017	Contepec	MEX.16_1	Michoacán	MEX.16.27_1	Contepec
+MEX.16.28_116 018	16	Michoacán	16 018	Copándaro	MEX.16_1	Michoacán	MEX.16.28_1	Copándaro
+MEX.16.29_116 019	16	Michoacán	16 019	Cotija	MEX.16_1	Michoacán	MEX.16.29_1	Cotija
+MEX.16.30_116 020	16	Michoacán	16 020	Cuitzeo	MEX.16_1	Michoacán	MEX.16.30_1	Cuitzeo
+MEX.16.14_116 021	16	Michoacán	16 021	Charapan	MEX.16_1	Michoacán	MEX.16.14_1	Charapan
+MEX.16.15_116 022	16	Michoacán	16 022	Charo	MEX.16_1	Michoacán	MEX.16.15_1	Charo
+MEX.16.16_116 023	16	Michoacán	16 023	Chavinda	MEX.16_1	Michoacán	MEX.16.16_1	Chavinda
+MEX.16.17_116 024	16	Michoacán	16 024	Cherán	MEX.16_1	Michoacán	MEX.16.17_1	Cherán
+MEX.16.18_116 025	16	Michoacán	16 025	Chilchota	MEX.16_1	Michoacán	MEX.16.18_1	Chilchota
+MEX.16.19_116 026	16	Michoacán	16 026	Chinicuila	MEX.16_1	Michoacán	MEX.16.19_1	Chinicuila
+MEX.16.20_116 027	16	Michoacán	16 027	Chucándiro	MEX.16_1	Michoacán	MEX.16.20_1	Chucándiro
+MEX.16.21_116 028	16	Michoacán	16 028	Churintzio	MEX.16_1	Michoacán	MEX.16.21_1	Churintzio
+MEX.16.22_116 029	16	Michoacán	16 029	Churumuco	MEX.16_1	Michoacán	MEX.16.22_1	Churumuco
+MEX.16.31_116 030	16	Michoacán	16 030	Ecuandureo	MEX.16_1	Michoacán	MEX.16.31_1	Ecuandureo
+MEX.16.32_116 031	16	Michoacán	16 031	Epitacio Huerta	MEX.16_1	Michoacán	MEX.16.32_1	Epitacio Huerta
+MEX.16.33_116 032	16	Michoacán	16 032	Erongarícuaro	MEX.16_1	Michoacán	MEX.16.33_1	Erongarícuaro
+MEX.16.34_116 033	16	Michoacán	16 033	Gabriel Zamora	MEX.16_1	Michoacán	MEX.16.34_1	Gabriel Zamora
+MEX.16.35_116 034	16	Michoacán	16 034	Hidalgo	MEX.16_1	Michoacán	MEX.16.35_1	Hidalgo
+MEX.16.49_116 035	16	Michoacán	16 035	La Huacana	MEX.16_1	Michoacán	MEX.16.49_1	La Huacana
+MEX.16.36_116 036	16	Michoacán	16 036	Huandacareo	MEX.16_1	Michoacán	MEX.16.36_1	Huandacareo
+MEX.16.37_116 037	16	Michoacán	16 037	Huaniqueo	MEX.16_1	Michoacán	MEX.16.37_1	Huaniqueo
+MEX.16.38_116 038	16	Michoacán	16 038	Huetamo	MEX.16_1	Michoacán	MEX.16.38_1	Huetamo
+MEX.16.39_116 039	16	Michoacán	16 039	Huiramba	MEX.16_1	Michoacán	MEX.16.39_1	Huiramba
+MEX.16.40_116 040	16	Michoacán	16 040	Indaparapeo	MEX.16_1	Michoacán	MEX.16.40_1	Indoparapeo
+MEX.16.41_116 041	16	Michoacán	16 041	Irimbo	MEX.16_1	Michoacán	MEX.16.41_1	Irimbo
+MEX.16.42_116 042	16	Michoacán	16 042	Ixtlán	MEX.16_1	Michoacán	MEX.16.42_1	Ixtlán
+MEX.16.43_116 043	16	Michoacán	16 043	Jacona	MEX.16_1	Michoacán	MEX.16.43_1	Jacona
+MEX.16.44_116 044	16	Michoacán	16 044	Jiménez	MEX.16_1	Michoacán	MEX.16.44_1	Jiménez
+MEX.16.45_116 045	16	Michoacán	16 045	Jiquilpan	MEX.16_1	Michoacán	MEX.16.45_1	Jiquilpan
+MEX.16.47_116 046	16	Michoacán	16 046	Juárez	MEX.16_1	Michoacán	MEX.16.47_1	Juárez
+MEX.16.48_116 047	16	Michoacán	16 047	Jungapeo	MEX.16_1	Michoacán	MEX.16.48_1	Jungapeo
+MEX.16.51_116 048	16	Michoacán	16 048	Lagunillas	MEX.16_1	Michoacán	MEX.16.51_1	Lagunillas
+MEX.16.54_116 049	16	Michoacán	16 049	Madero	MEX.16_1	Michoacán	MEX.16.54_1	Madero
+MEX.16.55_116 050	16	Michoacán	16 050	Maravatío	MEX.16_1	Michoacán	MEX.16.55_1	Maravatío
+MEX.16.56_116 051	16	Michoacán	16 051	Marcos Castellanos	MEX.16_1	Michoacán	MEX.16.56_1	Marcos Castellanos
+MEX.16.52_116 052	16	Michoacán	16 052	Lázaro Cárdenas	MEX.16_1	Michoacán	MEX.16.52_1	Lázaro Cárdenas
+MEX.16.57_116 053	16	Michoacán	16 053	Morelia	MEX.16_1	Michoacán	MEX.16.57_1	Morelia
+MEX.16.58_116 054	16	Michoacán	16 054	Morelos	MEX.16_1	Michoacán	MEX.16.58_1	Morelos
+MEX.16.59_116 055	16	Michoacán	16 055	Múgica	MEX.16_1	Michoacán	MEX.16.59_1	Múgica
+MEX.16.60_116 056	16	Michoacán	16 056	Nahuatzen	MEX.16_1	Michoacán	MEX.16.60_1	Nahuatzen
+MEX.16.61_116 057	16	Michoacán	16 057	Nocupétaro	MEX.16_1	Michoacán	MEX.16.61_1	Nocupétaro
+MEX.16.62_116 058	16	Michoacán	16 058	Nuevo Parangaricutiro	MEX.16_1	Michoacán	MEX.16.62_1	Nuevo Paranguricutiro
+MEX.16.63_116 059	16	Michoacán	16 059	Nuevo Urecho	MEX.16_1	Michoacán	MEX.16.63_1	Nuevo Urecho
+MEX.16.64_116 060	16	Michoacán	16 060	Numarán	MEX.16_1	Michoacán	MEX.16.64_1	Numarán
+MEX.16.65_116 061	16	Michoacán	16 061	Ocampo	MEX.16_1	Michoacán	MEX.16.65_1	Ocampo
+MEX.16.66_116 062	16	Michoacán	16 062	Pajacuarán	MEX.16_1	Michoacán	MEX.16.66_1	Pajacuarán
+MEX.16.67_116 063	16	Michoacán	16 063	Panindícuaro	MEX.16_1	Michoacán	MEX.16.67_1	Panindícuaro
+MEX.16.69_116 064	16	Michoacán	16 064	Parácuaro	MEX.16_1	Michoacán	MEX.16.69_1	Parácuaro
+MEX.16.68_116 065	16	Michoacán	16 065	Paracho	MEX.16_1	Michoacán	MEX.16.68_1	Paracho
+MEX.16.70_116 066	16	Michoacán	16 066	Pátzcuaro	MEX.16_1	Michoacán	MEX.16.70_1	Pátzcuaro
+MEX.16.71_116 067	16	Michoacán	16 067	Penjamillo	MEX.16_1	Michoacán	MEX.16.71_1	Penjamillo
+MEX.16.72_116 068	16	Michoacán	16 068	Peribán	MEX.16_1	Michoacán	MEX.16.72_1	Peribán
+MEX.16.50_116 069	16	Michoacán	16 069	La Piedad	MEX.16_1	Michoacán	MEX.16.50_1	La Piedad
+MEX.16.73_116 070	16	Michoacán	16 070	Purépero	MEX.16_1	Michoacán	MEX.16.73_1	Purépero
+MEX.16.74_116 071	16	Michoacán	16 071	Puruándiro	MEX.16_1	Michoacán	MEX.16.74_1	Puruándiro
+MEX.16.75_116 072	16	Michoacán	16 072	Queréndaro	MEX.16_1	Michoacán	MEX.16.75_1	Queréndaro
+MEX.16.76_116 073	16	Michoacán	16 073	Quiroga	MEX.16_1	Michoacán	MEX.16.76_1	Quiroga
+MEX.16.26_116 074	16	Michoacán	16 074	Cojumatlán de Régules	MEX.16_1	Michoacán	MEX.16.26_1	Cojumatlán de Régules
+MEX.16.53_116 075	16	Michoacán	16 075	Los Reyes	MEX.16_1	Michoacán	MEX.16.53_1	Los Reyes
+MEX.16.77_116 076	16	Michoacán	16 076	Sahuayo	MEX.16_1	Michoacán	MEX.16.77_1	Sahuayo
+MEX.16.79_116 077	16	Michoacán	16 077	San Lucas	MEX.16_1	Michoacán	MEX.16.79_1	San Lucas
+MEX.16.80_116 078	16	Michoacán	16 078	Santa Ana Maya	MEX.16_1	Michoacán	MEX.16.80_1	Santa Ana Maya
+MEX.16.78_116 079	16	Michoacán	16 079	Salvador Escalante	MEX.16_1	Michoacán	MEX.16.78_1	Salvador Escalante
+MEX.16.81_116 080	16	Michoacán	16 080	Senguio	MEX.16_1	Michoacán	MEX.16.81_1	Senguio
+MEX.16.82_116 081	16	Michoacán	16 081	Susupuato	MEX.16_1	Michoacán	MEX.16.82_1	Susupuato
+MEX.16.83_116 082	16	Michoacán	16 082	Tacámbaro	MEX.16_1	Michoacán	MEX.16.83_1	Tacámbaro
+MEX.16.84_116 084	16	Michoacán	16 084	Tangamandapio	MEX.16_1	Michoacán	MEX.16.84_1	Tangamandapio
+MEX.16.85_116 085	16	Michoacán	16 085	Tangancícuaro	MEX.16_1	Michoacán	MEX.16.85_1	Tangancícuaro
+MEX.16.86_116 086	16	Michoacán	16 086	Tanhuato	MEX.16_1	Michoacán	MEX.16.86_1	Tanhuato
+MEX.16.87_116 087	16	Michoacán	16 087	Taretan	MEX.16_1	Michoacán	MEX.16.87_1	Taretan
+MEX.16.88_116 088	16	Michoacán	16 088	Tarímbaro	MEX.16_1	Michoacán	MEX.16.88_1	Tarímbaro
+MEX.16.89_116 089	16	Michoacán	16 089	Tepalcatepec	MEX.16_1	Michoacán	MEX.16.89_1	Tepalcatepec
+MEX.16.90_116 090	16	Michoacán	16 090	Tingambato	MEX.16_1	Michoacán	MEX.16.90_1	Tingambato
+MEX.16.91_116 091	16	Michoacán	16 091	Tingüindín	MEX.16_1	Michoacán	MEX.16.91_1	Tinguindín
+MEX.16.92_116 092	16	Michoacán	16 092	Tiquicheo de Nicolás Romero	MEX.16_1	Michoacán	MEX.16.92_1	Tiquicheo de Nicolás Romero
+MEX.16.93_116 093	16	Michoacán	16 093	Tlalpujahua	MEX.16_1	Michoacán	MEX.16.93_1	Tlalpujahua
+MEX.16.94_116 094	16	Michoacán	16 094	Tlazazalca	MEX.16_1	Michoacán	MEX.16.94_1	Tlazazalca
+MEX.16.95_116 095	16	Michoacán	16 095	Tocumbo	MEX.16_1	Michoacán	MEX.16.95_1	Tocumbo
+MEX.16.96_116 096	16	Michoacán	16 096	Tumbiscatío	MEX.16_1	Michoacán	MEX.16.96_1	Tumbiscatío
+MEX.16.97_116 097	16	Michoacán	16 097	Turicato	MEX.16_1	Michoacán	MEX.16.97_1	Turicato
+MEX.16.98_116 098	16	Michoacán	16 098	Tuxpan	MEX.16_1	Michoacán	MEX.16.98_1	Tuxpan
+MEX.16.99_116 099	16	Michoacán	16 099	Tuzantla	MEX.16_1	Michoacán	MEX.16.99_1	Tuzantla
+MEX.16.100_116 100	16	Michoacán	16 100	Tzintzuntzan	MEX.16_1	Michoacán	MEX.16.100_1	Tzintzuntzan
+MEX.16.101_116 101	16	Michoacán	16 101	Tzitzio	MEX.16_1	Michoacán	MEX.16.101_1	Tzitzio
+MEX.16.102_116 102	16	Michoacán	16 102	Uruapan	MEX.16_1	Michoacán	MEX.16.102_1	Uruapan
+MEX.16.103_116 103	16	Michoacán	16 103	Venustiano Carranza	MEX.16_1	Michoacán	MEX.16.103_1	Venustiano Carranza
+MEX.16.104_116 104	16	Michoacán	16 104	Villamar	MEX.16_1	Michoacán	MEX.16.104_1	Villamar
+MEX.16.105_116 105	16	Michoacán	16 105	Vista Hermosa	MEX.16_1	Michoacán	MEX.16.105_1	Vista Hermosa
+MEX.16.106_116 106	16	Michoacán	16 106	Yurécuaro	MEX.16_1	Michoacán	MEX.16.106_1	Yurécuaro
+MEX.16.107_116 107	16	Michoacán	16 107	Zacapu	MEX.16_1	Michoacán	MEX.16.107_1	Zacapu
+MEX.16.108_116 108	16	Michoacán	16 108	Zamora	MEX.16_1	Michoacán	MEX.16.108_1	Zamora
+MEX.16.109_116 109	16	Michoacán	16 109	Zináparo	MEX.16_1	Michoacán	MEX.16.109_1	Zináparo
+MEX.16.110_116 110	16	Michoacán	16 110	Zinapécuaro	MEX.16_1	Michoacán	MEX.16.110_1	Zinapécuaro
+MEX.16.111_116 111	16	Michoacán	16 111	Ziracuaretiro	MEX.16_1	Michoacán	MEX.16.111_1	Ziracuaretiro
+MEX.16.113_116 112	16	Michoacán	16 112	Zitácuaro	MEX.16_1	Michoacán	MEX.16.113_1	Zitácuaro
+MEX.16.46_116 113	16	Michoacán	16 113	José Sixto Verduzco	MEX.16_1	Michoacán	MEX.16.46_1	José Sixto Verduzco
+MEX.17.1_117 001	17	Morelos	17 001	Amacuzac	MEX.17_1	Morelos	MEX.17.1_1	Amacuzac
+MEX.17.2_117 002	17	Morelos	17 002	Atlatlahucan	MEX.17_1	Morelos	MEX.17.2_1	Atlatlahucan
+MEX.17.3_117 003	17	Morelos	17 003	Axochiapan	MEX.17_1	Morelos	MEX.17.3_1	Axochiapan
+MEX.17.4_117 004	17	Morelos	17 004	Ayala	MEX.17_1	Morelos	MEX.17.4_1	Ayala
+MEX.17.5_117 005	17	Morelos	17 005	Coatlán del Río	MEX.17_1	Morelos	MEX.17.5_1	Coatlán del Río
+MEX.17.6_117 006	17	Morelos	17 006	Cuautla	MEX.17_1	Morelos	MEX.17.6_1	Cuautla
+MEX.17.7_117 007	17	Morelos	17 007	Cuernavaca	MEX.17_1	Morelos	MEX.17.7_1	Cuernavaca
+MEX.17.8_117 008	17	Morelos	17 008	Emiliano Zapata	MEX.17_1	Morelos	MEX.17.8_1	Emiliano Zapata
+MEX.17.9_117 009	17	Morelos	17 009	Huitzilac	MEX.17_1	Morelos	MEX.17.9_1	Huitzilac
+MEX.17.10_117 010	17	Morelos	17 010	Jantetelco	MEX.17_1	Morelos	MEX.17.10_1	Jantetelco
+MEX.17.11_117 011	17	Morelos	17 011	Jiutepec	MEX.17_1	Morelos	MEX.17.11_1	Jiutepec
+MEX.17.12_117 012	17	Morelos	17 012	Jojutla	MEX.17_1	Morelos	MEX.17.12_1	Jojutla
+MEX.17.13_117 013	17	Morelos	17 013	Jonacatepec	MEX.17_1	Morelos	MEX.17.13_1	Jonacatepec
+MEX.17.14_117 014	17	Morelos	17 014	Mazatepec	MEX.17_1	Morelos	MEX.17.14_1	Mazatepec
+MEX.17.15_117 015	17	Morelos	17 015	Miacatlán	MEX.17_1	Morelos	MEX.17.15_1	Miacatlán
+MEX.17.16_117 016	17	Morelos	17 016	Ocuituco	MEX.17_1	Morelos	MEX.17.16_1	Ocuituco
+MEX.17.17_117 017	17	Morelos	17 017	Puente de Ixtla	MEX.17_1	Morelos	MEX.17.17_1	Puente de Ixtla
+MEX.17.18_117 018	17	Morelos	17 018	Temixco	MEX.17_1	Morelos	MEX.17.18_1	Temixco
+MEX.17.20_117 019	17	Morelos	17 019	Tepalcingo	MEX.17_1	Morelos	MEX.17.20_1	Tepalcingo
+MEX.17.21_117 020	17	Morelos	17 020	Tepoztlán	MEX.17_1	Morelos	MEX.17.21_1	Tepoztlán
+MEX.17.22_117 021	17	Morelos	17 021	Tetecala	MEX.17_1	Morelos	MEX.17.22_1	Tetecala
+MEX.17.23_117 022	17	Morelos	17 022	Tetela del Volcán	MEX.17_1	Morelos	MEX.17.23_1	Tetela del Volcán
+MEX.17.24_117 023	17	Morelos	17 023	Tlalnepantla	MEX.17_1	Morelos	MEX.17.24_1	Tlalnepantla
+MEX.17.25_117 024	17	Morelos	17 024	Tlaltizapán	MEX.17_1	Morelos	MEX.17.25_1	Tlaltizapán
+MEX.17.26_117 025	17	Morelos	17 025	Tlaquiltenango	MEX.17_1	Morelos	MEX.17.26_1	Tlaquiltenango
+MEX.17.27_117 026	17	Morelos	17 026	Tlayacapan	MEX.17_1	Morelos	MEX.17.27_1	Tlayacapan
+MEX.17.28_117 027	17	Morelos	17 027	Totolapan	MEX.17_1	Morelos	MEX.17.28_1	Totolapan
+MEX.17.29_117 028	17	Morelos	17 028	Xochitepec	MEX.17_1	Morelos	MEX.17.29_1	Xochitepec
+MEX.17.30_117 029	17	Morelos	17 029	Yautepec	MEX.17_1	Morelos	MEX.17.30_1	Yautepec
+MEX.17.31_117 030	17	Morelos	17 030	Yecapixtla	MEX.17_1	Morelos	MEX.17.31_1	Yecapixtla
+MEX.17.32_117 031	17	Morelos	17 031	Zacatepec	MEX.17_1	Morelos	MEX.17.32_1	Zacatepec de Hidalgo
+MEX.17.33_117 032	17	Morelos	17 032	Zacualpan	MEX.17_1	Morelos	MEX.17.33_1	Zacualpan
+MEX.17.19_117 033	17	Morelos	17 033	Temoac	MEX.17_1	Morelos	MEX.17.19_1	Temoac
+MEX.18.1_118 001	18	Nayarit	18 001	Acaponeta	MEX.18_1	Nayarit	MEX.18.1_1	Acaponeta
+MEX.18.2_118 002	18	Nayarit	18 002	Ahuacatlán	MEX.18_1	Nayarit	MEX.18.2_1	Ahuacatlán
+MEX.18.3_118 003	18	Nayarit	18 003	Amatlán de Cañas	MEX.18_1	Nayarit	MEX.18.3_1	Amatlán de Cañas
+MEX.18.4_118 004	18	Nayarit	18 004	Compostela	MEX.18_1	Nayarit	MEX.18.4_1	Compostela
+MEX.18.6_118 005	18	Nayarit	18 005	Huajicori	MEX.18_1	Nayarit	MEX.18.6_1	Huajicori
+MEX.18.7_118 006	18	Nayarit	18 006	Ixtlán del Río	MEX.18_1	Nayarit	MEX.18.7_1	Ixtlán del Río
+MEX.18.8_118 007	18	Nayarit	18 007	Jala	MEX.18_1	Nayarit	MEX.18.8_1	Jala
+MEX.18.20_118 008	18	Nayarit	18 008	Xalisco	MEX.18_1	Nayarit	MEX.18.20_1	Xalisco
+MEX.18.5_118 009	18	Nayarit	18 009	Del Nayar	MEX.18_1	Nayarit	MEX.18.5_1	El Nayar
+MEX.18.11_118 010	18	Nayarit	18 010	Rosamorada	MEX.18_1	Nayarit	MEX.18.11_1	Rosamorada
+MEX.18.12_118 011	18	Nayarit	18 011	Ruíz	MEX.18_1	Nayarit	MEX.18.12_1	Ruíz
+MEX.18.13_118 012	18	Nayarit	18 012	San Blas	MEX.18_1	Nayarit	MEX.18.13_1	San Blas
+MEX.18.14_118 013	18	Nayarit	18 013	San Pedro Lagunillas	MEX.18_1	Nayarit	MEX.18.14_1	San Pedro Lagunillas
+MEX.18.15_118 014	18	Nayarit	18 014	Santa María del Oro	MEX.18_1	Nayarit	MEX.18.15_1	Santa María del Oro
+MEX.18.16_118 015	18	Nayarit	18 015	Santiago Ixcuintla	MEX.18_1	Nayarit	MEX.18.16_1	Santiago Ixcuintla
+MEX.18.17_118 016	18	Nayarit	18 016	Tecuala	MEX.18_1	Nayarit	MEX.18.17_1	Tecuala
+MEX.18.18_118 017	18	Nayarit	18 017	Tepic	MEX.18_1	Nayarit	MEX.18.18_1	Tepic
+MEX.18.19_118 018	18	Nayarit	18 018	Tuxpan	MEX.18_1	Nayarit	MEX.18.19_1	Tuxpan
+MEX.18.9_118 019	18	Nayarit	18 019	La Yesca	MEX.18_1	Nayarit	MEX.18.9_1	La Yesca
+MEX.19.1_119 001	19	Nuevo León	19 001	Abasolo	MEX.19_1	Nuevo León	MEX.19.1_1	Abasolo
+MEX.19.2_119 002	19	Nuevo León	19 002	Agualeguas	MEX.19_1	Nuevo León	MEX.19.2_1	Agualeguas
+MEX.19.31_119 003	19	Nuevo León	19 003	Los Aldamas	MEX.19_1	Nuevo León	MEX.19.31_1	Los Aldamas
+MEX.19.3_119 004	19	Nuevo León	19 004	Allende	MEX.19_1	Nuevo León	MEX.19.3_1	Allende
+MEX.19.4_119 005	19	Nuevo León	19 005	Anáhuac	MEX.19_1	Nuevo León	MEX.19.4_1	Anáhuac
+MEX.19.5_119 006	19	Nuevo León	19 006	Apodaca	MEX.19_1	Nuevo León	MEX.19.5_1	Apodaca
+MEX.19.6_119 007	19	Nuevo León	19 007	Aramberri	MEX.19_1	Nuevo León	MEX.19.6_1	Aramberri
+MEX.19.7_119 008	19	Nuevo León	19 008	Bustamante	MEX.19_1	Nuevo León	MEX.19.7_1	Bustamante
+MEX.19.8_119 009	19	Nuevo León	19 009	Cadereyta Jiménez	MEX.19_1	Nuevo León	MEX.19.8_1	Cadereyta Jiménez
+MEX.19.9_119 010	19	Nuevo León	19 010	Carmen	MEX.19_1	Nuevo León	MEX.19.9_1	Carmen
+MEX.19.10_119 011	19	Nuevo León	19 011	Cerralvo	MEX.19_1	Nuevo León	MEX.19.10_1	Cerralvo
+MEX.19.12_119 012	19	Nuevo León	19 012	Ciénega de Flores	MEX.19_1	Nuevo León	MEX.19.12_1	Ciénega de Flores
+MEX.19.11_119 013	19	Nuevo León	19 013	China	MEX.19_1	Nuevo León	MEX.19.11_1	China
+MEX.19.13_119 014	19	Nuevo León	19 014	Dr. Arroyo	MEX.19_1	Nuevo León	MEX.19.13_1	Doctor Arroyo
+MEX.19.14_119 015	19	Nuevo León	19 015	Dr. Coss	MEX.19_1	Nuevo León	MEX.19.14_1	Doctor Coss
+MEX.19.15_119 016	19	Nuevo León	19 016	Dr. González	MEX.19_1	Nuevo León	MEX.19.15_1	Doctor González
+MEX.19.16_119 017	19	Nuevo León	19 017	Galeana	MEX.19_1	Nuevo León	MEX.19.16_1	Galeana
+MEX.19.17_119 018	19	Nuevo León	19 018	García	MEX.19_1	Nuevo León	MEX.19.17_1	García
+MEX.19.46_119 019	19	Nuevo León	19 019	San Pedro Garza García	MEX.19_1	Nuevo León	MEX.19.46_1	San Pedro Garza García
+MEX.19.18_119 020	19	Nuevo León	19 020	Gral. Bravo	MEX.19_1	Nuevo León	MEX.19.18_1	General Bravo
+MEX.19.19_119 021	19	Nuevo León	19 021	Gral. Escobedo	MEX.19_1	Nuevo León	MEX.19.19_1	General Escobedo
+MEX.19.20_119 022	19	Nuevo León	19 022	Gral. Terán	MEX.19_1	Nuevo León	MEX.19.20_1	General Terán
+MEX.19.21_119 023	19	Nuevo León	19 023	Gral. Treviño	MEX.19_1	Nuevo León	MEX.19.21_1	General Treviño
+MEX.19.22_119 024	19	Nuevo León	19 024	Gral. Zaragoza	MEX.19_1	Nuevo León	MEX.19.22_1	General Zaragoza
+MEX.19.23_119 025	19	Nuevo León	19 025	Gral. Zuazua	MEX.19_1	Nuevo León	MEX.19.23_1	General Zuazua
+MEX.19.24_119 026	19	Nuevo León	19 026	Guadalupe	MEX.19_1	Nuevo León	MEX.19.24_1	Guadalupe
+MEX.19.32_119 027	19	Nuevo León	19 027	Los Herreras	MEX.19_1	Nuevo León	MEX.19.32_1	Los Herreras
+MEX.19.26_119 028	19	Nuevo León	19 028	Higueras	MEX.19_1	Nuevo León	MEX.19.26_1	Higueras
+MEX.19.27_119 030	19	Nuevo León	19 030	Iturbide	MEX.19_1	Nuevo León	MEX.19.27_1	Iturbide
+MEX.19.28_119 031	19	Nuevo León	19 031	Juárez	MEX.19_1	Nuevo León	MEX.19.28_1	Juárez
+MEX.19.29_119 032	19	Nuevo León	19 032	Lampazos de Naranjo	MEX.19_1	Nuevo León	MEX.19.29_1	Lampazos de Naranjo
+MEX.19.30_119 033	19	Nuevo León	19 033	Linares	MEX.19_1	Nuevo León	MEX.19.30_1	Linares
+MEX.19.34_119 034	19	Nuevo León	19 034	Marín	MEX.19_1	Nuevo León	MEX.19.34_1	Marín
+MEX.19.35_119 035	19	Nuevo León	19 035	Melchor Ocampo	MEX.19_1	Nuevo León	MEX.19.35_1	Melchor Ocampo
+MEX.19.36_119 036	19	Nuevo León	19 036	Mier y Noriega	MEX.19_1	Nuevo León	MEX.19.36_1	Mier y Noriega
+MEX.19.37_119 037	19	Nuevo León	19 037	Mina	MEX.19_1	Nuevo León	MEX.19.37_1	Mina
+MEX.19.38_119 038	19	Nuevo León	19 038	Montemorelos	MEX.19_1	Nuevo León	MEX.19.38_1	Montemorelos
+MEX.19.39_119 039	19	Nuevo León	19 039	Monterrey	MEX.19_1	Nuevo León	MEX.19.39_1	Monterrey
+MEX.19.40_119 040	19	Nuevo León	19 040	Parás	MEX.19_1	Nuevo León	MEX.19.40_1	Parás
+MEX.19.41_119 041	19	Nuevo León	19 041	Pesquería	MEX.19_1	Nuevo León	MEX.19.41_1	Pesquería
+MEX.19.33_119 042	19	Nuevo León	19 042	Los Ramones	MEX.19_1	Nuevo León	MEX.19.33_1	Los Ramones
+MEX.19.42_119 043	19	Nuevo León	19 043	Rayones	MEX.19_1	Nuevo León	MEX.19.42_1	Rayones
+MEX.19.43_119 044	19	Nuevo León	19 044	Sabinas Hidalgo	MEX.19_1	Nuevo León	MEX.19.43_1	Sabinas Hidalgo
+MEX.19.44_119 045	19	Nuevo León	19 045	Salinas Victoria	MEX.19_1	Nuevo León	MEX.19.44_1	Salinas Victoria
+MEX.19.45_119 046	19	Nuevo León	19 046	San Nicolás de los Garza	MEX.19_1	Nuevo León	MEX.19.45_1	San Nicolás de los Garza
+MEX.19.25_119 047	19	Nuevo León	19 047	Hidalgo	MEX.19_1	Nuevo León	MEX.19.25_1	Hidalgo
+MEX.19.47_119 048	19	Nuevo León	19 048	Santa Catarina	MEX.19_1	Nuevo León	MEX.19.47_1	Santa Catarina
+MEX.19.48_119 049	19	Nuevo León	19 049	Santiago	MEX.19_1	Nuevo León	MEX.19.48_1	Santiago
+MEX.19.49_119 050	19	Nuevo León	19 050	Vallecillo	MEX.19_1	Nuevo León	MEX.19.49_1	Vallecillo
+MEX.19.50_119 051	19	Nuevo León	19 051	Villaldama	MEX.19_1	Nuevo León	MEX.19.50_1	Villaldama
+MEX.21.1_121 001	21	Puebla	21 001	Acajete	MEX.21_1	Puebla	MEX.21.1_1	Acajete
+MEX.21.2_121 002	21	Puebla	21 002	Acateno	MEX.21_1	Puebla	MEX.21.2_1	Acateno
+MEX.21.3_121 003	21	Puebla	21 003	Acatlán	MEX.21_1	Puebla	MEX.21.3_1	Acatlán
+MEX.21.4_121 004	21	Puebla	21 004	Acatzingo	MEX.21_1	Puebla	MEX.21.4_1	Acatzingo
+MEX.21.5_121 005	21	Puebla	21 005	Acteopan	MEX.21_1	Puebla	MEX.21.5_1	Acteopan
+MEX.21.6_121 006	21	Puebla	21 006	Ahuacatlán	MEX.21_1	Puebla	MEX.21.6_1	Ahuacatlán
+MEX.21.7_121 007	21	Puebla	21 007	Ahuatlán	MEX.21_1	Puebla	MEX.21.7_1	Ahuatlán
+MEX.21.8_121 008	21	Puebla	21 008	Ahuazotepec	MEX.21_1	Puebla	MEX.21.8_1	Ahuazotepec
+MEX.21.9_121 009	21	Puebla	21 009	Ahuehuetitla	MEX.21_1	Puebla	MEX.21.9_1	Ahuehuetitla
+MEX.21.10_121 010	21	Puebla	21 010	Ajalpan	MEX.21_1	Puebla	MEX.21.10_1	Ajalpan
+MEX.21.11_121 011	21	Puebla	21 011	Albino Zertuche	MEX.21_1	Puebla	MEX.21.11_1	Albino Zertuche
+MEX.21.12_121 012	21	Puebla	21 012	Aljojuca	MEX.21_1	Puebla	MEX.21.12_1	Aljojuca
+MEX.21.13_121 013	21	Puebla	21 013	Altepexi	MEX.21_1	Puebla	MEX.21.13_1	Altepexi
+MEX.21.14_121 014	21	Puebla	21 014	Amixtlán	MEX.21_1	Puebla	MEX.21.14_1	Amixtlán
+MEX.21.15_121 015	21	Puebla	21 015	Amozoc	MEX.21_1	Puebla	MEX.21.15_1	Amozoc
+MEX.21.16_121 016	21	Puebla	21 016	Aquixtla	MEX.21_1	Puebla	MEX.21.16_1	Aquixtla
+MEX.21.17_121 017	21	Puebla	21 017	Atempan	MEX.21_1	Puebla	MEX.21.17_1	Atempan
+MEX.21.18_121 018	21	Puebla	21 018	Atexcal	MEX.21_1	Puebla	MEX.21.18_1	Atexcal
+MEX.21.19_121 019	21	Puebla	21 019	Atlixco	MEX.21_1	Puebla	MEX.21.19_1	Atlixco
+MEX.21.20_121 020	21	Puebla	21 020	Atoyatempan	MEX.21_1	Puebla	MEX.21.20_1	Atoyatempan
+MEX.21.21_121 021	21	Puebla	21 021	Atzala	MEX.21_1	Puebla	MEX.21.21_1	Atzala
+MEX.21.22_121 022	21	Puebla	21 022	Atzitzihuacán	MEX.21_1	Puebla	MEX.21.22_1	Atzitzihuacán
+MEX.21.23_121 024	21	Puebla	21 024	Axutla	MEX.21_1	Puebla	MEX.21.23_1	Axutla
+MEX.21.24_121 025	21	Puebla	21 025	Ayotoxco de Guerrero	MEX.21_1	Puebla	MEX.21.24_1	Ayotoxco de Guerrero
+MEX.21.25_121 026	21	Puebla	21 026	Calpan	MEX.21_1	Puebla	MEX.21.25_1	Calpan
+MEX.21.26_121 027	21	Puebla	21 027	Caltepec	MEX.21_1	Puebla	MEX.21.26_1	Caltepec
+MEX.21.27_121 028	21	Puebla	21 028	Camocuautla	MEX.21_1	Puebla	MEX.21.27_1	Camocuautla
+MEX.21.29_121 029	21	Puebla	21 029	Caxhuacan	MEX.21_1	Puebla	MEX.21.29_1	Caxhuacan
+MEX.21.44_121 030	21	Puebla	21 030	Coatepec	MEX.21_1	Puebla	MEX.21.44_1	Coatepec
+MEX.21.45_121 031	21	Puebla	21 031	Coatzingo	MEX.21_1	Puebla	MEX.21.45_1	Coatzingo
+MEX.21.46_121 032	21	Puebla	21 032	Cohetzala	MEX.21_1	Puebla	MEX.21.46_1	Cohetzala
+MEX.21.47_121 033	21	Puebla	21 033	Cohuecan	MEX.21_1	Puebla	MEX.21.47_1	Cohuecán
+MEX.21.48_121 034	21	Puebla	21 034	Coronango	MEX.21_1	Puebla	MEX.21.48_1	Coronango
+MEX.21.49_121 035	21	Puebla	21 035	Coxcatlán	MEX.21_1	Puebla	MEX.21.49_1	Coxcatlán
+MEX.21.50_121 036	21	Puebla	21 036	Coyomeapan	MEX.21_1	Puebla	MEX.21.50_1	Coyomeapan
+MEX.21.51_121 037	21	Puebla	21 037	Coyotepec	MEX.21_1	Puebla	MEX.21.51_1	Coyotepec
+MEX.21.52_121 038	21	Puebla	21 038	Cuapiaxtla de Madero	MEX.21_1	Puebla	MEX.21.52_1	Cuapiaxtla de Madero
+MEX.21.53_121 039	21	Puebla	21 039	Cuautempan	MEX.21_1	Puebla	MEX.21.53_1	Cuautempan
+MEX.21.54_121 040	21	Puebla	21 040	Cuautinchán	MEX.21_1	Puebla	MEX.21.54_1	Cuautinchán
+MEX.21.55_121 041	21	Puebla	21 041	Cuautlancingo	MEX.21_1	Puebla	MEX.21.55_1	Cuautlancingo
+MEX.21.56_121 042	21	Puebla	21 042	Cuayuca de Andrade	MEX.21_1	Puebla	MEX.21.56_1	Cuayuca de Andrade
+MEX.21.57_121 043	21	Puebla	21 043	Cuetzalan del Progreso	MEX.21_1	Puebla	MEX.21.57_1	Cuetzalan del Progreso
+MEX.21.58_121 044	21	Puebla	21 044	Cuyoaco	MEX.21_1	Puebla	MEX.21.58_1	Cuyoaco
+MEX.21.30_121 045	21	Puebla	21 045	Chalchicomula de Sesma	MEX.21_1	Puebla	MEX.21.30_1	Chalchicomula de Sesma
+MEX.21.31_121 046	21	Puebla	21 046	Chapulco	MEX.21_1	Puebla	MEX.21.31_1	Chapulco
+MEX.21.32_121 047	21	Puebla	21 047	Chiautla	MEX.21_1	Puebla	MEX.21.32_1	Chiautla
+MEX.21.33_121 048	21	Puebla	21 048	Chiautzingo	MEX.21_1	Puebla	MEX.21.33_1	Chiautzingo
+MEX.21.35_121 049	21	Puebla	21 049	Chiconcuautla	MEX.21_1	Puebla	MEX.21.35_1	Chiconcuautla
+MEX.21.34_121 050	21	Puebla	21 050	Chichiquila	MEX.21_1	Puebla	MEX.21.34_1	Chichiquila
+MEX.21.36_121 051	21	Puebla	21 051	Chietla	MEX.21_1	Puebla	MEX.21.36_1	Chietla
+MEX.21.37_121 052	21	Puebla	21 052	Chigmecatitlán	MEX.21_1	Puebla	MEX.21.37_1	Chigmecatitlán
+MEX.21.38_121 053	21	Puebla	21 053	Chignahuapan	MEX.21_1	Puebla	MEX.21.38_1	Chignahuapan
+MEX.21.39_121 054	21	Puebla	21 054	Chignautla	MEX.21_1	Puebla	MEX.21.39_1	Chignautla
+MEX.21.40_121 055	21	Puebla	21 055	Chila	MEX.21_1	Puebla	MEX.21.40_1	Chila
+MEX.21.41_121 056	21	Puebla	21 056	Chila de la Sal	MEX.21_1	Puebla	MEX.21.41_1	Chila de la Sal
+MEX.21.68_121 057	21	Puebla	21 057	Honey	MEX.21_1	Puebla	MEX.21.68_1	Honey
+MEX.21.42_121 058	21	Puebla	21 058	Chilchotla	MEX.21_1	Puebla	MEX.21.42_1	Chilchotla
+MEX.21.43_121 059	21	Puebla	21 059	Chinantla	MEX.21_1	Puebla	MEX.21.43_1	Chinantla
+MEX.21.59_121 060	21	Puebla	21 060	Domingo Arenas	MEX.21_1	Puebla	MEX.21.59_1	Domingo Arenas
+MEX.21.60_121 061	21	Puebla	21 061	Eloxochitlán	MEX.21_1	Puebla	MEX.21.60_1	Eloxochitlán
+MEX.21.61_121 062	21	Puebla	21 062	Epatlán	MEX.21_1	Puebla	MEX.21.61_1	Epatlán
+MEX.21.62_121 063	21	Puebla	21 063	Esperanza	MEX.21_1	Puebla	MEX.21.62_1	Esperanza
+MEX.21.63_121 064	21	Puebla	21 064	Francisco Z. Mena	MEX.21_1	Puebla	MEX.21.63_1	Francisco Z. Mena
+MEX.21.64_121 065	21	Puebla	21 065	General Felipe Ángeles	MEX.21_1	Puebla	MEX.21.64_1	General Felipe Angeles
+MEX.21.65_121 066	21	Puebla	21 066	Guadalupe	MEX.21_1	Puebla	MEX.21.65_1	Guadalupe
+MEX.21.66_121 067	21	Puebla	21 067	Guadalupe Victoria	MEX.21_1	Puebla	MEX.21.66_1	Guadalupe Victoria
+MEX.21.67_121 068	21	Puebla	21 068	Hermenegildo Galeana	MEX.21_1	Puebla	MEX.21.67_1	Hermenegildo Galeana
+MEX.21.69_121 069	21	Puebla	21 069	Huaquechula	MEX.21_1	Puebla	MEX.21.69_1	Huaquechula
+MEX.21.70_121 070	21	Puebla	21 070	Huatlatlauca	MEX.21_1	Puebla	MEX.21.70_1	Huatlatlauca
+MEX.21.71_121 071	21	Puebla	21 071	Huauchinango	MEX.21_1	Puebla	MEX.21.71_1	Huauchinango
+MEX.21.72_121 072	21	Puebla	21 072	Huehuetla	MEX.21_1	Puebla	MEX.21.72_1	Huehuetla
+MEX.21.73_121 073	21	Puebla	21 073	Huehuetlán el Chico	MEX.21_1	Puebla	MEX.21.73_1	Huehuetlán el Chico
+MEX.21.75_121 074	21	Puebla	21 074	Huejotzingo	MEX.21_1	Puebla	MEX.21.75_1	Huejotzingo
+MEX.21.76_121 075	21	Puebla	21 075	Hueyapan	MEX.21_1	Puebla	MEX.21.76_1	Hueyapan
+MEX.21.77_121 076	21	Puebla	21 076	Hueytamalco	MEX.21_1	Puebla	MEX.21.77_1	Hueytamalco
+MEX.21.78_121 077	21	Puebla	21 077	Hueytlalpan	MEX.21_1	Puebla	MEX.21.78_1	Hueytlalpan
+MEX.21.79_121 078	21	Puebla	21 078	Huitzilan de Serdán	MEX.21_1	Puebla	MEX.21.79_1	Huitzilan de Serdán
+MEX.21.80_121 079	21	Puebla	21 079	Huitziltepec	MEX.21_1	Puebla	MEX.21.80_1	Huitziltepec
+MEX.21.82_121 081	21	Puebla	21 081	Ixcamilpa de Guerrero	MEX.21_1	Puebla	MEX.21.82_1	Ixcamilpa de Guerrero
+MEX.21.83_121 082	21	Puebla	21 082	Ixcaquixtla	MEX.21_1	Puebla	MEX.21.83_1	Ixcaquixtla
+MEX.21.84_121 083	21	Puebla	21 083	Ixtacamaxtitlán	MEX.21_1	Puebla	MEX.21.84_1	Ixtacamaxtitlán
+MEX.21.85_121 084	21	Puebla	21 084	Ixtepec	MEX.21_1	Puebla	MEX.21.85_1	Ixtepec
+MEX.21.86_121 085	21	Puebla	21 085	Izúcar de Matamoros	MEX.21_1	Puebla	MEX.21.86_1	Izúcar de Matamoros
+MEX.21.192_121 086	21	Puebla	21 086	Jalpan	MEX.21_1	Puebla	MEX.21.192_1	Xalpan
+MEX.21.87_121 087	21	Puebla	21 087	Jolalpan	MEX.21_1	Puebla	MEX.21.87_1	Jolalpan
+MEX.21.88_121 088	21	Puebla	21 088	Jonotla	MEX.21_1	Puebla	MEX.21.88_1	Jonotla
+MEX.21.89_121 089	21	Puebla	21 089	Jopala	MEX.21_1	Puebla	MEX.21.89_1	Jopala
+MEX.21.90_121 090	21	Puebla	21 090	Juan C. Bonilla	MEX.21_1	Puebla	MEX.21.90_1	Juan C. Bonilla
+MEX.21.91_121 091	21	Puebla	21 091	Juan Galindo	MEX.21_1	Puebla	MEX.21.91_1	Juan Galindo
+MEX.21.92_121 092	21	Puebla	21 092	Juan N. Méndez	MEX.21_1	Puebla	MEX.21.92_1	Juan N. Méndez
+MEX.21.94_121 093	21	Puebla	21 093	Lafragua	MEX.21_1	Puebla	MEX.21.94_1	Lafragua
+MEX.21.93_121 095	21	Puebla	21 095	La Magdalena Tlatlauquitepec	MEX.21_1	Puebla	MEX.21.93_1	La Magdalena Tlatlauquitepec
+MEX.21.96_121 096	21	Puebla	21 096	Mazapiltepec de Juárez	MEX.21_1	Puebla	MEX.21.96_1	Mazapiltepec de Juárez
+MEX.21.97_121 097	21	Puebla	21 097	Mixtla	MEX.21_1	Puebla	MEX.21.97_1	Mixtla
+MEX.21.98_121 098	21	Puebla	21 098	Molcaxac	MEX.21_1	Puebla	MEX.21.98_1	Molcaxac
+MEX.21.28_121 099	21	Puebla	21 099	Cañada Morelos	MEX.21_1	Puebla	MEX.21.28_1	Cañada Morelos
+MEX.21.99_121 100	21	Puebla	21 100	Naupan	MEX.21_1	Puebla	MEX.21.99_1	Naupan
+MEX.21.100_121 101	21	Puebla	21 101	Nauzontla	MEX.21_1	Puebla	MEX.21.100_1	Nauzontla
+MEX.21.101_121 102	21	Puebla	21 102	Nealtican	MEX.21_1	Puebla	MEX.21.101_1	Nealtican
+MEX.21.102_121 103	21	Puebla	21 103	Nicolás Bravo	MEX.21_1	Puebla	MEX.21.102_1	Nicolás Bravo
+MEX.21.103_121 104	21	Puebla	21 104	Nopalucan	MEX.21_1	Puebla	MEX.21.103_1	Nopalucan
+MEX.21.104_121 105	21	Puebla	21 105	Ocotepec	MEX.21_1	Puebla	MEX.21.104_1	Ocotepec
+MEX.21.105_121 106	21	Puebla	21 106	Ocoyucan	MEX.21_1	Puebla	MEX.21.105_1	Ocoyucan
+MEX.21.106_121 107	21	Puebla	21 107	Olintla	MEX.21_1	Puebla	MEX.21.106_1	Olintla
+MEX.21.107_121 108	21	Puebla	21 108	Oriental	MEX.21_1	Puebla	MEX.21.107_1	Oriental
+MEX.21.108_121 109	21	Puebla	21 109	Pahuatlán	MEX.21_1	Puebla	MEX.21.108_1	Pahuatlán
+MEX.21.109_121 110	21	Puebla	21 110	Palmar de Bravo	MEX.21_1	Puebla	MEX.21.109_1	Palmar de Bravo
+MEX.21.110_121 111	21	Puebla	21 111	Pantepec	MEX.21_1	Puebla	MEX.21.110_1	Pantepec
+MEX.21.111_121 112	21	Puebla	21 112	Petlalcingo	MEX.21_1	Puebla	MEX.21.111_1	Petlalcingo
+MEX.21.112_121 113	21	Puebla	21 113	Piaxtla	MEX.21_1	Puebla	MEX.21.112_1	Piaxtla
+MEX.21.113_121 114	21	Puebla	21 114	Puebla	MEX.21_1	Puebla	MEX.21.113_1	Puebla
+MEX.21.114_121 115	21	Puebla	21 115	Quecholac	MEX.21_1	Puebla	MEX.21.114_1	Quecholac
+MEX.21.115_121 116	21	Puebla	21 116	Quimixtlán	MEX.21_1	Puebla	MEX.21.115_1	Quimixtlán
+MEX.21.116_121 117	21	Puebla	21 117	Rafael Lara Grajales	MEX.21_1	Puebla	MEX.21.116_1	Rafael Lara Grajales
+MEX.21.95_121 118	21	Puebla	21 118	Los Reyes de Juárez	MEX.21_1	Puebla	MEX.21.95_1	Los Reyes de Juárez
+MEX.21.117_121 119	21	Puebla	21 119	San Andrés Cholula	MEX.21_1	Puebla	MEX.21.117_1	San Andrés Cholula
+MEX.21.118_121 120	21	Puebla	21 120	San Antonio Cañada	MEX.21_1	Puebla	MEX.21.118_1	San Antonio Cañada
+MEX.21.119_121 121	21	Puebla	21 121	San Diego la Mesa Tochimiltzingo	MEX.21_1	Puebla	MEX.21.119_1	San Diego la Mesa Tochimiltzingo
+MEX.21.120_121 122	21	Puebla	21 122	San Felipe Teotlalcingo	MEX.21_1	Puebla	MEX.21.120_1	San Felipe Teotlalcingo
+MEX.21.121_121 123	21	Puebla	21 123	San Felipe Tepatlán	MEX.21_1	Puebla	MEX.21.121_1	San Felipe Tepatlán
+MEX.21.122_121 124	21	Puebla	21 124	San Gabriel Chilac	MEX.21_1	Puebla	MEX.21.122_1	San Gabriel Chilac
+MEX.21.123_121 125	21	Puebla	21 125	San Gregorio Atzompa	MEX.21_1	Puebla	MEX.21.123_1	San Gregorio Atzompa
+MEX.21.124_121 126	21	Puebla	21 126	San Jerónimo Tecuanipan	MEX.21_1	Puebla	MEX.21.124_1	San Jerónimo Tecuanipan
+MEX.21.125_121 127	21	Puebla	21 127	San Jerónimo Xayacatlán	MEX.21_1	Puebla	MEX.21.125_1	San Jerónimo Xayacatlán
+MEX.21.126_121 128	21	Puebla	21 128	San José Chiapa	MEX.21_1	Puebla	MEX.21.126_1	San José Chiapa
+MEX.21.127_121 129	21	Puebla	21 129	San José Miahuatlán	MEX.21_1	Puebla	MEX.21.127_1	San José Miahuatlán
+MEX.21.128_121 130	21	Puebla	21 130	San Juan Atenco	MEX.21_1	Puebla	MEX.21.128_1	San Juan Atenco
+MEX.21.129_121 131	21	Puebla	21 131	San Juan Atzompa	MEX.21_1	Puebla	MEX.21.129_1	San Juan Atzompa
+MEX.21.130_121 132	21	Puebla	21 132	San Martín Texmelucan	MEX.21_1	Puebla	MEX.21.130_1	San Martín Texmelucan
+MEX.21.131_121 133	21	Puebla	21 133	San Martín Totoltepec	MEX.21_1	Puebla	MEX.21.131_1	San Martín Totoltepec
+MEX.21.132_121 134	21	Puebla	21 134	San Matías Tlalancaleca	MEX.21_1	Puebla	MEX.21.132_1	San Matías Tlalancaleca
+MEX.21.133_121 135	21	Puebla	21 135	San Miguel Ixitlán	MEX.21_1	Puebla	MEX.21.133_1	San Miguel Ixitlán
+MEX.21.134_121 136	21	Puebla	21 136	San Miguel Xoxtla	MEX.21_1	Puebla	MEX.21.134_1	San Miguel Xoxtla
+MEX.21.135_121 137	21	Puebla	21 137	San Nicolás Buenos Aires	MEX.21_1	Puebla	MEX.21.135_1	San Nicolás Buenos Aires
+MEX.21.136_121 138	21	Puebla	21 138	San Nicolás de los Ranchos	MEX.21_1	Puebla	MEX.21.136_1	San Nicolás de los Ranchos
+MEX.21.137_121 139	21	Puebla	21 139	San Pablo Anicano	MEX.21_1	Puebla	MEX.21.137_1	San Pablo Anicano
+MEX.21.138_121 140	21	Puebla	21 140	San Pedro Cholula	MEX.21_1	Puebla	MEX.21.138_1	San Pedro Cholula
+MEX.21.139_121 141	21	Puebla	21 141	San Pedro Yeloixtlahuaca	MEX.21_1	Puebla	MEX.21.139_1	San Pedro Yeloixtlahuaca
+MEX.21.140_121 142	21	Puebla	21 142	San Salvador el Seco	MEX.21_1	Puebla	MEX.21.140_1	San Salvador el Seco
+MEX.21.141_121 143	21	Puebla	21 143	San Salvador el Verde	MEX.21_1	Puebla	MEX.21.141_1	San Salvador el Verde
+MEX.21.142_121 144	21	Puebla	21 144	San Salvador Huixcolotla	MEX.21_1	Puebla	MEX.21.142_1	San Salvador Huixcolotla
+MEX.21.143_121 145	21	Puebla	21 145	San Sebastián Tlacotepec	MEX.21_1	Puebla	MEX.21.143_1	San Sebastián Tlacotepec
+MEX.21.144_121 146	21	Puebla	21 146	Santa Catarina Tlaltempan	MEX.21_1	Puebla	MEX.21.144_1	Santa Catarina Tlaltempan
+MEX.21.145_121 147	21	Puebla	21 147	Santa Inés Ahuatempan	MEX.21_1	Puebla	MEX.21.145_1	Santa Inés Ahuatempan
+MEX.21.146_121 148	21	Puebla	21 148	Santa Isabel Cholula	MEX.21_1	Puebla	MEX.21.146_1	Santa Isabel Cholula
+MEX.21.147_121 149	21	Puebla	21 149	Santiago Miahuatlán	MEX.21_1	Puebla	MEX.21.147_1	Santiago Miahuatlán
+MEX.21.74_121 150	21	Puebla	21 150	Huehuetlán el Grande	MEX.21_1	Puebla	MEX.21.74_1	Huehuetlán el Grande
+MEX.21.148_121 151	21	Puebla	21 151	Santo Tomás Hueyotlipan	MEX.21_1	Puebla	MEX.21.148_1	Santo Tomás Hueyotlipan
+MEX.21.149_121 152	21	Puebla	21 152	Soltepec	MEX.21_1	Puebla	MEX.21.149_1	Soltepec
+MEX.21.150_121 153	21	Puebla	21 153	Tecali de Herrera	MEX.21_1	Puebla	MEX.21.150_1	Tecali de Herrera
+MEX.21.151_121 154	21	Puebla	21 154	Tecamachalco	MEX.21_1	Puebla	MEX.21.151_1	Tecamachalco
+MEX.21.152_121 155	21	Puebla	21 155	Tecomatlán	MEX.21_1	Puebla	MEX.21.152_1	Tecomatlán
+MEX.21.153_121 156	21	Puebla	21 156	Tehuacán	MEX.21_1	Puebla	MEX.21.153_1	Tehuacán
+MEX.21.154_121 157	21	Puebla	21 157	Tehuitzingo	MEX.21_1	Puebla	MEX.21.154_1	Tehuitzingo
+MEX.21.155_121 158	21	Puebla	21 158	Tenampulco	MEX.21_1	Puebla	MEX.21.155_1	Tenampulco
+MEX.21.156_121 159	21	Puebla	21 159	Teopantlán	MEX.21_1	Puebla	MEX.21.156_1	Teopantlán
+MEX.21.157_121 160	21	Puebla	21 160	Teotlalco	MEX.21_1	Puebla	MEX.21.157_1	Teotlalco
+MEX.21.158_121 161	21	Puebla	21 161	Tepanco de López	MEX.21_1	Puebla	MEX.21.158_1	Tepanco de López
+MEX.21.159_121 162	21	Puebla	21 162	Tepango de Rodríguez	MEX.21_1	Puebla	MEX.21.159_1	Tepango de Rodríguez
+MEX.21.160_121 163	21	Puebla	21 163	Tepatlaxco de Hidalgo	MEX.21_1	Puebla	MEX.21.160_1	Tepatlaxco de Hidalgo
+MEX.21.161_121 164	21	Puebla	21 164	Tepeaca	MEX.21_1	Puebla	MEX.21.161_1	Tepeaca
+MEX.21.162_121 165	21	Puebla	21 165	Tepemaxalco	MEX.21_1	Puebla	MEX.21.162_1	Tepemaxalco
+MEX.21.163_121 166	21	Puebla	21 166	Tepeojuma	MEX.21_1	Puebla	MEX.21.163_1	Tepeojuma
+MEX.21.164_121 167	21	Puebla	21 167	Tepetzintla	MEX.21_1	Puebla	MEX.21.164_1	Tepetzintla
+MEX.21.165_121 168	21	Puebla	21 168	Tepexco	MEX.21_1	Puebla	MEX.21.165_1	Tepexco
+MEX.21.166_121 169	21	Puebla	21 169	Tepexi de Rodríguez	MEX.21_1	Puebla	MEX.21.166_1	Tepexi de Rodríguez
+MEX.21.167_121 170	21	Puebla	21 170	Tepeyahualco	MEX.21_1	Puebla	MEX.21.167_1	Tepeyahualco
+MEX.21.168_121 171	21	Puebla	21 171	Tepeyahualco de Cuauhtémoc	MEX.21_1	Puebla	MEX.21.168_1	Tepeyahualco de Cuauhtémoc
+MEX.21.169_121 172	21	Puebla	21 172	Tetela de Ocampo	MEX.21_1	Puebla	MEX.21.169_1	Tetela de Ocampo
+MEX.21.170_121 173	21	Puebla	21 173	Teteles de Avila Castillo	MEX.21_1	Puebla	MEX.21.170_1	Teteles de Avila Castillo
+MEX.21.171_121 174	21	Puebla	21 174	Teziutlán	MEX.21_1	Puebla	MEX.21.171_1	Teziutlán
+MEX.21.172_121 175	21	Puebla	21 175	Tianguismanalco	MEX.21_1	Puebla	MEX.21.172_1	Tianguismanalco
+MEX.21.173_121 176	21	Puebla	21 176	Tilapa	MEX.21_1	Puebla	MEX.21.173_1	Tilapa
+MEX.21.175_121 177	21	Puebla	21 177	Tlacotepec de Benito Juárez	MEX.21_1	Puebla	MEX.21.175_1	Tlacotepec de Benito Juárez
+MEX.21.176_121 178	21	Puebla	21 178	Tlacuilotepec	MEX.21_1	Puebla	MEX.21.176_1	Tlacuilotepec
+MEX.21.174_121 179	21	Puebla	21 179	Tlachichuca	MEX.21_1	Puebla	MEX.21.174_1	Tlachichuca
+MEX.21.177_121 180	21	Puebla	21 180	Tlahuapan	MEX.21_1	Puebla	MEX.21.177_1	Tlahuapan
+MEX.21.178_121 181	21	Puebla	21 181	Tlaltenango	MEX.21_1	Puebla	MEX.21.178_1	Tlaltenango
+MEX.21.179_121 182	21	Puebla	21 182	Tlanepantla	MEX.21_1	Puebla	MEX.21.179_1	Tlanepantla
+MEX.21.180_121 183	21	Puebla	21 183	Tlaola	MEX.21_1	Puebla	MEX.21.180_1	Tlaola
+MEX.21.181_121 184	21	Puebla	21 184	Tlapacoya	MEX.21_1	Puebla	MEX.21.181_1	Tlapacoya
+MEX.21.182_121 185	21	Puebla	21 185	Tlapanalá	MEX.21_1	Puebla	MEX.21.182_1	Tlapanalá
+MEX.21.183_121 186	21	Puebla	21 186	Tlatlauquitepec	MEX.21_1	Puebla	MEX.21.183_1	Tlatlauquitepec
+MEX.21.184_121 187	21	Puebla	21 187	Tlaxco	MEX.21_1	Puebla	MEX.21.184_1	Tlaxco
+MEX.21.185_121 188	21	Puebla	21 188	Tochimilco	MEX.21_1	Puebla	MEX.21.185_1	Tochimilco
+MEX.21.186_121 189	21	Puebla	21 189	Tochtepec	MEX.21_1	Puebla	MEX.21.186_1	Tochtepec
+MEX.21.187_121 190	21	Puebla	21 190	Totoltepec de Guerrero	MEX.21_1	Puebla	MEX.21.187_1	Totoltepec de Guerrero
+MEX.21.188_121 191	21	Puebla	21 191	Tulcingo	MEX.21_1	Puebla	MEX.21.188_1	Tulcingo
+MEX.21.189_121 193	21	Puebla	21 193	Tzicatlacoyan	MEX.21_1	Puebla	MEX.21.189_1	Tzicatlacoyan
+MEX.21.190_121 194	21	Puebla	21 194	Venustiano Carranza	MEX.21_1	Puebla	MEX.21.190_1	Venustiano Carranza
+MEX.21.191_121 195	21	Puebla	21 195	Vicente Guerrero	MEX.21_1	Puebla	MEX.21.191_1	Vicente Guerrero
+MEX.21.193_121 196	21	Puebla	21 196	Xayacatlán de Bravo	MEX.21_1	Puebla	MEX.21.193_1	Xayacatlán de Bravo
+MEX.21.194_121 197	21	Puebla	21 197	Xicotepec	MEX.21_1	Puebla	MEX.21.194_1	Xicotepec
+MEX.21.195_121 198	21	Puebla	21 198	Xicotlán	MEX.21_1	Puebla	MEX.21.195_1	Xicotlán
+MEX.21.196_121 199	21	Puebla	21 199	Xiutetelco	MEX.21_1	Puebla	MEX.21.196_1	Xiutetelco
+MEX.21.197_121 200	21	Puebla	21 200	Xochiapulco	MEX.21_1	Puebla	MEX.21.197_1	Xochiapulco
+MEX.21.198_121 201	21	Puebla	21 201	Xochiltepec	MEX.21_1	Puebla	MEX.21.198_1	Xochiltepec
+MEX.21.199_121 202	21	Puebla	21 202	Xochitlán de Vicente Suárez	MEX.21_1	Puebla	MEX.21.199_1	Xochitlán de Vicente Suárez
+MEX.21.200_121 203	21	Puebla	21 203	Xochitlán Todos Santos	MEX.21_1	Puebla	MEX.21.200_1	Xochitlán Todos Santos
+MEX.21.201_121 204	21	Puebla	21 204	Yaonáhuac	MEX.21_1	Puebla	MEX.21.201_1	Yaonáhuac
+MEX.21.202_121 205	21	Puebla	21 205	Yehualtepec	MEX.21_1	Puebla	MEX.21.202_1	Yehualtepec
+MEX.21.203_121 206	21	Puebla	21 206	Zacapala	MEX.21_1	Puebla	MEX.21.203_1	Zacapala
+MEX.21.204_121 207	21	Puebla	21 207	Zacapoaxtla	MEX.21_1	Puebla	MEX.21.204_1	Zacapoaxtla
+MEX.21.205_121 208	21	Puebla	21 208	Zacatlán	MEX.21_1	Puebla	MEX.21.205_1	Zacatlán
+MEX.21.206_121 209	21	Puebla	21 209	Zapotitlán	MEX.21_1	Puebla	MEX.21.206_1	Zapotitlán
+MEX.21.207_121 210	21	Puebla	21 210	Zapotitlán de Méndez	MEX.21_1	Puebla	MEX.21.207_1	Zapotitlán de Méndez
+MEX.21.208_121 211	21	Puebla	21 211	Zaragoza	MEX.21_1	Puebla	MEX.21.208_1	Zaragoza
+MEX.21.209_121 212	21	Puebla	21 212	Zautla	MEX.21_1	Puebla	MEX.21.209_1	Zautla
+MEX.21.210_121 213	21	Puebla	21 213	Zihuateutla	MEX.21_1	Puebla	MEX.21.210_1	Zihuateutla
+MEX.21.211_121 214	21	Puebla	21 214	Zinacatepec	MEX.21_1	Puebla	MEX.21.211_1	Zinacatepec
+MEX.21.212_121 216	21	Puebla	21 216	Zoquiapan	MEX.21_1	Puebla	MEX.21.212_1	Zoquiapan
+MEX.21.213_121 217	21	Puebla	21 217	Zoquitlán	MEX.21_1	Puebla	MEX.21.213_1	Zoquitlan
+MEX.22.1_122 001	22	Querétaro	22 001	Amealco de Bonfil	MEX.22_1	Querétaro	MEX.22.1_1	Amealco de Bonfin
+MEX.22.13_122 002	22	Querétaro	22 002	Pinal de Amoles	MEX.22_1	Querétaro	MEX.22.13_1	Pinal de Amoles
+MEX.22.2_122 003	22	Querétaro	22 003	Arroyo Seco	MEX.22_1	Querétaro	MEX.22.2_1	Arroyo Seco
+MEX.22.3_122 004	22	Querétaro	22 004	Cadereyta de Montes	MEX.22_1	Querétaro	MEX.22.3_1	Cadereyta de Montes
+MEX.22.4_122 005	22	Querétaro	22 005	Colón	MEX.22_1	Querétaro	MEX.22.4_1	Colón
+MEX.22.5_122 006	22	Querétaro	22 006	Corregidora	MEX.22_1	Querétaro	MEX.22.5_1	Corregidora
+MEX.22.7_122 007	22	Querétaro	22 007	Ezequiel Montes	MEX.22_1	Querétaro	MEX.22.7_1	Ezequiel Montes
+MEX.22.8_122 008	22	Querétaro	22 008	Huimilpan	MEX.22_1	Querétaro	MEX.22.8_1	Huimilpan
+MEX.22.9_122 009	22	Querétaro	22 009	Jalpan de Serra	MEX.22_1	Querétaro	MEX.22.9_1	Jalpan de Serra
+MEX.22.10_122 010	22	Querétaro	22 010	Landa de Matamoros	MEX.22_1	Querétaro	MEX.22.10_1	Landa de Matamoros
+MEX.22.6_122 011	22	Querétaro	22 011	El Marqués	MEX.22_1	Querétaro	MEX.22.6_1	El Marqués
+MEX.22.11_122 012	22	Querétaro	22 012	Pedro Escobedo	MEX.22_1	Querétaro	MEX.22.11_1	Pedro Escobedo
+MEX.22.12_122 013	22	Querétaro	22 013	Peñamiller	MEX.22_1	Querétaro	MEX.22.12_1	Peñamiller
+MEX.22.14_122 014	22	Querétaro	22 014	Querétaro	MEX.22_1	Querétaro	MEX.22.14_1	Querétaro
+MEX.22.15_122 015	22	Querétaro	22 015	San Joaquín	MEX.22_1	Querétaro	MEX.22.15_1	San Joaquín
+MEX.22.16_122 016	22	Querétaro	22 016	San Juan del Río	MEX.22_1	Querétaro	MEX.22.16_1	San Juan del Río
+MEX.22.17_122 017	22	Querétaro	22 017	Tequisquiapan	MEX.22_1	Querétaro	MEX.22.17_1	Tequisquiapan
+MEX.22.18_122 018	22	Querétaro	22 018	Tolimán	MEX.22_1	Querétaro	MEX.22.18_1	Tolimán
+MEX.23.2_123 001	23	Quintana Roo	23 001	Cozumel	MEX.23_1	Quintana Roo	MEX.23.2_1	Cozumel
+MEX.23.4_123 002	23	Quintana Roo	23 002	Felipe Carrillo Puerto	MEX.23_1	Quintana Roo	MEX.23.4_1	Felipe Carrillo Puerto
+MEX.23.5_123 003	23	Quintana Roo	23 003	Isla Mujeres	MEX.23_1	Quintana Roo	MEX.23.5_1	Isla Mujeres
+MEX.23.8_123 004	23	Quintana Roo	23 004	Othón P. Blanco	MEX.23_1	Quintana Roo	MEX.23.8_1	Othón P. Blanco
+MEX.23.1_123 005	23	Quintana Roo	23 005	Benito Juárez	MEX.23_1	Quintana Roo	MEX.23.1_1	Benito Juárez
+MEX.23.6_123 006	23	Quintana Roo	23 006	José María Morelos	MEX.23_1	Quintana Roo	MEX.23.6_1	José María Morelos
+MEX.23.7_123 007	23	Quintana Roo	23 007	Lázaro Cárdenas	MEX.23_1	Quintana Roo	MEX.23.7_1	Lázaro Cárdenas
+MEX.24.1_124 001	24	San Luis Potosí	24 001	Ahualulco	MEX.24_1	San Luis Potosí	MEX.24.1_1	Ahualulco
+MEX.24.2_124 002	24	San Luis Potosí	24 002	Alaquines	MEX.24_1	San Luis Potosí	MEX.24.2_1	Alaquines
+MEX.24.3_124 003	24	San Luis Potosí	24 003	Aquismón	MEX.24_1	San Luis Potosí	MEX.24.3_1	Aquismón
+MEX.24.4_124 004	24	San Luis Potosí	24 004	Armadillo de los Infante	MEX.24_1	San Luis Potosí	MEX.24.4_1	Armadillo de los Infante
+MEX.24.6_124 005	24	San Luis Potosí	24 005	Cárdenas	MEX.24_1	San Luis Potosí	MEX.24.6_1	Cárdenas
+MEX.24.7_124 006	24	San Luis Potosí	24 006	Catorce	MEX.24_1	San Luis Potosí	MEX.24.7_1	Catorce
+MEX.24.8_124 007	24	San Luis Potosí	24 007	Cedral	MEX.24_1	San Luis Potosí	MEX.24.8_1	Cedral
+MEX.24.9_124 008	24	San Luis Potosí	24 008	Cerritos	MEX.24_1	San Luis Potosí	MEX.24.9_1	Cerritos
+MEX.24.10_124 009	24	San Luis Potosí	24 009	Cerro de San Pedro	MEX.24_1	San Luis Potosí	MEX.24.10_1	Cerro de San Pedro
+MEX.24.12_124 010	24	San Luis Potosí	24 010	Ciudad del Maíz	MEX.24_1	San Luis Potosí	MEX.24.12_1	Ciudad del Maíz
+MEX.24.13_124 011	24	San Luis Potosí	24 011	Ciudad Fernández	MEX.24_1	San Luis Potosí	MEX.24.13_1	Ciudad Fernández
+MEX.24.42_124 012	24	San Luis Potosí	24 012	Tancanhuitz	MEX.24_1	San Luis Potosí	MEX.24.42_1	Tancanhuitz de Santos
+MEX.24.14_124 013	24	San Luis Potosí	24 013	Ciudad Valles	MEX.24_1	San Luis Potosí	MEX.24.14_1	Ciudad Valles
+MEX.24.15_124 014	24	San Luis Potosí	24 014	Coxcatlán	MEX.24_1	San Luis Potosí	MEX.24.15_1	Coxcatlán
+MEX.24.11_124 015	24	San Luis Potosí	24 015	Charcas	MEX.24_1	San Luis Potosí	MEX.24.11_1	Charcas
+MEX.24.16_124 016	24	San Luis Potosí	24 016	Ebano	MEX.24_1	San Luis Potosí	MEX.24.16_1	Ebano
+MEX.24.17_124 017	24	San Luis Potosí	24 017	Guadalcázar	MEX.24_1	San Luis Potosí	MEX.24.17_1	Guadalcazar
+MEX.24.18_124 018	24	San Luis Potosí	24 018	Huehuetlán	MEX.24_1	San Luis Potosí	MEX.24.18_1	Huehuetlán
+MEX.24.19_124 019	24	San Luis Potosí	24 019	Lagunillas	MEX.24_1	San Luis Potosí	MEX.24.19_1	Lagunillas
+MEX.24.20_124 020	24	San Luis Potosí	24 020	Matehuala	MEX.24_1	San Luis Potosí	MEX.24.20_1	Matehuala
+MEX.24.21_124 021	24	San Luis Potosí	24 021	Mexquitic de Carmona	MEX.24_1	San Luis Potosí	MEX.24.21_1	Mexquitic de Carmona
+MEX.24.22_124 022	24	San Luis Potosí	24 022	Moctezuma	MEX.24_1	San Luis Potosí	MEX.24.22_1	Moctezuma
+MEX.24.24_124 023	24	San Luis Potosí	24 023	Rayón	MEX.24_1	San Luis Potosí	MEX.24.24_1	Rayón
+MEX.24.25_124 024	24	San Luis Potosí	24 024	Rioverde	MEX.24_1	San Luis Potosí	MEX.24.25_1	Rioverde
+MEX.24.26_124 025	24	San Luis Potosí	24 025	Salinas	MEX.24_1	San Luis Potosí	MEX.24.26_1	Salinas
+MEX.24.27_124 026	24	San Luis Potosí	24 026	San Antonio	MEX.24_1	San Luis Potosí	MEX.24.27_1	San Antonio
+MEX.24.28_124 027	24	San Luis Potosí	24 027	San Ciro de Acosta	MEX.24_1	San Luis Potosí	MEX.24.28_1	San Ciro de Acosta
+MEX.24.29_124 028	24	San Luis Potosí	24 028	San Luis Potosí	MEX.24_1	San Luis Potosí	MEX.24.29_1	San Luis Potosí
+MEX.24.30_124 029	24	San Luis Potosí	24 029	San Martín Chalchicuautla	MEX.24_1	San Luis Potosí	MEX.24.30_1	San Martín Chalchicuautla
+MEX.24.31_124 030	24	San Luis Potosí	24 030	San Nicolás Tolentino	MEX.24_1	San Luis Potosí	MEX.24.31_1	San Nicolás Tolentino
+MEX.24.33_124 031	24	San Luis Potosí	24 031	Santa Catarina	MEX.24_1	San Luis Potosí	MEX.24.33_1	Santa Catarina
+MEX.24.34_124 032	24	San Luis Potosí	24 032	Santa María del Río	MEX.24_1	San Luis Potosí	MEX.24.34_1	Santa María del Río
+MEX.24.35_124 033	24	San Luis Potosí	24 033	Santo Domingo	MEX.24_1	San Luis Potosí	MEX.24.35_1	Santo Domingo
+MEX.24.32_124 034	24	San Luis Potosí	24 034	San Vicente Tancuayalab	MEX.24_1	San Luis Potosí	MEX.24.32_1	San Vicente Tancuayalab
+MEX.24.36_124 035	24	San Luis Potosí	24 035	Soledad de Graciano Sánchez	MEX.24_1	San Luis Potosí	MEX.24.36_1	Soledad de Graciano Sánchez
+MEX.24.37_124 036	24	San Luis Potosí	24 036	Tamasopo	MEX.24_1	San Luis Potosí	MEX.24.37_1	Tamasopo
+MEX.24.38_124 037	24	San Luis Potosí	24 037	Tamazunchale	MEX.24_1	San Luis Potosí	MEX.24.38_1	Tamazunchale
+MEX.24.39_124 038	24	San Luis Potosí	24 038	Tampacán	MEX.24_1	San Luis Potosí	MEX.24.39_1	Tampacan
+MEX.24.40_124 039	24	San Luis Potosí	24 039	Tampamolón Corona	MEX.24_1	San Luis Potosí	MEX.24.40_1	Tampamolón Corona
+MEX.24.41_124 040	24	San Luis Potosí	24 040	Tamuín	MEX.24_1	San Luis Potosí	MEX.24.41_1	Tamuín
+MEX.24.43_124 041	24	San Luis Potosí	24 041	Tanlajás	MEX.24_1	San Luis Potosí	MEX.24.43_1	Tanlajás
+MEX.24.44_124 042	24	San Luis Potosí	24 042	Tanquián de Escobedo	MEX.24_1	San Luis Potosí	MEX.24.44_1	Tanquián de Escobedo
+MEX.24.45_124 043	24	San Luis Potosí	24 043	Tierra Nueva	MEX.24_1	San Luis Potosí	MEX.24.45_1	Tierra Nueva
+MEX.24.46_124 044	24	San Luis Potosí	24 044	Vanegas	MEX.24_1	San Luis Potosí	MEX.24.46_1	Vanegas
+MEX.24.47_124 045	24	San Luis Potosí	24 045	Venado	MEX.24_1	San Luis Potosí	MEX.24.47_1	Venado
+MEX.24.49_124 046	24	San Luis Potosí	24 046	Villa de Arriaga	MEX.24_1	San Luis Potosí	MEX.24.49_1	Villa de Arriaga
+MEX.24.50_124 047	24	San Luis Potosí	24 047	Villa de Guadalupe	MEX.24_1	San Luis Potosí	MEX.24.50_1	Villa de Guadalupe
+MEX.24.51_124 048	24	San Luis Potosí	24 048	Villa de la Paz	MEX.24_1	San Luis Potosí	MEX.24.51_1	Villa de la Paz
+MEX.24.52_124 049	24	San Luis Potosí	24 049	Villa de Ramos	MEX.24_1	San Luis Potosí	MEX.24.52_1	Villa de Ramos
+MEX.24.53_124 050	24	San Luis Potosí	24 050	Villa de Reyes	MEX.24_1	San Luis Potosí	MEX.24.53_1	Villa de Reyes
+MEX.24.54_124 051	24	San Luis Potosí	24 051	Villa Hidalgo	MEX.24_1	San Luis Potosí	MEX.24.54_1	Villa Hidalgo
+MEX.24.55_124 052	24	San Luis Potosí	24 052	Villa Juárez	MEX.24_1	San Luis Potosí	MEX.24.55_1	Villa Juárez
+MEX.24.5_124 053	24	San Luis Potosí	24 053	Axtla de Terrazas	MEX.24_1	San Luis Potosí	MEX.24.5_1	Axtla de Terrazas
+MEX.24.56_124 054	24	San Luis Potosí	24 054	Xilitla	MEX.24_1	San Luis Potosí	MEX.24.56_1	Xilitla
+MEX.24.57_124 055	24	San Luis Potosí	24 055	Zaragoza	MEX.24_1	San Luis Potosí	MEX.24.57_1	Zaragoza
+MEX.24.48_124 056	24	San Luis Potosí	24 056	Villa de Arista	MEX.24_1	San Luis Potosí	MEX.24.48_1	Villa de Arista
+MEX.25.1_125 001	25	Sinaloa	25 001	Ahome	MEX.25_1	Sinaloa	MEX.25.1_1	Ahome
+MEX.25.2_125 002	25	Sinaloa	25 002	Angostura	MEX.25_1	Sinaloa	MEX.25.2_1	Angostura
+MEX.25.3_125 003	25	Sinaloa	25 003	Badiraguato	MEX.25_1	Sinaloa	MEX.25.3_1	Badiraguato
+MEX.25.6_125 004	25	Sinaloa	25 004	Concordia	MEX.25_1	Sinaloa	MEX.25.6_1	Concordia
+MEX.25.7_125 005	25	Sinaloa	25 005	Cosalá	MEX.25_1	Sinaloa	MEX.25.7_1	Cosalá
+MEX.25.8_125 006	25	Sinaloa	25 006	Culiacán	MEX.25_1	Sinaloa	MEX.25.8_1	Culiacán
+MEX.25.5_125 007	25	Sinaloa	25 007	Choix	MEX.25_1	Sinaloa	MEX.25.5_1	Choix
+MEX.25.11_125 008	25	Sinaloa	25 008	Elota	MEX.25_1	Sinaloa	MEX.25.11_1	Elota
+MEX.25.12_125 009	25	Sinaloa	25 009	Escuinapa	MEX.25_1	Sinaloa	MEX.25.12_1	Escuinapa
+MEX.25.9_125 010	25	Sinaloa	25 010	El Fuerte	MEX.25_1	Sinaloa	MEX.25.9_1	El Fuerte
+MEX.25.13_125 011	25	Sinaloa	25 011	Guasave	MEX.25_1	Sinaloa	MEX.25.13_1	Guasave
+MEX.25.15_125 012	25	Sinaloa	25 012	Mazatlán	MEX.25_1	Sinaloa	MEX.25.15_1	Mazatlán
+MEX.25.16_125 013	25	Sinaloa	25 013	Mocorito	MEX.25_1	Sinaloa	MEX.25.16_1	Mocorito
+MEX.25.10_125 014	25	Sinaloa	25 014	Rosario	MEX.25_1	Sinaloa	MEX.25.10_1	El Rosario
+MEX.25.17_125 015	25	Sinaloa	25 015	Salvador Alvarado	MEX.25_1	Sinaloa	MEX.25.17_1	Salvador Alvarado
+MEX.25.18_125 016	25	Sinaloa	25 016	San Ignacio	MEX.25_1	Sinaloa	MEX.25.18_1	San Ignacio
+MEX.25.19_125 017	25	Sinaloa	25 017	Sinaloa	MEX.25_1	Sinaloa	MEX.25.19_1	Sinaloa
+MEX.26.1_126 001	26	Sonora	26 001	Aconchi	MEX.26_1	Sonora	MEX.26.1_1	Aconchi
+MEX.26.2_126 002	26	Sonora	26 002	Agua Prieta	MEX.26_1	Sonora	MEX.26.2_1	Agua Prieta
+MEX.26.3_126 003	26	Sonora	26 003	Alamos	MEX.26_1	Sonora	MEX.26.3_1	Álamos
+MEX.26.4_126 004	26	Sonora	26 004	Altar	MEX.26_1	Sonora	MEX.26.4_1	Altar
+MEX.26.5_126 006	26	Sonora	26 006	Arizpe	MEX.26_1	Sonora	MEX.26.5_1	Arizpe
+MEX.26.6_126 007	26	Sonora	26 007	Atil	MEX.26_1	Sonora	MEX.26.6_1	Atil
+MEX.26.7_126 008	26	Sonora	26 008	Bacadéhuachi	MEX.26_1	Sonora	MEX.26.7_1	Bacadéhuachi
+MEX.26.8_126 009	26	Sonora	26 009	Bacanora	MEX.26_1	Sonora	MEX.26.8_1	Bacanora
+MEX.26.9_126 010	26	Sonora	26 010	Bacerac	MEX.26_1	Sonora	MEX.26.9_1	Bacerac
+MEX.26.10_126 011	26	Sonora	26 011	Bacoachi	MEX.26_1	Sonora	MEX.26.10_1	Bacoachi
+MEX.26.11_126 012	26	Sonora	26 012	Bácum	MEX.26_1	Sonora	MEX.26.11_1	Bácum
+MEX.26.12_126 013	26	Sonora	26 013	Banámichi	MEX.26_1	Sonora	MEX.26.12_1	Banámichi
+MEX.26.13_126 014	26	Sonora	26 014	Baviácora	MEX.26_1	Sonora	MEX.26.13_1	Baviácora
+MEX.26.14_126 015	26	Sonora	26 015	Bavispe	MEX.26_1	Sonora	MEX.26.14_1	Bavispe
+MEX.26.15_126 016	26	Sonora	26 016	Benjamín Hill	MEX.26_1	Sonora	MEX.26.15_1	Benjamín Hill
+MEX.26.16_126 017	26	Sonora	26 017	Caborca	MEX.26_1	Sonora	MEX.26.16_1	Caborca
+MEX.26.17_126 018	26	Sonora	26 018	Cajeme	MEX.26_1	Sonora	MEX.26.17_1	Cajeme
+MEX.26.18_126 019	26	Sonora	26 019	Cananea	MEX.26_1	Sonora	MEX.26.18_1	Cananea
+MEX.26.19_126 020	26	Sonora	26 020	Carbó	MEX.26_1	Sonora	MEX.26.19_1	Carbó
+MEX.26.35_126 021	26	Sonora	26 021	La Colorada	MEX.26_1	Sonora	MEX.26.35_1	La Colorada
+MEX.26.20_126 022	26	Sonora	26 022	Cucurpe	MEX.26_1	Sonora	MEX.26.20_1	Cucurpe
+MEX.26.21_126 023	26	Sonora	26 023	Cumpas	MEX.26_1	Sonora	MEX.26.21_1	Cumpas
+MEX.26.22_126 024	26	Sonora	26 024	Divisaderos	MEX.26_1	Sonora	MEX.26.22_1	Divisaderos
+MEX.26.23_126 025	26	Sonora	26 025	Empalme	MEX.26_1	Sonora	MEX.26.23_1	Empalme
+MEX.26.24_126 026	26	Sonora	26 026	Etchojoa	MEX.26_1	Sonora	MEX.26.24_1	Etchojoa
+MEX.26.25_126 027	26	Sonora	26 027	Fronteras	MEX.26_1	Sonora	MEX.26.25_1	Fronteras
+MEX.26.26_126 028	26	Sonora	26 028	Granados	MEX.26_1	Sonora	MEX.26.26_1	Granados
+MEX.26.27_126 029	26	Sonora	26 029	Guaymas	MEX.26_1	Sonora	MEX.26.27_1	Guaymas
+MEX.26.28_126 030	26	Sonora	26 030	Hermosillo	MEX.26_1	Sonora	MEX.26.28_1	Hermosillo
+MEX.26.29_126 031	26	Sonora	26 031	Huachinera	MEX.26_1	Sonora	MEX.26.29_1	Huachinera
+MEX.26.30_126 032	26	Sonora	26 032	Huásabas	MEX.26_1	Sonora	MEX.26.30_1	Huásabas
+MEX.26.31_126 033	26	Sonora	26 033	Huatabampo	MEX.26_1	Sonora	MEX.26.31_1	Huatabampo
+MEX.26.32_126 034	26	Sonora	26 034	Huépac	MEX.26_1	Sonora	MEX.26.32_1	Huépac
+MEX.26.33_126 035	26	Sonora	26 035	Imuris	MEX.26_1	Sonora	MEX.26.33_1	Imuris
+MEX.26.36_126 036	26	Sonora	26 036	Magdalena	MEX.26_1	Sonora	MEX.26.36_1	Magdalena
+MEX.26.37_126 037	26	Sonora	26 037	Mazatán	MEX.26_1	Sonora	MEX.26.37_1	Mazatán
+MEX.26.38_126 038	26	Sonora	26 038	Moctezuma	MEX.26_1	Sonora	MEX.26.38_1	Moctezuma
+MEX.26.39_126 039	26	Sonora	26 039	Naco	MEX.26_1	Sonora	MEX.26.39_1	Naco
+MEX.26.40_126 040	26	Sonora	26 040	Nácori Chico	MEX.26_1	Sonora	MEX.26.40_1	Nácori Chico
+MEX.26.41_126 041	26	Sonora	26 041	Nacozari de García	MEX.26_1	Sonora	MEX.26.41_1	Nacozari de García
+MEX.26.42_126 042	26	Sonora	26 042	Navojoa	MEX.26_1	Sonora	MEX.26.42_1	Navojoa
+MEX.26.43_126 043	26	Sonora	26 043	Nogales	MEX.26_1	Sonora	MEX.26.43_1	Nogales
+MEX.26.44_126 044	26	Sonora	26 044	Onavas	MEX.26_1	Sonora	MEX.26.44_1	Onavas
+MEX.26.45_126 045	26	Sonora	26 045	Opodepe	MEX.26_1	Sonora	MEX.26.45_1	Opodepe
+MEX.26.46_126 046	26	Sonora	26 046	Oquitoa	MEX.26_1	Sonora	MEX.26.46_1	Oquitoa
+MEX.26.47_126 047	26	Sonora	26 047	Pitiquito	MEX.26_1	Sonora	MEX.26.47_1	Pitiquito
+MEX.26.48_126 048	26	Sonora	26 048	Puerto Peñasco	MEX.26_1	Sonora	MEX.26.48_1	Puerto Peñasco
+MEX.26.49_126 049	26	Sonora	26 049	Quiriego	MEX.26_1	Sonora	MEX.26.49_1	Quiriego
+MEX.26.50_126 050	26	Sonora	26 050	Rayón	MEX.26_1	Sonora	MEX.26.50_1	Rayón
+MEX.26.51_126 051	26	Sonora	26 051	Rosario	MEX.26_1	Sonora	MEX.26.51_1	Rosario
+MEX.26.52_126 052	26	Sonora	26 052	Sahuaripa	MEX.26_1	Sonora	MEX.26.52_1	Sahuaripa
+MEX.26.53_126 053	26	Sonora	26 053	San Felipe de Jesús	MEX.26_1	Sonora	MEX.26.53_1	San Felipe de Jesús
+MEX.26.54_126 054	26	Sonora	26 054	San Javier	MEX.26_1	Sonora	MEX.26.54_1	San Javier
+MEX.26.55_126 055	26	Sonora	26 055	San Luis Río Colorado	MEX.26_1	Sonora	MEX.26.55_1	San Luis Río Colorado
+MEX.26.56_126 056	26	Sonora	26 056	San Miguel de Horcasitas	MEX.26_1	Sonora	MEX.26.56_1	San Miguel de Horcasitas
+MEX.26.57_126 057	26	Sonora	26 057	San Pedro de la Cueva	MEX.26_1	Sonora	MEX.26.57_1	San Pedro de la Cueva
+MEX.26.58_126 058	26	Sonora	26 058	Santa Ana	MEX.26_1	Sonora	MEX.26.58_1	Santa Ana
+MEX.26.59_126 059	26	Sonora	26 059	Santa Cruz	MEX.26_1	Sonora	MEX.26.59_1	Santa Cruz
+MEX.26.60_126 060	26	Sonora	26 060	Sáric	MEX.26_1	Sonora	MEX.26.60_1	Sáric
+MEX.26.61_126 061	26	Sonora	26 061	Soyopa	MEX.26_1	Sonora	MEX.26.61_1	Soyopa
+MEX.26.62_126 062	26	Sonora	26 062	Suaqui Grande	MEX.26_1	Sonora	MEX.26.62_1	Suaqui Grande
+MEX.26.63_126 063	26	Sonora	26 063	Tepache	MEX.26_1	Sonora	MEX.26.63_1	Tepache
+MEX.26.64_126 064	26	Sonora	26 064	Trincheras	MEX.26_1	Sonora	MEX.26.64_1	Trincheras
+MEX.26.65_126 065	26	Sonora	26 065	Tubutama	MEX.26_1	Sonora	MEX.26.65_1	Tubutama
+MEX.26.66_126 066	26	Sonora	26 066	Ures	MEX.26_1	Sonora	MEX.26.66_1	Ures
+MEX.26.67_126 067	26	Sonora	26 067	Villa Hidalgo	MEX.26_1	Sonora	MEX.26.67_1	Villa Hidalgo
+MEX.26.68_126 068	26	Sonora	26 068	Villa Pesqueira	MEX.26_1	Sonora	MEX.26.68_1	Villa Pesqueira
+MEX.26.69_126 069	26	Sonora	26 069	Yécora	MEX.26_1	Sonora	MEX.26.69_1	Yécora
+MEX.27.1_127 001	27	Tabasco	27 001	Balancán	MEX.27_1	Tabasco	MEX.27.1_1	Balancán
+MEX.27.2_127 002	27	Tabasco	27 002	Cárdenas	MEX.27_1	Tabasco	MEX.27.2_1	Cárdenas
+MEX.27.4_127 003	27	Tabasco	27 003	Centla	MEX.27_1	Tabasco	MEX.27.4_1	Centla
+MEX.27.5_127 004	27	Tabasco	27 004	Centro	MEX.27_1	Tabasco	MEX.27.5_1	Centro
+MEX.27.6_127 005	27	Tabasco	27 005	Comalcalco	MEX.27_1	Tabasco	MEX.27.6_1	Comalcalco
+MEX.27.7_127 006	27	Tabasco	27 006	Cunduacán	MEX.27_1	Tabasco	MEX.27.7_1	Cunduacán
+MEX.27.8_127 007	27	Tabasco	27 007	Emiliano Zapata	MEX.27_1	Tabasco	MEX.27.8_1	Emiliano Zapata
+MEX.27.9_127 008	27	Tabasco	27 008	Huimanguillo	MEX.27_1	Tabasco	MEX.27.9_1	Huimanguillo
+MEX.27.10_127 009	27	Tabasco	27 009	Jalapa	MEX.27_1	Tabasco	MEX.27.10_1	Jalapa
+MEX.27.11_127 010	27	Tabasco	27 010	Jalpa de Méndez	MEX.27_1	Tabasco	MEX.27.11_1	Jalpa de Méndez
+MEX.27.12_127 011	27	Tabasco	27 011	Jonuta	MEX.27_1	Tabasco	MEX.27.12_1	Jonuta
+MEX.27.13_127 012	27	Tabasco	27 012	Macuspana	MEX.27_1	Tabasco	MEX.27.13_1	Macuspana
+MEX.27.14_127 013	27	Tabasco	27 013	Nacajuca	MEX.27_1	Tabasco	MEX.27.14_1	Nacajuca
+MEX.27.15_127 014	27	Tabasco	27 014	Paraíso	MEX.27_1	Tabasco	MEX.27.15_1	Paraíso
+MEX.27.16_127 015	27	Tabasco	27 015	Tacotalpa	MEX.27_1	Tabasco	MEX.27.16_1	Tacotalpa
+MEX.27.17_127 016	27	Tabasco	27 016	Teapa	MEX.27_1	Tabasco	MEX.27.17_1	Teapa
+MEX.27.18_127 017	27	Tabasco	27 017	Tenosique	MEX.27_1	Tabasco	MEX.27.18_1	Tenosique
+MEX.28.1_128 001	28	Tamaulipas	28 001	Abasolo	MEX.28_1	Tamaulipas	MEX.28.1_1	Abasolo
+MEX.28.2_128 002	28	Tamaulipas	28 002	Aldama	MEX.28_1	Tamaulipas	MEX.28.2_1	Aldama
+MEX.28.3_128 003	28	Tamaulipas	28 003	Altamira	MEX.28_1	Tamaulipas	MEX.28.3_1	Altamira
+MEX.28.4_128 004	28	Tamaulipas	28 004	Antiguo Morelos	MEX.28_1	Tamaulipas	MEX.28.4_1	Antiguo Morelos
+MEX.28.5_128 005	28	Tamaulipas	28 005	Burgos	MEX.28_1	Tamaulipas	MEX.28.5_1	Burgos
+MEX.28.6_128 006	28	Tamaulipas	28 006	Bustamante	MEX.28_1	Tamaulipas	MEX.28.6_1	Bustamante
+MEX.28.7_128 007	28	Tamaulipas	28 007	Camargo	MEX.28_1	Tamaulipas	MEX.28.7_1	Camargo
+MEX.28.8_128 008	28	Tamaulipas	28 008	Casas	MEX.28_1	Tamaulipas	MEX.28.8_1	Casas
+MEX.28.9_128 009	28	Tamaulipas	28 009	Ciudad Madero	MEX.28_1	Tamaulipas	MEX.28.9_1	Ciudad Madero
+MEX.28.10_128 010	28	Tamaulipas	28 010	Cruillas	MEX.28_1	Tamaulipas	MEX.28.10_1	Cruillas
+MEX.28.12_128 011	28	Tamaulipas	28 011	Gómez Farías	MEX.28_1	Tamaulipas	MEX.28.12_1	Gómez Farias
+MEX.28.13_128 012	28	Tamaulipas	28 012	González	MEX.28_1	Tamaulipas	MEX.28.13_1	González
+MEX.28.14_128 013	28	Tamaulipas	28 013	Güémez	MEX.28_1	Tamaulipas	MEX.28.14_1	Güémez
+MEX.28.15_128 014	28	Tamaulipas	28 014	Guerrero	MEX.28_1	Tamaulipas	MEX.28.15_1	Guerrero
+MEX.28.16_128 015	28	Tamaulipas	28 015	Gustavo Díaz Ordaz	MEX.28_1	Tamaulipas	MEX.28.16_1	Gustavo Díaz Ordáz
+MEX.28.17_128 016	28	Tamaulipas	28 016	Hidalgo	MEX.28_1	Tamaulipas	MEX.28.17_1	Hidalgo
+MEX.28.18_128 017	28	Tamaulipas	28 017	Jaumave	MEX.28_1	Tamaulipas	MEX.28.18_1	Jaumave
+MEX.28.19_128 018	28	Tamaulipas	28 018	Jiménez	MEX.28_1	Tamaulipas	MEX.28.19_1	Jiménez
+MEX.28.20_128 019	28	Tamaulipas	28 019	Llera	MEX.28_1	Tamaulipas	MEX.28.20_1	Llera
+MEX.28.21_128 020	28	Tamaulipas	28 020	Mainero	MEX.28_1	Tamaulipas	MEX.28.21_1	Mainero
+MEX.28.11_128 021	28	Tamaulipas	28 021	El Mante	MEX.28_1	Tamaulipas	MEX.28.11_1	El Mante
+MEX.28.22_128 022	28	Tamaulipas	28 022	Matamoros	MEX.28_1	Tamaulipas	MEX.28.22_1	Matamoros
+MEX.28.23_128 023	28	Tamaulipas	28 023	Méndez	MEX.28_1	Tamaulipas	MEX.28.23_1	Méndez
+MEX.28.24_128 024	28	Tamaulipas	28 024	Mier	MEX.28_1	Tamaulipas	MEX.28.24_1	Mier
+MEX.28.25_128 025	28	Tamaulipas	28 025	Miguel Alemán	MEX.28_1	Tamaulipas	MEX.28.25_1	Miguel Alemán
+MEX.28.26_128 026	28	Tamaulipas	28 026	Miquihuana	MEX.28_1	Tamaulipas	MEX.28.26_1	Miquihuana
+MEX.28.27_128 027	28	Tamaulipas	28 027	Nuevo Laredo	MEX.28_1	Tamaulipas	MEX.28.27_1	Nuevo Laredo
+MEX.28.28_128 028	28	Tamaulipas	28 028	Nuevo Morelos	MEX.28_1	Tamaulipas	MEX.28.28_1	Nuevo Morelos
+MEX.28.29_128 029	28	Tamaulipas	28 029	Ocampo	MEX.28_1	Tamaulipas	MEX.28.29_1	Ocampo
+MEX.28.30_128 030	28	Tamaulipas	28 030	Padilla	MEX.28_1	Tamaulipas	MEX.28.30_1	Padilla
+MEX.28.31_128 031	28	Tamaulipas	28 031	Palmillas	MEX.28_1	Tamaulipas	MEX.28.31_1	Palmillas
+MEX.28.32_128 032	28	Tamaulipas	28 032	Reynosa	MEX.28_1	Tamaulipas	MEX.28.32_1	Reynosa
+MEX.28.33_128 033	28	Tamaulipas	28 033	Río Bravo	MEX.28_1	Tamaulipas	MEX.28.33_1	Río Bravo
+MEX.28.34_128 034	28	Tamaulipas	28 034	San Carlos	MEX.28_1	Tamaulipas	MEX.28.34_1	San Carlos
+MEX.28.35_128 035	28	Tamaulipas	28 035	San Fernando	MEX.28_1	Tamaulipas	MEX.28.35_1	San Fernando
+MEX.28.36_128 036	28	Tamaulipas	28 036	San Nicolás	MEX.28_1	Tamaulipas	MEX.28.36_1	San Nicolás
+MEX.28.37_128 037	28	Tamaulipas	28 037	Soto la Marina	MEX.28_1	Tamaulipas	MEX.28.37_1	Soto La Marina
+MEX.28.38_128 038	28	Tamaulipas	28 038	Tampico	MEX.28_1	Tamaulipas	MEX.28.38_1	Tampico
+MEX.28.39_128 039	28	Tamaulipas	28 039	Tula	MEX.28_1	Tamaulipas	MEX.28.39_1	Tula
+MEX.28.40_128 040	28	Tamaulipas	28 040	Valle Hermoso	MEX.28_1	Tamaulipas	MEX.28.40_1	Valle Hermoso
+MEX.28.41_128 041	28	Tamaulipas	28 041	Victoria	MEX.28_1	Tamaulipas	MEX.28.41_1	Victoria
+MEX.28.42_128 042	28	Tamaulipas	28 042	Villagrán	MEX.28_1	Tamaulipas	MEX.28.42_1	Villagrán
+MEX.28.43_128 043	28	Tamaulipas	28 043	Xicoténcatl	MEX.28_1	Tamaulipas	MEX.28.43_1	Xicoténcatl
+MEX.29.3_129 001	29	Tlaxcala	29 001	Amaxac de Guerrero	MEX.29_1	Tlaxcala	MEX.29.3_1	Amaxac de Guerrero
+MEX.29.4_129 002	29	Tlaxcala	29 002	Apetatitlán de Antonio Carvajal	MEX.29_1	Tlaxcala	MEX.29.4_1	Apetatitlán de Antonio Carvajal
+MEX.29.6_129 003	29	Tlaxcala	29 003	Atlangatepec	MEX.29_1	Tlaxcala	MEX.29.6_1	Atlangatepec
+MEX.29.2_129 004	29	Tlaxcala	29 004	Atltzayanca	MEX.29_1	Tlaxcala	MEX.29.2_1	Altzayanca
+MEX.29.5_129 005	29	Tlaxcala	29 005	Apizaco	MEX.29_1	Tlaxcala	MEX.29.5_1	Apizaco
+MEX.29.7_129 006	29	Tlaxcala	29 006	Calpulalpan	MEX.29_1	Tlaxcala	MEX.29.7_1	Calpulalpan
+MEX.29.12_129 007	29	Tlaxcala	29 007	El Carmen Tequexquitla	MEX.29_1	Tlaxcala	MEX.29.12_1	El Carmen Tequexquitla
+MEX.29.10_129 008	29	Tlaxcala	29 008	Cuapiaxtla	MEX.29_1	Tlaxcala	MEX.29.10_1	Cuapiaxtla
+MEX.29.11_129 009	29	Tlaxcala	29 009	Cuaxomulco	MEX.29_1	Tlaxcala	MEX.29.11_1	Cuaxomulco
+MEX.29.8_129 010	29	Tlaxcala	29 010	Chiautempan	MEX.29_1	Tlaxcala	MEX.29.8_1	Chiautempan
+MEX.29.19_129 011	29	Tlaxcala	29 011	Muñoz de Domingo Arenas	MEX.29_1	Tlaxcala	MEX.29.19_1	Muñoz de Domingo Arenas
+MEX.29.13_129 012	29	Tlaxcala	29 012	Españita	MEX.29_1	Tlaxcala	MEX.29.13_1	Españita
+MEX.29.14_129 013	29	Tlaxcala	29 013	Huamantla	MEX.29_1	Tlaxcala	MEX.29.14_1	Huamantla
+MEX.29.15_129 014	29	Tlaxcala	29 014	Hueyotlipan	MEX.29_1	Tlaxcala	MEX.29.15_1	Hueyotlipan
+MEX.29.16_129 015	29	Tlaxcala	29 015	Ixtacuixtla de Mariano Matamoros	MEX.29_1	Tlaxcala	MEX.29.16_1	Ixtacuixtla de Mariano Matamoros
+MEX.29.17_129 016	29	Tlaxcala	29 016	Ixtenco	MEX.29_1	Tlaxcala	MEX.29.17_1	Ixtenco
+MEX.29.18_129 017	29	Tlaxcala	29 017	Mazatecochco de José María Morelos	MEX.29_1	Tlaxcala	MEX.29.18_1	Mazatecochco de José María Morelos
+MEX.29.9_129 018	29	Tlaxcala	29 018	Contla de Juan Cuamatzi	MEX.29_1	Tlaxcala	MEX.29.9_1	Contla de Juan Cuamatzi
+MEX.29.29_129 019	29	Tlaxcala	29 019	Tepetitla de Lardizábal	MEX.29_1	Tlaxcala	MEX.29.29_1	Tepetitla de Lardizábal
+MEX.29.25_129 020	29	Tlaxcala	29 020	Sanctórum de Lázaro Cárdenas	MEX.29_1	Tlaxcala	MEX.29.25_1	Sanctórum de Lázaro Cárdenas
+MEX.29.20_129 021	29	Tlaxcala	29 021	Nanacamilpa de Mariano Arista	MEX.29_1	Tlaxcala	MEX.29.20_1	Nanacamilpa de Mariano Arista
+MEX.29.1_129 022	29	Tlaxcala	29 022	Acuamanala de Miguel Hidalgo	MEX.29_1	Tlaxcala	MEX.29.1_1	Acuamanala de Miguel Hidalgo
+MEX.29.21_129 023	29	Tlaxcala	29 023	Natívitas	MEX.29_1	Tlaxcala	MEX.29.21_1	Natívitas
+MEX.29.22_129 024	29	Tlaxcala	29 024	Panotla	MEX.29_1	Tlaxcala	MEX.29.22_1	Panotla
+MEX.29.24_129 025	29	Tlaxcala	29 025	San Pablo del Monte	MEX.29_1	Tlaxcala	MEX.29.24_1	San Pablo del Monte
+MEX.29.26_129 026	29	Tlaxcala	29 026	Santa Cruz Tlaxcala	MEX.29_1	Tlaxcala	MEX.29.26_1	Santa Cruz Tlaxcala
+MEX.29.27_129 027	29	Tlaxcala	29 027	Tenancingo	MEX.29_1	Tlaxcala	MEX.29.27_1	Tenancingo
+MEX.29.28_129 028	29	Tlaxcala	29 028	Teolocholco	MEX.29_1	Tlaxcala	MEX.29.28_1	Teolocholco
+MEX.29.30_129 029	29	Tlaxcala	29 029	Tepeyanco	MEX.29_1	Tlaxcala	MEX.29.30_1	Tepeyanco
+MEX.29.31_129 030	29	Tlaxcala	29 030	Terrenate	MEX.29_1	Tlaxcala	MEX.29.31_1	Terrenate
+MEX.29.32_129 031	29	Tlaxcala	29 031	Tetla de la Solidaridad	MEX.29_1	Tlaxcala	MEX.29.32_1	Tetla de la Solidaridad
+MEX.29.33_129 032	29	Tlaxcala	29 032	Tetlatlahuca	MEX.29_1	Tlaxcala	MEX.29.33_1	Tetlatlahuca
+MEX.29.34_129 033	29	Tlaxcala	29 033	Tlaxcala	MEX.29_1	Tlaxcala	MEX.29.34_1	Tlaxcala
+MEX.29.35_129 034	29	Tlaxcala	29 034	Tlaxco	MEX.29_1	Tlaxcala	MEX.29.35_1	Tlaxco
+MEX.29.36_129 035	29	Tlaxcala	29 035	Tocatlán	MEX.29_1	Tlaxcala	MEX.29.36_1	Tocatlán
+MEX.29.37_129 036	29	Tlaxcala	29 036	Totolac	MEX.29_1	Tlaxcala	MEX.29.37_1	Totolac
+MEX.29.44_129 037	29	Tlaxcala	29 037	Ziltlaltépec de Trinidad Sánchez Santos	MEX.29_1	Tlaxcala	MEX.29.44_1	Zitlaltepec de Trinidad Sánchez Santos
+MEX.29.38_129 038	29	Tlaxcala	29 038	Tzompantepec	MEX.29_1	Tlaxcala	MEX.29.38_1	Tzompantepec
+MEX.29.39_129 039	29	Tlaxcala	29 039	Xaloztoc	MEX.29_1	Tlaxcala	MEX.29.39_1	Xaloztoc
+MEX.29.40_129 040	29	Tlaxcala	29 040	Xaltocan	MEX.29_1	Tlaxcala	MEX.29.40_1	Xaltocan
+MEX.29.23_129 041	29	Tlaxcala	29 041	Papalotla de Xicohténcatl	MEX.29_1	Tlaxcala	MEX.29.23_1	Papalotla de Xicohténcatl
+MEX.29.41_129 042	29	Tlaxcala	29 042	Xicohtzinco	MEX.29_1	Tlaxcala	MEX.29.41_1	Xicohtzinco
+MEX.29.42_129 043	29	Tlaxcala	29 043	Yauhquemehcan	MEX.29_1	Tlaxcala	MEX.29.42_1	Yauhquemecan
+MEX.29.43_129 044	29	Tlaxcala	29 044	Zacatelco	MEX.29_1	Tlaxcala	MEX.29.43_1	Zacatelco
+MEX.30.1_130 001	30	Veracruz	30 001	Acajete	MEX.30_1	Veracruz	MEX.30.1_1	Acajete
+MEX.30.2_130 002	30	Veracruz	30 002	Acatlán	MEX.30_1	Veracruz	MEX.30.2_1	Acatlán
+MEX.30.3_130 003	30	Veracruz	30 003	Acayucan	MEX.30_1	Veracruz	MEX.30.3_1	Acayucan
+MEX.30.4_130 004	30	Veracruz	30 004	Actopan	MEX.30_1	Veracruz	MEX.30.4_1	Actopan
+MEX.30.5_130 005	30	Veracruz	30 005	Acula	MEX.30_1	Veracruz	MEX.30.5_1	Acula
+MEX.30.6_130 006	30	Veracruz	30 006	Acultzingo	MEX.30_1	Veracruz	MEX.30.6_1	Acultzingo
+MEX.30.27_130 007	30	Veracruz	30 007	Camarón de Tejeda	MEX.30_1	Veracruz	MEX.30.27_1	Camarón de Tejada
+MEX.30.7_130 008	30	Veracruz	30 008	Alpatláhuac	MEX.30_1	Veracruz	MEX.30.7_1	Alpatláhuac
+MEX.30.8_130 009	30	Veracruz	30 009	Alto Lucero de Gutiérrez Barrios	MEX.30_1	Veracruz	MEX.30.8_1	Alto Lucero de Gutiérrez Barrios
+MEX.30.9_130 010	30	Veracruz	30 010	Altotonga	MEX.30_1	Veracruz	MEX.30.9_1	Altotonga
+MEX.30.10_130 011	30	Veracruz	30 011	Alvarado	MEX.30_1	Veracruz	MEX.30.10_1	Alvarado
+MEX.30.11_130 012	30	Veracruz	30 012	Amatitlán	MEX.30_1	Veracruz	MEX.30.11_1	Amatitlán
+MEX.30.12_130 014	30	Veracruz	30 014	Amatlán de los Reyes	MEX.30_1	Veracruz	MEX.30.12_1	Amatitlán de los Reyes
+MEX.30.14_130 015	30	Veracruz	30 015	Angel R. Cabada	MEX.30_1	Veracruz	MEX.30.14_1	Ángel R. Cabada
+MEX.30.92_130 016	30	Veracruz	30 016	La Antigua	MEX.30_1	Veracruz	MEX.30.92_1	La Antigua
+MEX.30.15_130 017	30	Veracruz	30 017	Apazapan	MEX.30_1	Veracruz	MEX.30.15_1	Apazapan
+MEX.30.16_130 018	30	Veracruz	30 018	Aquila	MEX.30_1	Veracruz	MEX.30.16_1	Aquila
+MEX.30.17_130 019	30	Veracruz	30 019	Astacinga	MEX.30_1	Veracruz	MEX.30.17_1	Astacinga
+MEX.30.18_130 020	30	Veracruz	30 020	Atlahuilco	MEX.30_1	Veracruz	MEX.30.18_1	Atlahuilco
+MEX.30.19_130 021	30	Veracruz	30 021	Atoyac	MEX.30_1	Veracruz	MEX.30.19_1	Atoyac
+MEX.30.20_130 022	30	Veracruz	30 022	Atzacan	MEX.30_1	Veracruz	MEX.30.20_1	Atzacan
+MEX.30.21_130 023	30	Veracruz	30 023	Atzalan	MEX.30_1	Veracruz	MEX.30.21_1	Atzalan
+MEX.30.180_130 024	30	Veracruz	30 024	Tlaltetela	MEX.30_1	Veracruz	MEX.30.180_1	Tlaltetela
+MEX.30.22_130 025	30	Veracruz	30 025	Ayahualulco	MEX.30_1	Veracruz	MEX.30.22_1	Ayahualulco
+MEX.30.23_130 026	30	Veracruz	30 026	Banderilla	MEX.30_1	Veracruz	MEX.30.23_1	Banderilla
+MEX.30.24_130 027	30	Veracruz	30 027	Benito Juárez	MEX.30_1	Veracruz	MEX.30.24_1	Benito Juárez
+MEX.30.25_130 028	30	Veracruz	30 028	Boca del Río	MEX.30_1	Veracruz	MEX.30.25_1	Boca del Río
+MEX.30.26_130 029	30	Veracruz	30 029	Calcahualco	MEX.30_1	Veracruz	MEX.30.26_1	Calcahualco
+MEX.30.28_130 030	30	Veracruz	30 030	Camerino Z. Mendoza	MEX.30_1	Veracruz	MEX.30.28_1	Camerino Z. Mendoza
+MEX.30.29_130 031	30	Veracruz	30 031	Carrillo Puerto	MEX.30_1	Veracruz	MEX.30.29_1	Carrillo Puerto
+MEX.30.31_130 032	30	Veracruz	30 032	Catemaco	MEX.30_1	Veracruz	MEX.30.31_1	Catemaco
+MEX.30.32_130 033	30	Veracruz	30 033	Cazones de Herrera	MEX.30_1	Veracruz	MEX.30.32_1	Cazones de Herrera
+MEX.30.33_130 034	30	Veracruz	30 034	Cerro Azul	MEX.30_1	Veracruz	MEX.30.33_1	Cerro Azul
+MEX.30.44_130 035	30	Veracruz	30 035	Citlaltépetl	MEX.30_1	Veracruz	MEX.30.44_1	Citlaltépetl
+MEX.30.45_130 036	30	Veracruz	30 036	Coacoatzintla	MEX.30_1	Veracruz	MEX.30.45_1	Coacoatzintla
+MEX.30.46_130 038	30	Veracruz	30 038	Coatepec	MEX.30_1	Veracruz	MEX.30.46_1	Coatepec
+MEX.30.47_130 039	30	Veracruz	30 039	Coatzacoalcos	MEX.30_1	Veracruz	MEX.30.47_1	Coatzacoalcos
+MEX.30.48_130 040	30	Veracruz	30 040	Coatzintla	MEX.30_1	Veracruz	MEX.30.48_1	Coatzintla
+MEX.30.49_130 041	30	Veracruz	30 041	Coetzala	MEX.30_1	Veracruz	MEX.30.49_1	Coetzala
+MEX.30.50_130 042	30	Veracruz	30 042	Colipa	MEX.30_1	Veracruz	MEX.30.50_1	Colipa
+MEX.30.51_130 043	30	Veracruz	30 043	Comapa	MEX.30_1	Veracruz	MEX.30.51_1	Comapa
+MEX.30.52_130 044	30	Veracruz	30 044	Córdoba	MEX.30_1	Veracruz	MEX.30.52_1	Córdoba
+MEX.30.53_130 045	30	Veracruz	30 045	Cosamaloapan de Carpio	MEX.30_1	Veracruz	MEX.30.53_1	Cosamaloapan
+MEX.30.54_130 046	30	Veracruz	30 046	Cosautlán de Carvajal	MEX.30_1	Veracruz	MEX.30.54_1	Cosautlán de Carvajal
+MEX.30.55_130 047	30	Veracruz	30 047	Coscomatepec	MEX.30_1	Veracruz	MEX.30.55_1	Coscomatepec
+MEX.30.56_130 048	30	Veracruz	30 048	Cosoleacaque	MEX.30_1	Veracruz	MEX.30.56_1	Cosoleacaque
+MEX.30.57_130 049	30	Veracruz	30 049	Cotaxtla	MEX.30_1	Veracruz	MEX.30.57_1	Cotaxtla
+MEX.30.58_130 050	30	Veracruz	30 050	Coxquihui	MEX.30_1	Veracruz	MEX.30.58_1	Coxquihi
+MEX.30.59_130 051	30	Veracruz	30 051	Coyutla	MEX.30_1	Veracruz	MEX.30.59_1	Coyutla
+MEX.30.60_130 052	30	Veracruz	30 052	Cuichapa	MEX.30_1	Veracruz	MEX.30.60_1	Cuichapa
+MEX.30.61_130 053	30	Veracruz	30 053	Cuitláhuac	MEX.30_1	Veracruz	MEX.30.61_1	Cuitláhuac
+MEX.30.34_130 054	30	Veracruz	30 054	Chacaltianguis	MEX.30_1	Veracruz	MEX.30.34_1	Chacaltianguis
+MEX.30.35_130 055	30	Veracruz	30 055	Chalma	MEX.30_1	Veracruz	MEX.30.35_1	Chalma
+MEX.30.36_130 056	30	Veracruz	30 056	Chiconamel	MEX.30_1	Veracruz	MEX.30.36_1	Chiconamel
+MEX.30.37_130 057	30	Veracruz	30 057	Chiconquiaco	MEX.30_1	Veracruz	MEX.30.37_1	Chiconquiaco
+MEX.30.38_130 058	30	Veracruz	30 058	Chicontepec	MEX.30_1	Veracruz	MEX.30.38_1	Chicontepec
+MEX.30.39_130 059	30	Veracruz	30 059	Chinameca	MEX.30_1	Veracruz	MEX.30.39_1	Chinameca
+MEX.30.40_130 060	30	Veracruz	30 060	Chinampa de Gorostiza	MEX.30_1	Veracruz	MEX.30.40_1	Chinampa de Gorostiza
+MEX.30.95_130 061	30	Veracruz	30 061	Las Choapas	MEX.30_1	Veracruz	MEX.30.95_1	Las Choapas
+MEX.30.41_130 062	30	Veracruz	30 062	Chocamán	MEX.30_1	Veracruz	MEX.30.41_1	Chocomán
+MEX.30.42_130 063	30	Veracruz	30 063	Chontla	MEX.30_1	Veracruz	MEX.30.42_1	Chontla
+MEX.30.43_130 064	30	Veracruz	30 064	Chumatlán	MEX.30_1	Veracruz	MEX.30.43_1	Chumatlán
+MEX.30.62_130 065	30	Veracruz	30 065	Emiliano Zapata	MEX.30_1	Veracruz	MEX.30.62_1	Emiliano Zapata
+MEX.30.63_130 066	30	Veracruz	30 066	Espinal	MEX.30_1	Veracruz	MEX.30.63_1	Espinal
+MEX.30.64_130 067	30	Veracruz	30 067	Filomeno Mata	MEX.30_1	Veracruz	MEX.30.64_1	Filomeno Mata
+MEX.30.65_130 068	30	Veracruz	30 068	Fortín	MEX.30_1	Veracruz	MEX.30.65_1	Fortín
+MEX.30.66_130 069	30	Veracruz	30 069	Gutiérrez Zamora	MEX.30_1	Veracruz	MEX.30.66_1	Gutiérrez Zamora
+MEX.30.67_130 070	30	Veracruz	30 070	Hidalgotitlán	MEX.30_1	Veracruz	MEX.30.67_1	Hidalgotitlán
+MEX.30.68_130 071	30	Veracruz	30 071	Huatusco	MEX.30_1	Veracruz	MEX.30.68_1	Huatusco
+MEX.30.69_130 072	30	Veracruz	30 072	Huayacocotla	MEX.30_1	Veracruz	MEX.30.69_1	Huayacocotla
+MEX.30.70_130 073	30	Veracruz	30 073	Hueyapan de Ocampo	MEX.30_1	Veracruz	MEX.30.70_1	Hueyapan de Ocampo
+MEX.30.71_130 074	30	Veracruz	30 074	Huiloapan de Cuauhtémoc	MEX.30_1	Veracruz	MEX.30.71_1	Huiloapan de Cuauhtémoc
+MEX.30.72_130 075	30	Veracruz	30 075	Ignacio de la Llave	MEX.30_1	Veracruz	MEX.30.72_1	Ignacio de la Llave
+MEX.30.73_130 076	30	Veracruz	30 076	Ilamatlán	MEX.30_1	Veracruz	MEX.30.73_1	Ilamatlán
+MEX.30.74_130 077	30	Veracruz	30 077	Isla	MEX.30_1	Veracruz	MEX.30.74_1	Isla
+MEX.30.75_130 078	30	Veracruz	30 078	Ixcatepec	MEX.30_1	Veracruz	MEX.30.75_1	Ixcatepec
+MEX.30.76_130 079	30	Veracruz	30 079	Ixhuacán de los Reyes	MEX.30_1	Veracruz	MEX.30.76_1	Ixhuacán de los Reyes
+MEX.30.78_130 080	30	Veracruz	30 080	Ixhuatlán del Café	MEX.30_1	Veracruz	MEX.30.78_1	Ixhuatlán del Café
+MEX.30.80_130 081	30	Veracruz	30 081	Ixhuatlancillo	MEX.30_1	Veracruz	MEX.30.80_1	Ixhuatlancillo
+MEX.30.79_130 082	30	Veracruz	30 082	Ixhuatlán del Sureste	MEX.30_1	Veracruz	MEX.30.79_1	Ixhuatlán del Sureste
+MEX.30.77_130 083	30	Veracruz	30 083	Ixhuatlán de Madero	MEX.30_1	Veracruz	MEX.30.77_1	Ixhuatlán de Madero
+MEX.30.81_130 084	30	Veracruz	30 084	Ixmatlahuacan	MEX.30_1	Veracruz	MEX.30.81_1	Ixmatlahuacan
+MEX.30.82_130 085	30	Veracruz	30 085	Ixtaczoquitlán	MEX.30_1	Veracruz	MEX.30.82_1	Ixtaczoquitlán
+MEX.30.83_130 086	30	Veracruz	30 086	Jalacingo	MEX.30_1	Veracruz	MEX.30.83_1	Jalancingo
+MEX.30.193_130 087	30	Veracruz	30 087	Xalapa	MEX.30_1	Veracruz	MEX.30.193_1	Xalapa
+MEX.30.84_130 088	30	Veracruz	30 088	Jalcomulco	MEX.30_1	Veracruz	MEX.30.84_1	Jalcomulco
+MEX.30.85_130 089	30	Veracruz	30 089	Jáltipan	MEX.30_1	Veracruz	MEX.30.85_1	Jáltipan
+MEX.30.86_130 090	30	Veracruz	30 090	Jamapa	MEX.30_1	Veracruz	MEX.30.86_1	Jamapa
+MEX.30.87_130 091	30	Veracruz	30 091	Jesús Carranza	MEX.30_1	Veracruz	MEX.30.87_1	Jesús Carranza
+MEX.30.194_130 092	30	Veracruz	30 092	Xico	MEX.30_1	Veracruz	MEX.30.194_1	Xico
+MEX.30.88_130 093	30	Veracruz	30 093	Jilotepec	MEX.30_1	Veracruz	MEX.30.88_1	Jilotepec
+MEX.30.90_130 094	30	Veracruz	30 094	Juan Rodríguez Clara	MEX.30_1	Veracruz	MEX.30.90_1	Juan Rodríguez Clara
+MEX.30.91_130 095	30	Veracruz	30 095	Juchique de Ferrer	MEX.30_1	Veracruz	MEX.30.91_1	Juchique de Ferrer
+MEX.30.94_130 096	30	Veracruz	30 096	Landero y Coss	MEX.30_1	Veracruz	MEX.30.94_1	Landero y Coss
+MEX.30.98_130 097	30	Veracruz	30 097	Lerdo de Tejada	MEX.30_1	Veracruz	MEX.30.98_1	Lerdo de Tejada
+MEX.30.100_130 098	30	Veracruz	30 098	Magdalena	MEX.30_1	Veracruz	MEX.30.100_1	Magdalena
+MEX.30.101_130 099	30	Veracruz	30 099	Maltrata	MEX.30_1	Veracruz	MEX.30.101_1	Maltrata
+MEX.30.102_130 100	30	Veracruz	30 100	Manlio Fabio Altamirano	MEX.30_1	Veracruz	MEX.30.102_1	Manlio Fabio Altamirano
+MEX.30.103_130 101	30	Veracruz	30 101	Mariano Escobedo	MEX.30_1	Veracruz	MEX.30.103_1	Mariano Escobedo
+MEX.30.104_130 102	30	Veracruz	30 102	Martínez de la Torre	MEX.30_1	Veracruz	MEX.30.104_1	Martínez de la Torre
+MEX.30.105_130 103	30	Veracruz	30 103	Mecatlán	MEX.30_1	Veracruz	MEX.30.105_1	Mecatlán
+MEX.30.106_130 104	30	Veracruz	30 104	Mecayapan	MEX.30_1	Veracruz	MEX.30.106_1	Mecayapan
+MEX.30.107_130 105	30	Veracruz	30 105	Medellín	MEX.30_1	Veracruz	MEX.30.107_1	Medellín
+MEX.30.108_130 106	30	Veracruz	30 106	Miahuatlán	MEX.30_1	Veracruz	MEX.30.108_1	Mihuatlán
+MEX.30.96_130 107	30	Veracruz	30 107	Las Minas	MEX.30_1	Veracruz	MEX.30.96_1	Las Minas
+MEX.30.109_130 108	30	Veracruz	30 108	Minatitlán	MEX.30_1	Veracruz	MEX.30.109_1	Minatitlán
+MEX.30.110_130 109	30	Veracruz	30 109	Misantla	MEX.30_1	Veracruz	MEX.30.110_1	Misantla
+MEX.30.111_130 110	30	Veracruz	30 110	Mixtla de Altamirano	MEX.30_1	Veracruz	MEX.30.111_1	Mixtla de Altamirano
+MEX.30.112_130 111	30	Veracruz	30 111	Moloacán	MEX.30_1	Veracruz	MEX.30.112_1	Moloacán
+MEX.30.113_130 112	30	Veracruz	30 112	Naolinco	MEX.30_1	Veracruz	MEX.30.113_1	Naolinco
+MEX.30.114_130 113	30	Veracruz	30 113	Naranjal	MEX.30_1	Veracruz	MEX.30.114_1	Naranjal
+MEX.30.115_130 114	30	Veracruz	30 114	Nautla	MEX.30_1	Veracruz	MEX.30.115_1	Nautla
+MEX.30.116_130 115	30	Veracruz	30 115	Nogales	MEX.30_1	Veracruz	MEX.30.116_1	Nogales
+MEX.30.117_130 116	30	Veracruz	30 116	Oluta	MEX.30_1	Veracruz	MEX.30.117_1	Oluta
+MEX.30.118_130 117	30	Veracruz	30 117	Omealca	MEX.30_1	Veracruz	MEX.30.118_1	Omealca
+MEX.30.119_130 118	30	Veracruz	30 118	Orizaba	MEX.30_1	Veracruz	MEX.30.119_1	Orizaba
+MEX.30.120_130 119	30	Veracruz	30 119	Otatitlán	MEX.30_1	Veracruz	MEX.30.120_1	Otatitlán
+MEX.30.121_130 120	30	Veracruz	30 120	Oteapan	MEX.30_1	Veracruz	MEX.30.121_1	Oteapan
+MEX.30.122_130 121	30	Veracruz	30 121	Ozuluama de Mascareñas	MEX.30_1	Veracruz	MEX.30.122_1	Ozuluama
+MEX.30.123_130 122	30	Veracruz	30 122	Pajapan	MEX.30_1	Veracruz	MEX.30.123_1	Pajapan
+MEX.30.124_130 123	30	Veracruz	30 123	Pánuco	MEX.30_1	Veracruz	MEX.30.124_1	Pánuco
+MEX.30.125_130 124	30	Veracruz	30 124	Papantla	MEX.30_1	Veracruz	MEX.30.125_1	Papantla
+MEX.30.127_130 125	30	Veracruz	30 125	Paso del Macho	MEX.30_1	Veracruz	MEX.30.127_1	Paso del Macho
+MEX.30.126_130 126	30	Veracruz	30 126	Paso de Ovejas	MEX.30_1	Veracruz	MEX.30.126_1	Paso de Ovejas
+MEX.30.93_130 127	30	Veracruz	30 127	La Perla	MEX.30_1	Veracruz	MEX.30.93_1	La Perla
+MEX.30.128_130 128	30	Veracruz	30 128	Perote	MEX.30_1	Veracruz	MEX.30.128_1	Perote
+MEX.30.129_130 129	30	Veracruz	30 129	Platón Sánchez	MEX.30_1	Veracruz	MEX.30.129_1	Platón Sánchez
+MEX.30.130_130 130	30	Veracruz	30 130	Playa Vicente	MEX.30_1	Veracruz	MEX.30.130_1	Playa Vicente
+MEX.30.131_130 131	30	Veracruz	30 131	Poza Rica de Hidalgo	MEX.30_1	Veracruz	MEX.30.131_1	Poza Rica de Hidalgo
+MEX.30.97_130 132	30	Veracruz	30 132	Las Vigas de Ramírez	MEX.30_1	Veracruz	MEX.30.97_1	Las Vigas de Ramírez
+MEX.30.133_130 133	30	Veracruz	30 133	Pueblo Viejo	MEX.30_1	Veracruz	MEX.30.133_1	Pueblo Viejo
+MEX.30.134_130 134	30	Veracruz	30 134	Puente Nacional	MEX.30_1	Veracruz	MEX.30.134_1	Puente Nacional
+MEX.30.135_130 135	30	Veracruz	30 135	Rafael Delgado	MEX.30_1	Veracruz	MEX.30.135_1	Rafael Delgado
+MEX.30.136_130 136	30	Veracruz	30 136	Rafael Lucio	MEX.30_1	Veracruz	MEX.30.136_1	Rafael Lucio
+MEX.30.99_130 137	30	Veracruz	30 137	Los Reyes	MEX.30_1	Veracruz	MEX.30.99_1	Los Reyes
+MEX.30.137_130 138	30	Veracruz	30 138	Río Blanco	MEX.30_1	Veracruz	MEX.30.137_1	Río Blanco
+MEX.30.138_130 139	30	Veracruz	30 139	Saltabarranca	MEX.30_1	Veracruz	MEX.30.138_1	Saltabarranca
+MEX.30.139_130 140	30	Veracruz	30 140	San Andrés Tenejapan	MEX.30_1	Veracruz	MEX.30.139_1	San Andrés Tenejapan
+MEX.30.140_130 141	30	Veracruz	30 141	San Andrés Tuxtla	MEX.30_1	Veracruz	MEX.30.140_1	San Andrés Tuxtla
+MEX.30.141_130 142	30	Veracruz	30 142	San Juan Evangelista	MEX.30_1	Veracruz	MEX.30.141_1	San Juan Evangelista
+MEX.30.142_130 143	30	Veracruz	30 143	Santiago Tuxtla	MEX.30_1	Veracruz	MEX.30.142_1	Santiago Tuxtla
+MEX.30.143_130 144	30	Veracruz	30 144	Sayula de Alemán	MEX.30_1	Veracruz	MEX.30.143_1	Sayula de Alemán
+MEX.30.145_130 145	30	Veracruz	30 145	Soconusco	MEX.30_1	Veracruz	MEX.30.145_1	Soconusco
+MEX.30.144_130 146	30	Veracruz	30 146	Sochiapa	MEX.30_1	Veracruz	MEX.30.144_1	Sochiapa
+MEX.30.146_130 147	30	Veracruz	30 147	Soledad Atzompa	MEX.30_1	Veracruz	MEX.30.146_1	Soledad Atzompa
+MEX.30.147_130 148	30	Veracruz	30 148	Soledad de Doblado	MEX.30_1	Veracruz	MEX.30.147_1	Soledad de Doblado
+MEX.30.148_130 149	30	Veracruz	30 149	Soteapan	MEX.30_1	Veracruz	MEX.30.148_1	Soteapan
+MEX.30.149_130 150	30	Veracruz	30 150	Tamalín	MEX.30_1	Veracruz	MEX.30.149_1	Tamalín
+MEX.30.150_130 151	30	Veracruz	30 151	Tamiahua	MEX.30_1	Veracruz	MEX.30.150_1	Tamiahua
+MEX.30.151_130 152	30	Veracruz	30 152	Tampico Alto	MEX.30_1	Veracruz	MEX.30.151_1	Tampico Alto
+MEX.30.152_130 153	30	Veracruz	30 153	Tancoco	MEX.30_1	Veracruz	MEX.30.152_1	Tancoco
+MEX.30.153_130 154	30	Veracruz	30 154	Tantima	MEX.30_1	Veracruz	MEX.30.153_1	Tantima
+MEX.30.154_130 155	30	Veracruz	30 155	Tantoyuca	MEX.30_1	Veracruz	MEX.30.154_1	Tantoyuca
+MEX.30.155_130 156	30	Veracruz	30 156	Tatatila	MEX.30_1	Veracruz	MEX.30.155_1	Tatatila
+MEX.30.30_130 157	30	Veracruz	30 157	Castillo de Teayo	MEX.30_1	Veracruz	MEX.30.30_1	Castillo de Teayo
+MEX.30.156_130 158	30	Veracruz	30 158	Tecolutla	MEX.30_1	Veracruz	MEX.30.156_1	Tecolutla
+MEX.30.157_130 159	30	Veracruz	30 159	Tehuipango	MEX.30_1	Veracruz	MEX.30.157_1	Tehuipango
+MEX.30.158_130 160	30	Veracruz	30 160	Álamo Temapache	MEX.30_1	Veracruz	MEX.30.158_1	Temapache
+MEX.30.159_130 161	30	Veracruz	30 161	Tempoal	MEX.30_1	Veracruz	MEX.30.159_1	Tempoal
+MEX.30.160_130 162	30	Veracruz	30 162	Tenampa	MEX.30_1	Veracruz	MEX.30.160_1	Tenampa
+MEX.30.161_130 163	30	Veracruz	30 163	Tenochtitlán	MEX.30_1	Veracruz	MEX.30.161_1	Tenochtitlán
+MEX.30.162_130 164	30	Veracruz	30 164	Teocelo	MEX.30_1	Veracruz	MEX.30.162_1	Teocelo
+MEX.30.163_130 165	30	Veracruz	30 165	Tepatlaxco	MEX.30_1	Veracruz	MEX.30.163_1	Tepatlaxco
+MEX.30.164_130 166	30	Veracruz	30 166	Tepetlán	MEX.30_1	Veracruz	MEX.30.164_1	Tepetlán
+MEX.30.165_130 167	30	Veracruz	30 167	Tepetzintla	MEX.30_1	Veracruz	MEX.30.165_1	Tepetzintla
+MEX.30.166_130 168	30	Veracruz	30 168	Tequila	MEX.30_1	Veracruz	MEX.30.166_1	Tequila
+MEX.30.89_130 169	30	Veracruz	30 169	José Azueta	MEX.30_1	Veracruz	MEX.30.89_1	José Azueta
+MEX.30.167_130 170	30	Veracruz	30 170	Texcatepec	MEX.30_1	Veracruz	MEX.30.167_1	Texcatepec
+MEX.30.168_130 171	30	Veracruz	30 171	Texhuacán	MEX.30_1	Veracruz	MEX.30.168_1	Texhuacán
+MEX.30.169_130 172	30	Veracruz	30 172	Texistepec	MEX.30_1	Veracruz	MEX.30.169_1	Texistepec
+MEX.30.170_130 173	30	Veracruz	30 173	Tezonapa	MEX.30_1	Veracruz	MEX.30.170_1	Tezonapa
+MEX.30.171_130 174	30	Veracruz	30 174	Tierra Blanca	MEX.30_1	Veracruz	MEX.30.171_1	Tierra Blanca
+MEX.30.172_130 175	30	Veracruz	30 175	Tihuatlán	MEX.30_1	Veracruz	MEX.30.172_1	Tihuatlán
+MEX.30.177_130 176	30	Veracruz	30 176	Tlacojalpan	MEX.30_1	Veracruz	MEX.30.177_1	Tlajocalpan
+MEX.30.174_130 177	30	Veracruz	30 177	Tlacolulan	MEX.30_1	Veracruz	MEX.30.174_1	Tlacolulan
+MEX.30.175_130 178	30	Veracruz	30 178	Tlacotalpan	MEX.30_1	Veracruz	MEX.30.175_1	Tlacotalpan
+MEX.30.176_130 179	30	Veracruz	30 179	Tlacotepec de Mejía	MEX.30_1	Veracruz	MEX.30.176_1	Tlacotepec de Mejía
+MEX.30.173_130 180	30	Veracruz	30 180	Tlachichilco	MEX.30_1	Veracruz	MEX.30.173_1	Tlachichilco
+MEX.30.178_130 181	30	Veracruz	30 181	Tlalixcoyan	MEX.30_1	Veracruz	MEX.30.178_1	Tlalixcoyan
+MEX.30.179_130 182	30	Veracruz	30 182	Tlalnelhuayocan	MEX.30_1	Veracruz	MEX.30.179_1	Tlalnelhuayocan
+MEX.30.181_130 183	30	Veracruz	30 183	Tlapacoyan	MEX.30_1	Veracruz	MEX.30.181_1	Tlapacoyan
+MEX.30.182_130 184	30	Veracruz	30 184	Tlaquilpa	MEX.30_1	Veracruz	MEX.30.182_1	Tlaquilpan
+MEX.30.183_130 185	30	Veracruz	30 185	Tlilapan	MEX.30_1	Veracruz	MEX.30.183_1	Tlilapan
+MEX.30.184_130 186	30	Veracruz	30 186	Tomatlán	MEX.30_1	Veracruz	MEX.30.184_1	Tomatlán
+MEX.30.185_130 187	30	Veracruz	30 187	Tonayán	MEX.30_1	Veracruz	MEX.30.185_1	Tonayán
+MEX.30.186_130 188	30	Veracruz	30 188	Totutla	MEX.30_1	Veracruz	MEX.30.186_1	Totutla
+MEX.30.187_130 189	30	Veracruz	30 189	Tuxpan	MEX.30_1	Veracruz	MEX.30.187_1	Tuxpan
+MEX.30.188_130 190	30	Veracruz	30 190	Tuxtilla	MEX.30_1	Veracruz	MEX.30.188_1	Tuxtilla
+MEX.30.189_130 191	30	Veracruz	30 191	Ursulo Galván	MEX.30_1	Veracruz	MEX.30.189_1	Úrsulo Galván
+MEX.30.190_130 192	30	Veracruz	30 192	Vega de Alatorre	MEX.30_1	Veracruz	MEX.30.190_1	Vega de Alatorre
+MEX.30.191_130 193	30	Veracruz	30 193	Veracruz	MEX.30_1	Veracruz	MEX.30.191_1	Veracruz
+MEX.30.192_130 194	30	Veracruz	30 194	Villa Aldama	MEX.30_1	Veracruz	MEX.30.192_1	Villa Aldama
+MEX.30.195_130 195	30	Veracruz	30 195	Xoxocotla	MEX.30_1	Veracruz	MEX.30.195_1	Xoxocotla
+MEX.30.196_130 196	30	Veracruz	30 196	Yanga	MEX.30_1	Veracruz	MEX.30.196_1	Yanga
+MEX.30.197_130 197	30	Veracruz	30 197	Yecuatla	MEX.30_1	Veracruz	MEX.30.197_1	Yecuatla
+MEX.30.198_130 198	30	Veracruz	30 198	Zacualpan	MEX.30_1	Veracruz	MEX.30.198_1	Zacualpan
+MEX.30.199_130 199	30	Veracruz	30 199	Zaragoza	MEX.30_1	Veracruz	MEX.30.199_1	Zaragoza
+MEX.30.200_130 200	30	Veracruz	30 200	Zentla	MEX.30_1	Veracruz	MEX.30.200_1	Zentla
+MEX.30.201_130 201	30	Veracruz	30 201	Zongolica	MEX.30_1	Veracruz	MEX.30.201_1	Zongolica
+MEX.30.202_130 202	30	Veracruz	30 202	Zontecomatlán de López y Fuentes	MEX.30_1	Veracruz	MEX.30.202_1	Zontecomatlán
+MEX.30.203_130 203	30	Veracruz	30 203	Zozocolco de Hidalgo	MEX.30_1	Veracruz	MEX.30.203_1	Zozocolco de Hidalgo
+MEX.31.1_131 001	31	Yucatán	31 001	Abalá	MEX.31_1	Yucatán	MEX.31.1_1	Abalá
+MEX.31.2_131 002	31	Yucatán	31 002	Acanceh	MEX.31_1	Yucatán	MEX.31.2_1	Acanceh
+MEX.31.3_131 003	31	Yucatán	31 003	Akil	MEX.31_1	Yucatán	MEX.31.3_1	Akil
+MEX.31.4_131 004	31	Yucatán	31 004	Baca	MEX.31_1	Yucatán	MEX.31.4_1	Baca
+MEX.31.5_131 005	31	Yucatán	31 005	Bokobá	MEX.31_1	Yucatán	MEX.31.5_1	Bokobá
+MEX.31.6_131 006	31	Yucatán	31 006	Buctzotz	MEX.31_1	Yucatán	MEX.31.6_1	Buctzotz
+MEX.31.7_131 007	31	Yucatán	31 007	Cacalchén	MEX.31_1	Yucatán	MEX.31.7_1	Cacalchén
+MEX.31.8_131 008	31	Yucatán	31 008	Calotmul	MEX.31_1	Yucatán	MEX.31.8_1	Calotmul
+MEX.31.9_131 009	31	Yucatán	31 009	Cansahcab	MEX.31_1	Yucatán	MEX.31.9_1	Cansahcab
+MEX.31.10_131 010	31	Yucatán	31 010	Cantamayec	MEX.31_1	Yucatán	MEX.31.10_1	Cantamayec
+MEX.31.11_131 011	31	Yucatán	31 011	Celestún	MEX.31_1	Yucatán	MEX.31.11_1	Celestún
+MEX.31.12_131 012	31	Yucatán	31 012	Cenotillo	MEX.31_1	Yucatán	MEX.31.12_1	Cenotillo
+MEX.31.22_131 013	31	Yucatán	31 013	Conkal	MEX.31_1	Yucatán	MEX.31.22_1	Conkal
+MEX.31.23_131 014	31	Yucatán	31 014	Cuncunul	MEX.31_1	Yucatán	MEX.31.23_1	Cuncunul
+MEX.31.24_131 015	31	Yucatán	31 015	Cuzamá	MEX.31_1	Yucatán	MEX.31.24_1	Cuzamá
+MEX.31.13_131 016	31	Yucatán	31 016	Chacsinkín	MEX.31_1	Yucatán	MEX.31.13_1	Chacsinkín
+MEX.31.14_131 017	31	Yucatán	31 017	Chankom	MEX.31_1	Yucatán	MEX.31.14_1	Chankom
+MEX.31.15_131 018	31	Yucatán	31 018	Chapab	MEX.31_1	Yucatán	MEX.31.15_1	Chapab
+MEX.31.16_131 019	31	Yucatán	31 019	Chemax	MEX.31_1	Yucatán	MEX.31.16_1	Chemax
+MEX.31.18_131 020	31	Yucatán	31 020	Chicxulub Pueblo	MEX.31_1	Yucatán	MEX.31.18_1	Chicxulub Pueblo
+MEX.31.17_131 021	31	Yucatán	31 021	Chichimilá	MEX.31_1	Yucatán	MEX.31.17_1	Chichimilá
+MEX.31.19_131 022	31	Yucatán	31 022	Chikindzonot	MEX.31_1	Yucatán	MEX.31.19_1	Chikindzonot
+MEX.31.20_131 023	31	Yucatán	31 023	Chocholá	MEX.31_1	Yucatán	MEX.31.20_1	Chocholá
+MEX.31.21_131 024	31	Yucatán	31 024	Chumayel	MEX.31_1	Yucatán	MEX.31.21_1	Chumayel
+MEX.31.25_131 025	31	Yucatán	31 025	Dzán	MEX.31_1	Yucatán	MEX.31.25_1	Dzan
+MEX.31.26_131 026	31	Yucatán	31 026	Dzemul	MEX.31_1	Yucatán	MEX.31.26_1	Dzemul
+MEX.31.27_131 027	31	Yucatán	31 027	Dzidzantún	MEX.31_1	Yucatán	MEX.31.27_1	Dzidzantún
+MEX.31.28_131 028	31	Yucatán	31 028	Dzilam de Bravo	MEX.31_1	Yucatán	MEX.31.28_1	Dzilam de Bravo
+MEX.31.29_131 029	31	Yucatán	31 029	Dzilam González	MEX.31_1	Yucatán	MEX.31.29_1	Dzilam González
+MEX.31.30_131 030	31	Yucatán	31 030	Dzitás	MEX.31_1	Yucatán	MEX.31.30_1	Dzitás
+MEX.31.31_131 031	31	Yucatán	31 031	Dzoncauich	MEX.31_1	Yucatán	MEX.31.31_1	Dzoncauich
+MEX.31.32_131 032	31	Yucatán	31 032	Espita	MEX.31_1	Yucatán	MEX.31.32_1	Espita
+MEX.31.33_131 033	31	Yucatán	31 033	Halachó	MEX.31_1	Yucatán	MEX.31.33_1	Halachó
+MEX.31.34_131 034	31	Yucatán	31 034	Hocabá	MEX.31_1	Yucatán	MEX.31.34_1	Hocabá
+MEX.31.35_131 035	31	Yucatán	31 035	Hoctún	MEX.31_1	Yucatán	MEX.31.35_1	Hoctún
+MEX.31.36_131 036	31	Yucatán	31 036	Homún	MEX.31_1	Yucatán	MEX.31.36_1	Homún
+MEX.31.37_131 037	31	Yucatán	31 037	Huhí	MEX.31_1	Yucatán	MEX.31.37_1	Huhí
+MEX.31.38_131 038	31	Yucatán	31 038	Hunucmá	MEX.31_1	Yucatán	MEX.31.38_1	Hunucmá
+MEX.31.39_131 039	31	Yucatán	31 039	Ixil	MEX.31_1	Yucatán	MEX.31.39_1	Ixil
+MEX.31.40_131 040	31	Yucatán	31 040	Izamal	MEX.31_1	Yucatán	MEX.31.40_1	Izamal
+MEX.31.41_131 041	31	Yucatán	31 041	Kanasín	MEX.31_1	Yucatán	MEX.31.41_1	Kanasín
+MEX.31.42_131 042	31	Yucatán	31 042	Kantunil	MEX.31_1	Yucatán	MEX.31.42_1	Kantunil
+MEX.31.43_131 043	31	Yucatán	31 043	Kaua	MEX.31_1	Yucatán	MEX.31.43_1	Kaua
+MEX.31.44_131 044	31	Yucatán	31 044	Kinchil	MEX.31_1	Yucatán	MEX.31.44_1	Kinchil
+MEX.31.45_131 045	31	Yucatán	31 045	Kopomá	MEX.31_1	Yucatán	MEX.31.45_1	Kopomá
+MEX.31.46_131 046	31	Yucatán	31 046	Mama	MEX.31_1	Yucatán	MEX.31.46_1	Mama
+MEX.31.47_131 047	31	Yucatán	31 047	Maní	MEX.31_1	Yucatán	MEX.31.47_1	Maní
+MEX.31.48_131 048	31	Yucatán	31 048	Maxcanú	MEX.31_1	Yucatán	MEX.31.48_1	Maxcanú
+MEX.31.49_131 049	31	Yucatán	31 049	Mayapán	MEX.31_1	Yucatán	MEX.31.49_1	Mayapán
+MEX.31.50_131 050	31	Yucatán	31 050	Mérida	MEX.31_1	Yucatán	MEX.31.50_1	Mérida
+MEX.31.51_131 051	31	Yucatán	31 051	Mocochá	MEX.31_1	Yucatán	MEX.31.51_1	Mocochá
+MEX.31.52_131 052	31	Yucatán	31 052	Motul	MEX.31_1	Yucatán	MEX.31.52_1	Motul
+MEX.31.53_131 053	31	Yucatán	31 053	Muna	MEX.31_1	Yucatán	MEX.31.53_1	Muna
+MEX.31.54_131 054	31	Yucatán	31 054	Muxupip	MEX.31_1	Yucatán	MEX.31.54_1	Muxupip
+MEX.31.55_131 055	31	Yucatán	31 055	Opichén	MEX.31_1	Yucatán	MEX.31.55_1	Opichén
+MEX.31.56_131 056	31	Yucatán	31 056	Oxkutzcab	MEX.31_1	Yucatán	MEX.31.56_1	Oxkutzcab
+MEX.31.57_131 057	31	Yucatán	31 057	Panabá	MEX.31_1	Yucatán	MEX.31.57_1	Panabá
+MEX.31.58_131 058	31	Yucatán	31 058	Peto	MEX.31_1	Yucatán	MEX.31.58_1	Peto
+MEX.31.59_131 059	31	Yucatán	31 059	Progreso	MEX.31_1	Yucatán	MEX.31.59_1	Progreso
+MEX.31.60_131 060	31	Yucatán	31 060	Quintana Roo	MEX.31_1	Yucatán	MEX.31.60_1	Quintana Roo
+MEX.31.61_131 061	31	Yucatán	31 061	Río Lagartos	MEX.31_1	Yucatán	MEX.31.61_1	Río Lagartos
+MEX.31.62_131 062	31	Yucatán	31 062	Sacalum	MEX.31_1	Yucatán	MEX.31.62_1	Sacalum
+MEX.31.63_131 063	31	Yucatán	31 063	Samahil	MEX.31_1	Yucatán	MEX.31.63_1	Samahil
+MEX.31.65_131 064	31	Yucatán	31 064	Sanahcat	MEX.31_1	Yucatán	MEX.31.65_1	Sanahcat
+MEX.31.64_131 065	31	Yucatán	31 065	San Felipe	MEX.31_1	Yucatán	MEX.31.64_1	San Felipe
+MEX.31.66_131 066	31	Yucatán	31 066	Santa Elena	MEX.31_1	Yucatán	MEX.31.66_1	Santa Elena
+MEX.31.67_131 067	31	Yucatán	31 067	Seyé	MEX.31_1	Yucatán	MEX.31.67_1	Seyé
+MEX.31.68_131 068	31	Yucatán	31 068	Sinanché	MEX.31_1	Yucatán	MEX.31.68_1	Sinanché
+MEX.31.69_131 069	31	Yucatán	31 069	Sotuta	MEX.31_1	Yucatán	MEX.31.69_1	Sotuta
+MEX.31.70_131 070	31	Yucatán	31 070	Sucilá	MEX.31_1	Yucatán	MEX.31.70_1	Sucilá
+MEX.31.71_131 071	31	Yucatán	31 071	Sudzal	MEX.31_1	Yucatán	MEX.31.71_1	Sudzal
+MEX.31.72_131 072	31	Yucatán	31 072	Suma	MEX.31_1	Yucatán	MEX.31.72_1	Suma
+MEX.31.73_131 073	31	Yucatán	31 073	Tahdziú	MEX.31_1	Yucatán	MEX.31.73_1	Tahdziú
+MEX.31.74_131 074	31	Yucatán	31 074	Tahmek	MEX.31_1	Yucatán	MEX.31.74_1	Tahmek
+MEX.31.75_131 075	31	Yucatán	31 075	Teabo	MEX.31_1	Yucatán	MEX.31.75_1	Teabo
+MEX.31.76_131 076	31	Yucatán	31 076	Tecoh	MEX.31_1	Yucatán	MEX.31.76_1	Tecoh
+MEX.31.77_131 077	31	Yucatán	31 077	Tekal de Venegas	MEX.31_1	Yucatán	MEX.31.77_1	Tekal de Venegas
+MEX.31.78_131 078	31	Yucatán	31 078	Tekantó	MEX.31_1	Yucatán	MEX.31.78_1	Tekantó
+MEX.31.79_131 079	31	Yucatán	31 079	Tekax	MEX.31_1	Yucatán	MEX.31.79_1	Tekax
+MEX.31.80_131 080	31	Yucatán	31 080	Tekit	MEX.31_1	Yucatán	MEX.31.80_1	Tekit
+MEX.31.81_131 081	31	Yucatán	31 081	Tekom	MEX.31_1	Yucatán	MEX.31.81_1	Tekom
+MEX.31.82_131 082	31	Yucatán	31 082	Telchac Pueblo	MEX.31_1	Yucatán	MEX.31.82_1	Telchac Pueblo
+MEX.31.83_131 083	31	Yucatán	31 083	Telchac Puerto	MEX.31_1	Yucatán	MEX.31.83_1	Telchac Puerto
+MEX.31.84_131 084	31	Yucatán	31 084	Temax	MEX.31_1	Yucatán	MEX.31.84_1	Temax
+MEX.31.85_131 085	31	Yucatán	31 085	Temozón	MEX.31_1	Yucatán	MEX.31.85_1	Temozón
+MEX.31.86_131 086	31	Yucatán	31 086	Tepakán	MEX.31_1	Yucatán	MEX.31.86_1	Tepakán
+MEX.31.87_131 087	31	Yucatán	31 087	Tetiz	MEX.31_1	Yucatán	MEX.31.87_1	Tetiz
+MEX.31.88_131 088	31	Yucatán	31 088	Teya	MEX.31_1	Yucatán	MEX.31.88_1	Teya
+MEX.31.89_131 089	31	Yucatán	31 089	Ticul	MEX.31_1	Yucatán	MEX.31.89_1	Ticul
+MEX.31.90_131 090	31	Yucatán	31 090	Timucuy	MEX.31_1	Yucatán	MEX.31.90_1	Timucuy
+MEX.31.91_131 091	31	Yucatán	31 091	Tinum	MEX.31_1	Yucatán	MEX.31.91_1	Tinúm
+MEX.31.92_131 092	31	Yucatán	31 092	Tixcacalcupul	MEX.31_1	Yucatán	MEX.31.92_1	Tixcacalcupul
+MEX.31.93_131 093	31	Yucatán	31 093	Tixkokob	MEX.31_1	Yucatán	MEX.31.93_1	Tixkokob
+MEX.31.94_131 094	31	Yucatán	31 094	Tixmehuac	MEX.31_1	Yucatán	MEX.31.94_1	Tixméhuac
+MEX.31.95_131 095	31	Yucatán	31 095	Tixpéhual	MEX.31_1	Yucatán	MEX.31.95_1	Tixpéhual
+MEX.31.96_131 096	31	Yucatán	31 096	Tizimín	MEX.31_1	Yucatán	MEX.31.96_1	Tizimín
+MEX.31.97_131 097	31	Yucatán	31 097	Tunkás	MEX.31_1	Yucatán	MEX.31.97_1	Tunkás
+MEX.31.98_131 098	31	Yucatán	31 098	Tzucacab	MEX.31_1	Yucatán	MEX.31.98_1	Tzucacab
+MEX.31.99_131 099	31	Yucatán	31 099	Uayma	MEX.31_1	Yucatán	MEX.31.99_1	Uayma
+MEX.31.100_131 100	31	Yucatán	31 100	Ucú	MEX.31_1	Yucatán	MEX.31.100_1	Ucú
+MEX.31.101_131 101	31	Yucatán	31 101	Umán	MEX.31_1	Yucatán	MEX.31.101_1	Umán
+MEX.31.102_131 102	31	Yucatán	31 102	Valladolid	MEX.31_1	Yucatán	MEX.31.102_1	Valladolid
+MEX.31.103_131 103	31	Yucatán	31 103	Xocchel	MEX.31_1	Yucatán	MEX.31.103_1	Xocchel
+MEX.31.104_131 104	31	Yucatán	31 104	Yaxcabá	MEX.31_1	Yucatán	MEX.31.104_1	Yaxcabá
+MEX.31.105_131 105	31	Yucatán	31 105	Yaxkukul	MEX.31_1	Yucatán	MEX.31.105_1	Yaxkukul
+MEX.31.106_131 106	31	Yucatán	31 106	Yobaín	MEX.31_1	Yucatán	MEX.31.106_1	Yobaín
+MEX.32.1_132 001	32	Zacatecas	32 001	Apozol	MEX.32_1	Zacatecas	MEX.32.1_1	Apozol
+MEX.32.2_132 002	32	Zacatecas	32 002	Apulco	MEX.32_1	Zacatecas	MEX.32.2_1	Apulco
+MEX.32.3_132 003	32	Zacatecas	32 003	Atolinga	MEX.32_1	Zacatecas	MEX.32.3_1	Atolinga
+MEX.32.4_132 004	32	Zacatecas	32 004	Benito Juárez	MEX.32_1	Zacatecas	MEX.32.4_1	Benito Juárez
+MEX.32.5_132 005	32	Zacatecas	32 005	Calera	MEX.32_1	Zacatecas	MEX.32.5_1	Calera
+MEX.32.6_132 006	32	Zacatecas	32 006	Cañitas de Felipe Pescador	MEX.32_1	Zacatecas	MEX.32.6_1	Cañitas de Felipe Pescador
+MEX.32.8_132 007	32	Zacatecas	32 007	Concepción del Oro	MEX.32_1	Zacatecas	MEX.32.8_1	Concepción del Oro
+MEX.32.9_132 008	32	Zacatecas	32 008	Cuauhtémoc	MEX.32_1	Zacatecas	MEX.32.9_1	Cuauhtémoc
+MEX.32.7_132 009	32	Zacatecas	32 009	Chalchihuites	MEX.32_1	Zacatecas	MEX.32.7_1	Chalchihuites
+MEX.32.11_132 010	32	Zacatecas	32 010	Fresnillo	MEX.32_1	Zacatecas	MEX.32.11_1	Fresnillo
+MEX.32.48_132 011	32	Zacatecas	32 011	Trinidad García de la Cadena	MEX.32_1	Zacatecas	MEX.32.48_1	Trinidad García de la Cadena
+MEX.32.12_132 012	32	Zacatecas	32 012	Genaro Codina	MEX.32_1	Zacatecas	MEX.32.12_1	Genaro Codina
+MEX.32.13_132 013	32	Zacatecas	32 013	General Enrique Estrada	MEX.32_1	Zacatecas	MEX.32.13_1	General Enrique Estrada
+MEX.32.14_132 014	32	Zacatecas	32 014	General Francisco R. Murguía	MEX.32_1	Zacatecas	MEX.32.14_1	General Francisco R. Murguía
+MEX.32.16_132 016	32	Zacatecas	32 016	General Pánfilo Natera	MEX.32_1	Zacatecas	MEX.32.16_1	General Pánfilo Natera
+MEX.32.17_132 017	32	Zacatecas	32 017	Guadalupe	MEX.32_1	Zacatecas	MEX.32.17_1	Guadalupe
+MEX.32.18_132 018	32	Zacatecas	32 018	Huanusco	MEX.32_1	Zacatecas	MEX.32.18_1	Huanusco
+MEX.32.19_132 019	32	Zacatecas	32 019	Jalpa	MEX.32_1	Zacatecas	MEX.32.19_1	Jalpa
+MEX.32.20_132 020	32	Zacatecas	32 020	Jerez	MEX.32_1	Zacatecas	MEX.32.20_1	Jerez
+MEX.32.21_132 021	32	Zacatecas	32 021	Jiménez del Teul	MEX.32_1	Zacatecas	MEX.32.21_1	Jiménez del Teul
+MEX.32.22_132 022	32	Zacatecas	32 022	Juan Aldama	MEX.32_1	Zacatecas	MEX.32.22_1	Juan Aldama
+MEX.32.23_132 023	32	Zacatecas	32 023	Juchipila	MEX.32_1	Zacatecas	MEX.32.23_1	Juchipila
+MEX.32.24_132 024	32	Zacatecas	32 024	Loreto	MEX.32_1	Zacatecas	MEX.32.24_1	Loreto
+MEX.32.25_132 025	32	Zacatecas	32 025	Luis Moya	MEX.32_1	Zacatecas	MEX.32.25_1	Luis Moya
+MEX.32.26_132 026	32	Zacatecas	32 026	Mazapil	MEX.32_1	Zacatecas	MEX.32.26_1	Mazapil
+MEX.32.27_132 027	32	Zacatecas	32 027	Melchor Ocampo	MEX.32_1	Zacatecas	MEX.32.27_1	Melchor Ocampo
+MEX.32.28_132 028	32	Zacatecas	32 028	Mezquital del Oro	MEX.32_1	Zacatecas	MEX.32.28_1	Mezquital del Oro
+MEX.32.29_132 029	32	Zacatecas	32 029	Miguel Auza	MEX.32_1	Zacatecas	MEX.32.29_1	Miguel Auza
+MEX.32.30_132 030	32	Zacatecas	32 030	Momax	MEX.32_1	Zacatecas	MEX.32.30_1	Momax
+MEX.32.31_132 031	32	Zacatecas	32 031	Monte Escobedo	MEX.32_1	Zacatecas	MEX.32.31_1	Monte Escobedo
+MEX.32.32_132 032	32	Zacatecas	32 032	Morelos	MEX.32_1	Zacatecas	MEX.32.32_1	Morelos
+MEX.32.33_132 033	32	Zacatecas	32 033	Moyahua de Estrada	MEX.32_1	Zacatecas	MEX.32.33_1	Moyahua de Estrada
+MEX.32.34_132 034	32	Zacatecas	32 034	Nochistlán de Mejía	MEX.32_1	Zacatecas	MEX.32.34_1	Nochistlán de Mejía
+MEX.32.35_132 035	32	Zacatecas	32 035	Noria de Ángeles	MEX.32_1	Zacatecas	MEX.32.35_1	Noria de Angeles
+MEX.32.36_132 036	32	Zacatecas	32 036	Ojocaliente	MEX.32_1	Zacatecas	MEX.32.36_1	Ojocaliente
+MEX.32.37_132 037	32	Zacatecas	32 037	Pánuco	MEX.32_1	Zacatecas	MEX.32.37_1	Pánuco
+MEX.32.38_132 038	32	Zacatecas	32 038	Pinos	MEX.32_1	Zacatecas	MEX.32.38_1	Pinos
+MEX.32.39_132 039	32	Zacatecas	32 039	Río Grande	MEX.32_1	Zacatecas	MEX.32.39_1	Río Grande
+MEX.32.40_132 040	32	Zacatecas	32 040	Sain Alto	MEX.32_1	Zacatecas	MEX.32.40_1	Saín Alto
+MEX.32.10_132 041	32	Zacatecas	32 041	El Salvador	MEX.32_1	Zacatecas	MEX.32.10_1	El Salvador
+MEX.32.41_132 042	32	Zacatecas	32 042	Sombrerete	MEX.32_1	Zacatecas	MEX.32.41_1	Sombrerete
+MEX.32.42_132 043	32	Zacatecas	32 043	Susticacán	MEX.32_1	Zacatecas	MEX.32.42_1	Susticacán
+MEX.32.43_132 044	32	Zacatecas	32 044	Tabasco	MEX.32_1	Zacatecas	MEX.32.43_1	Tabasco
+MEX.32.44_132 045	32	Zacatecas	32 045	Tepechitlán	MEX.32_1	Zacatecas	MEX.32.44_1	Tepechitlán
+MEX.32.45_132 046	32	Zacatecas	32 046	Tepetongo	MEX.32_1	Zacatecas	MEX.32.45_1	Tepetongo
+MEX.32.46_132 047	32	Zacatecas	32 047	Teúl de González Ortega	MEX.32_1	Zacatecas	MEX.32.46_1	Teul de González Ortega
+MEX.32.47_132 048	32	Zacatecas	32 048	Tlaltenango de Sánchez Román	MEX.32_1	Zacatecas	MEX.32.47_1	Tlaltenango de Sánchez Román
+MEX.32.49_132 049	32	Zacatecas	32 049	Valparaíso	MEX.32_1	Zacatecas	MEX.32.49_1	Valparaíso
+MEX.32.50_132 050	32	Zacatecas	32 050	Vetagrande	MEX.32_1	Zacatecas	MEX.32.50_1	Vetagrande
+MEX.32.51_132 051	32	Zacatecas	32 051	Villa de Cos	MEX.32_1	Zacatecas	MEX.32.51_1	Villa de Cos
+MEX.32.52_132 052	32	Zacatecas	32 052	Villa García	MEX.32_1	Zacatecas	MEX.32.52_1	Villa García
+MEX.32.53_132 053	32	Zacatecas	32 053	Villa González Ortega	MEX.32_1	Zacatecas	MEX.32.53_1	Villa González Ortega
+MEX.32.54_132 054	32	Zacatecas	32 054	Villa Hidalgo	MEX.32_1	Zacatecas	MEX.32.54_1	Villa Hidalgo
+MEX.32.55_132 055	32	Zacatecas	32 055	Villanueva	MEX.32_1	Zacatecas	MEX.32.55_1	Villanueva
+MEX.32.56_132 056	32	Zacatecas	32 056	Zacatecas	MEX.32_1	Zacatecas	MEX.32.56_1	Zacatecas

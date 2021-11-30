@@ -1,0 +1,11 @@
+	(1)
+VARIABLES	lcom
+	
+inmovilidad	20.09***
+	(4.647)
+	
+Observations	341
+Number of entid_inegi	31
+R-squared	-0.127
+Standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	
